@@ -22,7 +22,7 @@
 - Architect [Score] [<a href="https://www.youtube.com/watch?v=P3RHf7foOj4&ab_channel=BianLee" target="_blank">Audio</a>] [<a href="https://www.youtube.com/watch?v=48-mFN2U7z0&ab_channel=BianLee" target="_blank">Video</a>]
 - Hemlock [Score] [<a href="https://www.youtube.com/watch?v=npQkSExThjM&ab_channel=BianLee" target="_blank">Audio</a>]
 - Handkerchief Pilgrimage [Score] [<a href="https://www.youtube.com/watch?v=SYn19jmQt5Q&ab_channel=BianLee" target="_blank">Audio</a>]
-- Lobster In November [Score] [<a href="https://www.youtube.com/watch?v=QN3W2AmGs8w&ab_channel=BianLee" target="_blank">Audio</a>] [<a href="https://www.youtube.com/watch?v=zA_INFJ1EUg&ab_channel=BianLee" target="_blank">Video</a>]
+- Lobster In November [<a href="/assets/lobster_in_november.pdf" target="_blank">Score</a>] [<a href="https://www.youtube.com/watch?v=QN3W2AmGs8w&ab_channel=BianLee" target="_blank">Audio</a>] [<a href="https://www.youtube.com/watch?v=zA_INFJ1EUg&ab_channel=BianLee" target="_blank">Video</a>]
 
 ## Production Discography
 
