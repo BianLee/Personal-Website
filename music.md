@@ -13,7 +13,7 @@
 
 ## Original Compositions
 
-- Bouquet [Score] [Audio] [<a href="https://www.youtube.com/watch?v=kDC-_s00ph4" target="_blank">Video</a>]
+- Bouquet [Score] [<a href="https://www.youtube.com/watch?v=aPqIYhZUp4M&ab_channel=BianLee" target="_blank">Audio</a>] [<a href="https://www.youtube.com/watch?v=kDC-_s00ph4" target="_blank">Video</a>]
 - Philosopher [Score] [<a href="https://www.youtube.com/watch?v=naxu1ypYGdM&ab_channel=BianLee" target="_blank">Audio</a>]
 - Theoretical Physicist [Score] <a href="https://www.youtube.com/watch?v=zcobX3fJXD4&ab_channel=BianLee" target="_blank">[Audio]</a>
 - Winning Is Everything [Score] [<a href="https://www.youtube.com/watch?v=7DI-XyZmPEo&ab_channel=BianLee" target="_blank">Audio</a>] [<a href="https://www.youtube.com/watch?v=72CBy5geItQ&ab_channel=BianLee" target="_blank">Video</a>]
