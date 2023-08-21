@@ -29,10 +29,12 @@ Currently, I'm building <a href="https://twitter.com/bostonlobster99/status/1692
   <br/> - Built organization website (<a href="https://interstem.us" target="_blank">interstem.us</a>) with Jekyll, Markdown, SCSS. Published 148 articles, w/ 200k+ views.
   <br/> - Remotely taught 3 students a prepatory curriculum to help attain CompTIA IT Fundamentals+ Certification.
 
+<!--
 ## Misc. Work Experience
 
 - <b>Part-Time Cashier</b> at local restaurant
 - <b>Part-Time Team Member</b> at Panera Bread
+-->
 
 ## Education
 

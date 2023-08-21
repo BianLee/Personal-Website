@@ -3,8 +3,8 @@
 
 ## Piano Repertoire
 
-- Arabesque No.1 by Claude Debussy [Video]
-- Bourrée in F Major by Georg Philipp Telemann [Video]
+- Arabesque No.1 by Claude Debussy [<a href="https://www.youtube.com/watch?v=klX6rMRBZgA&ab_channel=BostonLobster" target="_blank">Video</a>]
+- Bourrée in F Major by Georg Philipp Telemann [<a href="https://www.youtube.com/watch?v=0rdIbREJi2g&ab_channel=BostonLobster" target="_blank">Video</a>]
 - Waltz by Viktor Kosenko [Video]
 - Consolation op.30, no.3 by Felix Mendelssohn [Video]
 - Solitary Traveler op. 43, no. 2 by Edvard Grieg [Video]
