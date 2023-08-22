@@ -13,18 +13,26 @@
 
 ## Original Compositions
 
-- Bouquet [Score] [<a href="https://www.youtube.com/watch?v=aPqIYhZUp4M&ab_channel=BianLee" target="_blank">Audio</a>] [<a href="https://www.youtube.com/watch?v=kDC-_s00ph4" target="_blank">Video</a>]
-- Philosopher [Score] [<a href="https://www.youtube.com/watch?v=naxu1ypYGdM&ab_channel=BianLee" target="_blank">Audio</a>]
-- Theoretical Physicist [Score] <a href="https://www.youtube.com/watch?v=zcobX3fJXD4&ab_channel=BianLee" target="_blank">[Audio]</a>
-- Winning Is Everything [Score] [<a href="https://www.youtube.com/watch?v=7DI-XyZmPEo&ab_channel=BianLee" target="_blank">Audio</a>] [<a href="https://www.youtube.com/watch?v=72CBy5geItQ&ab_channel=BianLee" target="_blank">Video</a>]
-- New York's Finest Christmas Fruitcake [Score] [<a href="https://www.youtube.com/watch?v=FUMZDTx2zDk&ab_channel=BianLee" target="_blank">Audio</a>]
-- Winter In Ontario [Score] [<a href="https://www.youtube.com/watch?v=V3JkChJJdH8&ab_channel=BianLee" target="_blank">Audio</a>]
-- Architect [Score] [<a href="https://www.youtube.com/watch?v=P3RHf7foOj4&ab_channel=BianLee" target="_blank">Audio</a>] [<a href="https://www.youtube.com/watch?v=48-mFN2U7z0&ab_channel=BianLee" target="_blank">Video</a>]
-- Hemlock [Score] [<a href="https://www.youtube.com/watch?v=npQkSExThjM&ab_channel=BianLee" target="_blank">Audio</a>]
+- Bouquet [<a href="/assets/bouquet.pdf" target="_blank">Score</a>] [<a href="https://www.youtube.com/watch?v=aPqIYhZUp4M&ab_channel=BianLee" target="_blank">Audio</a>] [<a href="https://www.youtube.com/watch?v=kDC-_s00ph4" target="_blank">Video</a>]
+- Philosopher [<a href="/assets/philosopher.pdf" target="_blank">Score</a>] [<a href="https://www.youtube.com/watch?v=naxu1ypYGdM&ab_channel=BianLee" target="_blank">Audio</a>]
+- Theoretical Physicist [<a href="/assets/theoretical_physicist.pdf" target="_blank">Score</a>] <a href="https://www.youtube.com/watch?v=zcobX3fJXD4&ab_channel=BianLee" target="_blank">[Audio]</a>
+- Winning Is Everything [<a href="/assets/winning_is_everything.pdf" target="_blank">Score</a>] [<a href="https://www.youtube.com/watch?v=7DI-XyZmPEo&ab_channel=BianLee" target="_blank">Audio</a>] [<a href="https://www.youtube.com/watch?v=72CBy5geItQ&ab_channel=BianLee" target="_blank">Video</a>]
+- New York's Finest Christmas Fruitcake [<a href="/assets/new_yorks_finest_christmas_fruitcake.pdf" target="_blank">Score</a>] [<a href="https://www.youtube.com/watch?v=FUMZDTx2zDk&ab_channel=BianLee" target="_blank">Audio</a>]
+- Winter In Ontario [<a href="/assets/winter_in_ontario.pdf" target="_blank">Score</a>] [<a href="https://www.youtube.com/watch?v=V3JkChJJdH8&ab_channel=BianLee" target="_blank">Audio</a>]
+- Architect [<a href="/assets/architect.pdf" target="_blank">Score</a>] [<a href="https://www.youtube.com/watch?v=P3RHf7foOj4&ab_channel=BianLee" target="_blank">Audio</a>] [<a href="https://www.youtube.com/watch?v=48-mFN2U7z0&ab_channel=BianLee" target="_blank">Video</a>]
+- Hemlock [<a href="/assets/hemlock.pdf" target="_blank">Score</a>] [<a href="https://www.youtube.com/watch?v=npQkSExThjM&ab_channel=BianLee" target="_blank">Audio</a>]
 - Handkerchief Pilgrimage [<a href="/assets/handkerchief_pilgrimage.pdf" target="_blank">Score</a>] [<a href="https://www.youtube.com/watch?v=SYn19jmQt5Q&ab_channel=BianLee" target="_blank">Audio</a>]
 - Lobster In November [<a href="/assets/lobster_in_november.pdf" target="_blank">Score</a>] [<a href="https://www.youtube.com/watch?v=QN3W2AmGs8w&ab_channel=BianLee" target="_blank">Audio</a>] [<a href="https://www.youtube.com/watch?v=zA_INFJ1EUg&ab_channel=BianLee" target="_blank">Video</a>]
 
+## Music Videos
+
+- Washington [<a href="https://www.youtube.com/watch?v=vJB1MX6Ioyk&ab_channel=BianLee" target="_blank">Video</a>]
+- Florida [<a href="https://www.youtube.com/watch?v=8U6QMSYbaNQ&ab_channel=BianLee" target="_blank">Video</a>]
+- Perfect Summer [<a href="https://www.youtube.com/watch?v=ReYQfJl1I0U&ab_channel=BostonLobster" target="_blank">Video</a>]
+
 ## Production Discography
+
+Stream at <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=KmTQAT-ASdKAGmSUmwFvSw" target="_blank">Spotify</a> • <a href="https://music.apple.com/us/artist/bian-lee/1612288413" target="_blank">Apple Music</a> • <a href="https://soundcloud.com/bianlee" target="_blank">SoundCloud</a>
 
 - <b>nyc in rain</b> (Single, 2023)
   <br/> - nyc in rain [1:19]

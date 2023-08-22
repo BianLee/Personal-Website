@@ -1,7 +1,7 @@
 ---
 ---
 
-I am a third-year student at University of California, Davis, pursuing B.S. in Computer Science and Engineering (CSE) with a minor in Economics. I am passionate about software engineering, data analytics, cybersecurity, music composition/production and the world of Web3/DeFi and startups.
+I am a Junior at University of California, Davis, pursuing B.S. in Computer Science and Engineering (CSE) with a minor in Economics. I am passionate about software engineering, data analytics, cybersecurity, music composition/production and the world of Web3/DeFi.
 
 I'm originally from Seoul, South Korea where I lived for 12 years before moving to Ottawa, Canada (middle school) then to Irvine, California (high school). I'm now in Davis/Sacramento area for college.
 
@@ -84,3 +84,10 @@ Currently, I'm building <a href="https://twitter.com/bostonlobster99/status/1692
 - CyberPatriot National Semifinalist
 - CompTIA IT Fundamentals+ Certification
 - AP Scholar with Distinction
+
+## Skills
+
+- <b>Languages</b>: Java, Python, C, C++, Go, JavaScript, Solidity, Shell Script, x86 Assembly
+- <b>Development</b>: ReactJS, NextJS, NodeJS, ExpressJS, MongoDB, HTML, CSS, TailwindCSS, Drupal, Git, SQL, Postman, Ansible, Docker
+- <b>Analysis</b>: Jupyter Notebook, KNIME, Excel
+- Native Fluency in English and Korean
