@@ -26,10 +26,7 @@ nav-links:
   - name: Travel
     url: /travel
     external: false
-  - name: Gallery
-    url: /gallery
-    external: false
-  - name: Resume [PDF]
+  - name: Resume
     url: /resume.pdf
     external: false
 
