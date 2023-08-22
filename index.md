@@ -1,11 +1,9 @@
 ---
 ---
 
-I am a Junior at University of California, Davis, pursuing B.S. in Computer Science and Engineering (CSE) with a minor in Economics. I am passionate about software engineering, data analytics, cybersecurity, music composition/production and the world of Web3/DeFi.
+I am a Junior undergraduate student at University of California, Davis, pursuing B.S. in Computer Science and Engineering (CSE) with a minor in Economics. My interests range from software engineering, data analytics, startups, music composition/production and the world of Web3/DeFi. I'm originally from Seoul, South Korea where I lived for 12 years before moving to Ottawa, Canada (middle school) then again to Irvine, California (high school). I'm now in Davis/Sacramento area for college.
 
-I'm originally from Seoul, South Korea where I lived for 12 years before moving to Ottawa, Canada (middle school) then to Irvine, California (high school). I'm now in Davis/Sacramento area for college.
-
-Currently, I'm building <a href="https://twitter.com/bostonlobster99/status/1692446325349237245" target="_blank">this project</a> for <a href="https://buildspace.so/" target="_blank">Buildspace S4</a>, and working on my next album.
+Currently, I'm building <a href="https://twitter.com/bostonlobster99/status/1692446325349237245" target="_blank">this project</a> for <a href="https://buildspace.so/" target="_blank">Buildspace S4</a>, and working on my next album. I'm also looking for a SWE internship opportunity. Please contact me via email, at bianlee2004@gmail.com.
 
 ## Experience
 

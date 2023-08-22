@@ -22,10 +22,13 @@ nav-links:
     external: false
   - name: Music
     url: /music
-    external: true
+    external: false
   - name: Travel
     url: /travel
-    external: true
+    external: false
+  - name: Gallery
+    url: /gallery
+    external: false
   - name: Resume [PDF]
     url: /resume.pdf
     external: false
