@@ -23,8 +23,8 @@ nav-links:
   - name: Music
     url: /music
     external: false
-  - name: Travel
-    url: /travel
+  - name: Links
+    url: /links
     external: false
   - name: Resume
     url: /resume.pdf
