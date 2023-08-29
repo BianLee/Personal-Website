@@ -3,6 +3,7 @@ title: "Ethereum's Upcoming Shanghai Fork"
 date: "2023-01-08"
 description: " "
 layout: post
+tags: "finance"
 ---
 
 <i>This article was originally published in Vestr.io's Newsletter. Subscribe <a href="https://www.vestr.io/" target="_blank">here</a></i>

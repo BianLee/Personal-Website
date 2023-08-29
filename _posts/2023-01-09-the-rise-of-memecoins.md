@@ -3,6 +3,7 @@ title: "The Rise of Memecoins?"
 date: "2023-01-09"
 description: " "
 layout: post
+tags: "finance"
 ---
 
 <i>This article was originally published in Vestr.io's Newsletter. Subscribe <a href="https://www.vestr.io/" target="_blank">here</a></i>

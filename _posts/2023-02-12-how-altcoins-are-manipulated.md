@@ -3,6 +3,7 @@ title: "How Altcoins Are Manipulated By Trading Firms"
 date: "2023-02-12"
 description: " "
 layout: post
+tags: "finance"
 ---
 
 <i>This article was originally published in Vestr.io's Newsletter. Subscribe <a href="https://www.vestr.io/" target="_blank">here</a></i>

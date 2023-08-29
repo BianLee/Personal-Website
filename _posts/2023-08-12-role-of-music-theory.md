@@ -3,6 +3,7 @@ title: "The New Emerging Era of Music & The Role of Music Theory"
 date: "2023-08-12"
 description: " "
 layout: post
+tags: "music"
 ---
 
 <i>This article was originally published in my weekly music Substack Newsletter, Bian's Studio. Subscribe <a href="https://bianlee.substack.com/" target="_blank">here</a>.</i>

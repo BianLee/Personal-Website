@@ -3,6 +3,7 @@ title: Staking & Farming on Pancakeswap
 date: "2023-03-07"
 description: " "
 layout: post
+tags: "finance"
 ---
 
 <i>40% APR go brrrr. CAKE makes our world go round!</i>

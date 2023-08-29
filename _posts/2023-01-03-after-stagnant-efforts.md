@@ -3,6 +3,7 @@ title: "After Stagnant Efforts in Congress, The White House Gets Involved"
 date: "2023-01-30"
 layout: post
 description: " "
+tags: "finance"
 ---
 
 <i>This article was originally published in Vestr.io's Newsletter. Subscribe <a href="https://www.vestr.io/" target="_blank">here</a></i>

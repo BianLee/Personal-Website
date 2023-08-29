@@ -3,6 +3,7 @@ title: "The Evolution of Trap Music"
 date: "2023-08-15"
 description: " "
 layout: post
+tags: "music"
 ---
 
 <i>This article was originally published in my weekly music Substack Newsletter, Bian's Studio. Subscribe <a href="https://bianlee.substack.com/" target="_blank">here</a>.</i>

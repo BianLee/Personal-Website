@@ -3,6 +3,7 @@ title: "Binance’s Undesired Monopoly Over Its BNB Coin"
 date: "2023-01-01"
 description: " "
 layout: post
+tags: "finance"
 ---
 
 <i>This article was originally published in Vestr.io's Newsletter. Subscribe <a href="https://www.vestr.io/" target="_blank">here</a></i>

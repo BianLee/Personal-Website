@@ -3,6 +3,7 @@ title: "Best Tips For Crypto Staking"
 date: "2023-08-02"
 description: " "
 layout: post
+tags: "finance"
 ---
 
 <i>This article was originally published in Vestr.io. Read <a href="https://www.vestr.io/" target="_blank">here</a></i>
