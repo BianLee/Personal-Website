@@ -1,9 +1,11 @@
 ---
 ---
 
-I am a Junior undergraduate student at University of California, Davis, pursuing B.S. in Computer Science and Engineering (CSE) with a minor in Economics. My interests range from software engineering, data analytics, startups, music composition/production and the world of Web3/DeFi. I'm originally from Seoul, South Korea where I lived for 12 years before moving to Ottawa, Canada (middle school) then again to Irvine, California (high school). I'm now in Davis/Sacramento area for college.
+I am a Junior undergraduate student at University of California, Davis, pursuing B.S. in Computer Science and Engineering (CSE) with a minor in Economics. My interests range from software engineering, data analytics, startups/venture capital, equity research and the world of Web3/DeFi. I also <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=W__FkkEbQz-Wu1P7A69EFA" target="_blank">compose and produce music</a> on the side (Go stream my latest EP, <i>Searching For Brighter Sounds</i>!).
 
-Currently, I'm building <a href="https://twitter.com/bostonlobster99/status/1692446325349237245" target="_blank">this project</a> for <a href="https://buildspace.so/" target="_blank">Buildspace S4</a>, and working on my next album. I'm also looking for internship opportunities as SWE/PM/Analyst roles. Please contact me via email, at bianlee2004@gmail.com.
+I am originally from Seoul, South Korea where I lived for 12 years before moving to Ottawa, Canada (middle school) then again to Irvine, California (high school). I am now in Davis/Sacramento area for college. I have also visited <a href="/travel" target="_blank">16 US States</a> (UT is my favorite!).
+
+Currently, I'm building <a href="https://twitter.com/bostonlobster99/status/1692446325349237245" target="_blank">this project</a> for <a href="https://buildspace.so/" target="_blank">Buildspace S4</a>, and crafting my next album. I am also seeking internship opportunities as SWE/PM/Analyst roles. Please contact me via email, at bianlee2004@gmail.com.
 
 ## Experience
 
