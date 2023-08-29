@@ -22,7 +22,7 @@
         <p>
             <b>Data Analyst Intern</b> at <mark>California Air Resources Board</mark>
             <br/><span style="color: gray">Jun 2023 - Present • Riverside, California</span>
-            <br/> - Performed data assurance / quality control on historic datasets, identifying erroneous data and addressing them. Generated analytical reports on CSV datasets using Excel and SQL query statements. Presented findings to developers.
+            <br/> - Performed quality assurance / quality control on historic datasets, identifying erroneous data and addressing them. Generated analytical reports on CSV datasets using Excel and SQL query statements. Presented findings to developers.
             <br/> - Developed a calculator tool to compute emission reduction data for equipments.
             <br/> - Assisted organization webpage creation with Drupal CMS. Drafted 11 internal documentations on Community Air Protection (CAP) reporting processes and on executive orders in compliance with State regulations.
         </p>
