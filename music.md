@@ -1,7 +1,7 @@
 ---
 ---
 
-## Piano Repertoire
+### Piano Repertoire
 
 - Arabesque No.1 by Claude Debussy [<a href="https://www.youtube.com/watch?v=klX6rMRBZgA&ab_channel=BostonLobster" target="_blank">Video</a>]
 - Bourrée in F Major by Georg Philipp Telemann [<a href="https://www.youtube.com/watch?v=0rdIbREJi2g&ab_channel=BostonLobster" target="_blank">Video</a>]
@@ -11,7 +11,7 @@
 - Sonatina in B flat Major op. 168, no. 4 by Anton Diabelli [<a href="https://www.youtube.com/watch?v=8EtvbvRzL9E&ab_channel=BostonLobster" target="_blank">Video</a>]
 - Sonatina in C Major op.88, no. 1 by Friedrich Kuhlau [<a href="https://www.youtube.com/watch?v=qkKXUaOhxUI&ab_channel=BostonLobster" target="_blank">Video</a>]
 
-## Original Compositions
+### Original Compositions
 
 - Bouquet [<a href="/assets/bouquet.pdf" target="_blank">Score</a>] [<a href="https://www.youtube.com/watch?v=aPqIYhZUp4M&ab_channel=BianLee" target="_blank">Audio</a>] [<a href="https://www.youtube.com/watch?v=kDC-_s00ph4" target="_blank">Video</a>]
 - Philosopher [<a href="/assets/philosopher.pdf" target="_blank">Score</a>] [<a href="https://www.youtube.com/watch?v=naxu1ypYGdM&ab_channel=BianLee" target="_blank">Audio</a>]
@@ -24,7 +24,7 @@
 - Handkerchief Pilgrimage [<a href="/assets/handkerchief_pilgrimage.pdf" target="_blank">Score</a>] [<a href="https://www.youtube.com/watch?v=SYn19jmQt5Q&ab_channel=BianLee" target="_blank">Audio</a>]
 - Lobster In November [<a href="/assets/lobster_in_november.pdf" target="_blank">Score</a>] [<a href="https://www.youtube.com/watch?v=QN3W2AmGs8w&ab_channel=BianLee" target="_blank">Audio</a>] [<a href="https://www.youtube.com/watch?v=zA_INFJ1EUg&ab_channel=BianLee" target="_blank">Video</a>]
 
-## Music Videos
+### Music Videos
 
 - Washington [<a href="https://www.youtube.com/watch?v=vJB1MX6Ioyk&ab_channel=BianLee" target="_blank">Video</a>]
 - Florida [<a href="https://www.youtube.com/watch?v=8U6QMSYbaNQ&ab_channel=BianLee" target="_blank">Video</a>]

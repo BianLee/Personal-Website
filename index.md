@@ -1,14 +1,21 @@
 ---
 ---
 
-I am a Junior undergraduate student at University of California, Davis, pursuing B.S. in Computer Science and Engineering (CSE) with a minor in Economics. My interests range from software engineering, data analytics, startups/venture capital, equity research and the world of Web3/DeFi. I also <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=W__FkkEbQz-Wu1P7A69EFA" target="_blank">compose and produce music</a> on the side (Go stream my latest EP, <i>Searching For Brighter Sounds</i>!).
+<hr/>
+<div class="content-container">
+    <img src="/assets/new.jpg" alt="Bian Lee" class="pfp-image">
+    <div class="content-text">
+        <p>
+           I am a Junior undergraduate student at University of California, Davis, pursuing B.S. in Computer Science and Engineering (CSE) with a minor in Economics. My interests range from software engineering, data analytics, startups/venture capital, equity research and the world of Web3/DeFi. I also <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=W__FkkEbQz-Wu1P7A69EFA" target="_blank">compose and produce music</a> on the side (Go stream my latest EP, <i>Searching For Brighter Sounds</i>!).
 
-<!-- I am originally from Seoul, South Korea where I lived for 12 years before moving to Ottawa, Canada (middle school) then again to Irvine, California (high school). I am now in Davis/Sacramento area for college. I have also visited <a href="/travel" target="_blank">16 US States</a> (UT is my favorite!). -->
+                    <!--I am originally from Seoul, South Korea where I lived for 12 years before moving to Ottawa, Canada (middle school) then again to Irvine, California (high school). I am now in Davis/Sacramento area for college. I have also visited <a href="/travel" target="_blank">16 US States</a> (UT is my favorite!).  --> I am currently seeking internship opportunities as SWE/PM/Analyst roles. Please contact me via email, at bianlee2004@gmail.com.
 
-Currently, I'm building <a href="https://twitter.com/bostonlobster99/status/1692446325349237245" target="_blank">this project</a> for <a href="https://buildspace.so/" target="_blank">Buildspace S4</a>, and crafting my next album. I am also seeking internship opportunities as SWE/PM/Analyst roles. Please contact me via email, at bianlee2004@gmail.com.
+         </p>
+    </div>
 
-### <u>Experience</u>
-
+</div>
+### Experience
+<hr/>
 <div class="content-container">
     <img src="/assets/carb.jpeg" alt="California Air Resources Board" class="content-image">
     <div class="content-text">
@@ -75,7 +82,8 @@ Currently, I'm building <a href="https://twitter.com/bostonlobster99/status/1692
 -->
 
 <br/>
-### <u>Education & Relevant Coursework</u>
+### Education & Relevant Coursework
+<hr/>
 
 <div class="content-container">
     <img src="/assets/davis.png" alt="UC Davis" class="content-image">
@@ -137,25 +145,30 @@ Currently, I'm building <a href="https://twitter.com/bostonlobster99/status/1692
 </div>
 
 <br/>
-### <u>Technical Projects</u>
-
+### Technical Projects
+<hr/>
 - <b>DSM-5 Diagnostic Chatbot</b>: Used LLM to parse through DSM-5 with semantic search, with data stored as vector embeddings. Used OpenAI’s engines to create an interactive chatbot with diagnostic ability. Wrote Python scripts using Beautiful Soup, to scrap web data on Yelp. Stored this data on MongoDB Atlas, and implemented API endpoint using NodeJS. Used Jupyter Notebook + Matplotlib for analysis & visualizations. <a href="" target="_blank">[Demo]</a> <a href="https://github.com/ritvikir/hackdavis" target="_blank">[GitHub]</a>
 
 - <b>Decentralized Exchange Model & ERC-20 Token</b>: Wrote smart contracts in Solidity for custom ERC-20 token & tokenomics and decentralized exchange (DEX). Implemented Constant Product Market formula used in Automated Market Making (AMM) systems. Deployed on Ethereum blockchain mainnet and allowed users to trade token for ETH using Metamask wallet. <a href="https://github.com/BianLee/BianDEX-Mirror" target="_blank">[GitHub]</a>
 
-- <b>EdTech App (opensourcecollage.com)</b>: Developed an EdTech CRUD web application on MERN stack with Firebase authentication, hosted serverless. Launched on Product Hunt, and onboarded 18 non-profits. Received 22k+ total visitors. [GitHub]. Won monetary prize & mentorship from business consultant, Silicon Valley SVSCORE (Mentor: Chuck Scifers). <a href="" target="_blank">[Demo]</a> <a href="https://github.com/BianLee/opensourcecollage.com" target="_blank">[GitHub]</a>
+- <b>EdTech App (opensourcecollage.com)</b>: Developed an EdTech CRUD web application on MERN stack with Firebase authentication, hosted serverless. Launched on Product Hunt, and onboarded 18 non-profits. Received 22k+ total visitors. Won monetary prize & mentorship from business consultant, Silicon Valley SVSCORE (Mentor: Chuck Scifers). <a href="" target="_blank">[Demo]</a> <a href="https://github.com/BianLee/opensourcecollage.com" target="_blank">[GitHub]</a>
 
-- <b>EmpireWebSpace (empireweb.space)</b>: Founded a 7-person web development agency currently doing pro bono work for local non-profits. <a href="https://www.empireweb.space/" target="_blank">[Website]</a>
+- <b>Websites I built over the years</b>:
+  - <b>This portfolio site (bianlee.me)</b>: Used Jekyll and Markdown.
+  - <b>EmpireWebSpace (empireweb.space)</b>: Founded 7-member web agency currently doing pro bono work for local non-profits. Used NextJS + TailwindCSS for the site. <a href="https://www.empireweb.space/" target="_blank">[Website]</a>
+  - <b>InterSTEM 501(c)(3) (interstem.us)</b>: Built organization website with Jekyll, Markdown, and SCSS. Published 148 articles and received 200k+ views. Led a tech team of 6. <a href="https://interstem.us" target="_blank">[Website]</a>
+  - <b>Northwood Cybersecurity Club (nhscyber.club)</b>: Built website for high school cybersecurity club, using Bootstrap (HTML, CSS). <a href="https://interstem.us" target="_blank">[Website]</a>
 
-### <u>Awards & Certifications</u>
-
+<br/>
+### Awards & Certifications
+- UC Davis Dean's Honors List (College of Engineering)
 - UC Davis Little Bang! Pitch + Poster Competition Winner (Awarded $1K) <a href="https://innovate.ucdavis.edu/blog/borrow-blog" target="_blank">[Article]</a>
 - Socal Cyber Cup 3rd Place (Awarded $2.5K)
 - CyberPatriot National Semifinalist
 - CompTIA IT Fundamentals+ Certification
 - AP Scholar with Distinction
 
-### <u>Skills</u>
+### Skills
 
 - <b>Languages</b>: Java, Python, C, C++, Go, JavaScript, Solidity, Shell Script, x86 Assembly
 - <b>Development</b>: ReactJS, NextJS, NodeJS, ExpressJS, MongoDB, HTML, CSS, TailwindCSS, Drupal, Git, SQL, Postman, Ansible, Docker
