@@ -20,6 +20,20 @@
     <img src="/assets/carb.jpeg" alt="California Air Resources Board" class="content-image">
     <div class="content-text">
         <p>
+            <b>Data Analyst Intern</b> at <mark>California Air Resources Board</mark>
+            <br/><span style="color: gray">Jun 2023 - Present • Riverside, California</span>
+            <br/> - Performed data assurance / quality control on historic datasets, identifying erroneous data and addressing them. Generated analytical reports on CSV datasets using Excel and SQL query statements. Presented findings to developers.
+            <br/> - Developed a calculator tool to compute emission reduction data for equipments.
+            <br/> - Assisted organization webpage creation with Drupal CMS. Drafted 11 internal documentations on Community Air Protection (CAP) reporting processes and on executive orders in compliance with State regulations.
+        </p>
+    </div>
+</div>
+
+<!--
+<div class="content-container">
+    <img src="/assets/carb.jpeg" alt="California Air Resources Board" class="content-image">
+    <div class="content-text">
+        <p>
             <b>Data Analyst Intern</b> at California Air Resources Board
             <br/> - Performed data quality control and assisted database migration to .NET system.
             <br/> - Generated analytical reports on CSV datasets using Excel, SQL query commands, and Python scripting. Developed a calculator tool to compute emission reduction data for equipment, given load factor values and formulas.
@@ -27,13 +41,17 @@
         </p>
     </div>
 </div>
+-->
 
 <div class="content-container">
     <img src="/assets/vestr.jpeg" alt="Vestr.io" class="content-image">
     <div class="content-text">
         <p>
-            <b>Analyst Intern</b> at Vestr.io
-            <br/> - Performed equity research of US Stocks & and led analysis of DeFi & Web3 markets. Published weekly newsletters & daily market summaries on latest trends and news. <a href="/writing" target="_blank">See writings here</a>.
+            <b>Analyst Intern</b> at <mark>Vestr.io</mark>
+            <br/><span style="color: gray">Nov 2022 - Present • Clemson, South Carolina</span>
+            <br/> - Led equity research of US Stocks & and analysis of DeFi & Web3 markets. 
+            <br/> - Published weekly newsletters & daily market summaries on latest trends and news, specifically in the cryptocurrency sector. <a href="/writing" target="_blank">[Writings]</a>
+            <br/> - Worked closely with the founder, as the 4th employee at the seed-stage startup.
         </p>
     </div>
 </div>
@@ -42,9 +60,10 @@
     <img src="/assets/aggieworks.jpeg" alt="AggieWorks" class="content-image">
     <div class="content-text">
         <p>
-          <b>Software Engineer</b> at AggieWorks
+          <b>Software Engineer</b> at <mark>AggieWorks</mark>
+          <br/><span style="color: gray">Oct 2022 - Jun 2023 • Davis, California</span>
           <br/> - Collaboratively built clubly.org, a CRUD web app. Implemented backend API using GORM (hosted on Vultr VPS), then front-end modal components (cards, search bar, navs.) with conditional rendering using Svelte. <a href="https://github.com/AggieWorks/Clubly" target="_blank">[GitHub]</a>
-          <br/> - Developed an internal tool with Go scripts, to query number of API calls made at each endpoint.
+          <br/> - Wrote internal Go scripts, to query number of API calls made at each endpoint.
         </p>
     </div>
 </div>
@@ -53,7 +72,8 @@
     <img src="/assets/socal.png" alt="SoCal Community College Consortium on Cybersecurity" class="content-image">
     <div class="content-text">
         <p>
-          <b>Technical Mentor</b> at SoCal Community College Consortium on Cybersecurity
+          <b>Technical Mentor</b> at <mark>SoCal Community College Consortium on Cybersecurity</mark>
+            <br/><span style="color: gray">Oct 2021 - Mar 2022 • Irvine, California</span>
           <br/> - Worked with professors from Irvine Valley College’s Computer Information Management department to create prepatory CyberPatriot (national security competition) materials, and wrote CTF problems for org-wide contests.
           <br/> - Developed practice VM images for Ubuntu OS using Ansible and Shell Script.
         </p>
