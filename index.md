@@ -52,7 +52,7 @@
             <br/><span style="color: gray">Nov 2022 - Present • Clemson, South Carolina</span>
             <br/> - Led equity research of US Stocks & and analysis of DeFi & Web3 markets. 
             <br/> - Published weekly newsletters & daily market summaries on latest trends and news, specifically in the cryptocurrency sector. <a href="/writing" target="_blank">[Writings]</a>
-            <br/> - Worked closely with the founder, as the 4th employee at the seed-stage startup.
+            <br/> - Worked closely with the founder, as the 4th employee at the Series A startup.
         </p>
     </div>
 </div>
