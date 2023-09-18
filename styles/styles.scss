@@ -168,11 +168,20 @@ code {
 
 .content-container {
   display: flex;
-  align-items: center;
+  align-items: center; 
+}
+.content-container-album {
+  display: flex;
+  align-items: start;
+  margin-bottom: 1rem;
 }
 
 .content-text {
   flex: 1;
+  margin-left: 10px;
+}
+.content-text-album {
+  flex: top;
   margin-left: 10px;
 }
 
@@ -191,6 +200,11 @@ code {
     align-items: flex-start;
     margin-top: 1rem;
   }
+  .content-container-album {
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 1rem;
+  }
 
   .content-image {
     margin: 0 auto 10px;
@@ -200,6 +214,9 @@ code {
   }
 
   .content-text {
+    margin: 0;
+  }
+  .content-text-album {
     margin: 0;
   }
 }

@@ -34,47 +34,97 @@
 
 Stream at <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=KmTQAT-ASdKAGmSUmwFvSw" target="_blank">Spotify</a> • <a href="https://music.apple.com/us/artist/bian-lee/1612288413" target="_blank">Apple Music</a> • <a href="https://soundcloud.com/bianlee" target="_blank">SoundCloud</a>
 
-- <b>nyc in rain</b> (Single, 2023)
+
+
+  <div class="content-container-album">
+    <img src="/assets/nycinrain.png" alt="Vestr.io" class="content-image">
+    <div class="content-text-album">
+        <p>
+          <b>nyc in rain</b> (Single, 2023)
   <br/> - nyc in rain [1:19]
+        </p>
+    </div>
+  </div>
 
-- <b>Fireworks</b> (Single, 2023)
+  <div class="content-container-album">
+    <img src="/assets/fireworks.png" alt="Vestr.io" class="content-image">
+    <div class="content-text-album">
+        <p>
+         <b>Fireworks</b> (Single, 2023)
   <br/> - Fireworks [1:06]
+        </p>
+    </div>
+  </div>
 
-- <b>Searching For Brighter Sounds</b> (EP, 2023)
+  <div class="content-container-album">
+    <img src="/assets/searching.png" alt="Vestr.io" class="content-image">
+    <div class="content-text-album">
+        <p>
+          <b>Searching For Brighter Sounds</b> (EP, 2023)
   <br/> - City of Trees [1:56]
   <br/> - Picnic Day [1:20]
   <br/> - Capitol Corridor [1:09]
   <br/> - DOCO [1:08]
   <br/> - Midtown [1:06]
+        </p>
+    </div>
+  </div>
 
-- <b>Rust Belt, Dixieland & The Coastline</b> (Album, 2022)
-  <br/> - California [1:11]
-  <br/> - Illinois [1:35]
-  <br/> - Arkansas [1:58]
-  <br/> - Minnesota [1:46]
-  <br/> - Texas [2:17]
-  <br/> - Colorado [1:57]
-  <br/> - Missouri [1:30]
-  <br/> - New Hampshire [1:25]
-  <br/> - Oklahoma [1:28]
-  <br/> - Oregon [1:58]
 
-- <b>Graduation</b> (Single, 2022)
-  <br/> - nyc in rain [1:07]
 
-- <b>Commonwealth</b> (Album, 2022)
-  <br/> - Washington [1:02]
-  <br/> - Massachusetts [1:14]
-  <br/> - Nevada [1:23]
-  <br/> - New York [1:29]
-  <br/> - Ohio [1:04]
-  <br/> - Florida [1:30]
-  <br/> - Nebraska [1:10]
-  <br/> - Louisiana [1:50]
-  <br/> - Utah [1:23]
-  <br/> - Georgia [1:00]
-  <br/> - Rhode Island [0:53]
-  <br/> - Tennessee [1:06]
-  <br/> - Vermont [1:08]
-  <br/> - South Carolina [1:19]
-  <br/> - Maryland [1:11]
+  <div class="content-container-album">
+    <img src="/assets/rustbelt.png" alt="Vestr.io" class="content-image">
+    <div class="content-text-album">
+        <p>
+          <b>Rust Belt, Dixieland & The Coastline</b> (Album, 2022)
+      <br/> - California [1:11]
+      <br/> - Illinois [1:35]
+      <br/> - Arkansas [1:58]
+      <br/> - Minnesota [1:46]
+      <br/> - Texas [2:17]
+      <br/> - Colorado [1:57]
+      <br/> - Missouri [1:30]
+      <br/> - New Hampshire [1:25]
+      <br/> - Oklahoma [1:28]
+      <br/> - Oregon [1:58]
+        </p>
+    </div>
+  </div>
+
+
+
+  <div class="content-container-album">
+    <img src="/assets/graduation.png" alt="Vestr.io" class="content-image">
+    <div class="content-text-album">
+        <p>
+          <b>Graduation</b> (Single, 2022)
+      <br/> - Graduation [1:07]
+        </p>
+    </div>
+  </div>
+
+  <div class="content-container-album">
+    <img src="/assets/commonwealth.png" alt="Vestr.io" class="content-image">
+    <div class="content-text-album">
+        <p>
+           <b>Commonwealth</b> (Album, 2022)
+          <br/> - Washington [1:02]
+          <br/> - Massachusetts [1:14]
+          <br/> - Nevada [1:23]
+          <br/> - New York [1:29]
+          <br/> - Ohio [1:04]
+          <br/> - Florida [1:30]
+          <br/> - Nebraska [1:10]
+          <br/> - Louisiana [1:50]
+          <br/> - Utah [1:23]
+          <br/> - Georgia [1:00]
+          <br/> - Rhode Island [0:53]
+          <br/> - Tennessee [1:06]
+          <br/> - Vermont [1:08]
+          <br/> - South Carolina [1:19]
+          <br/> - Maryland [1:11]
+        </p>
+    </div>
+  </div>
+
+
