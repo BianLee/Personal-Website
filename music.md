@@ -35,6 +35,20 @@
 Stream at <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=KmTQAT-ASdKAGmSUmwFvSw" target="_blank">Spotify</a> • <a href="https://music.apple.com/us/artist/bian-lee/1612288413" target="_blank">Apple Music</a> • <a href="https://soundcloud.com/bianlee" target="_blank">SoundCloud</a>
 
 
+  <div class="content-container-album">
+    <img src="/assets/wurlitzer.png" alt="Vestr.io" class="content-image">
+    <div class="content-text-album">
+        <p>
+          <b>Wurlitzer</b> (EP, 2023)
+  <br/> - Pioneers [1:00]
+  <br/> - Heisenberg [1:00]
+  <br/> - Boston Common [1:24]
+  <br/> - Physics and New Mexico [1:15]
+  <br/> - Sentimental [1:01]
+  <br/> - Rudolph Wurlitzer [1:12]
+        </p>
+    </div>
+  </div>
 
   <div class="content-container-album">
     <img src="/assets/nycinrain.png" alt="Vestr.io" class="content-image">
