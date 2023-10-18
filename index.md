@@ -172,7 +172,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
     <div class="content-text">
         <p>
       <b>Northwood High School</b>: GPA: 3.9UW/4.2W
-      <br/> - Philharmonic Orchestra, Choir, Engineering Club (VP), Cybersecurity Club (VP), Musicians United for Service and Entertainment (Events Coordinator), Model UN (Treasurer), Startup Club (Treasurer).
+      <br/>Philharmonic Orchestra, Choir, Engineering Club (VP), Cybersecurity Club (VP), Musicians United for Service and Entertainment (Events Coordinator), Model UN (Treasurer), Startup Club (Treasurer).
         </p>
     </div>
 </div>
