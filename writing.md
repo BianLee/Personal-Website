@@ -1,7 +1,7 @@
 ---
 ---
 
-<h3>Finance</h3>
+<h3>Web3 & DeFi</h3>
 {% for post in site.posts %}
 {% if post.tags contains "finance" %}
 {% include posts-list-item.html %}

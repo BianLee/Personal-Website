@@ -163,9 +163,18 @@ create prepatory CyberPatriot (security competition) materials, as a national se
         <p>
       <b>Saddleback College</b>: Dual Enrollment '21. GPA: 4.0
       <br/> - PSYC 1: Introduction to Psychology
+        </p><br/><br/><br/>
+    </div>
+</div>
+
+<div class="content-container">
+    <img src="/assets/northwood.jpeg" alt="Saddleback College" class="content-image">
+    <div class="content-text">
+        <p>
+      <b>Northwood High School</b>: GPA: 3.9UW/4.2W
+      <br/> - Philharmonic Orchestra, Choir, Engineering Club (VP), Cybersecurity Club (VP), Musicians United for Service and Entertainment (Events Coordinator), Model UN (Treasurer), Startup Club (Treasurer).
         </p>
     </div>
-
 </div>
 
 <br/>
@@ -187,7 +196,8 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 
 <br/>
 ### Awards & Certifications
-
+<hr/>
+<div style="margin-top:1rem"></div>
 - UC Davis Dean's Honors List (College of Engineering)
 - UC Davis Little Bang! Pitch + Poster Competition Winner (Awarded $1K) <a href="https://innovate.ucdavis.edu/blog/borrow-blog" target="_blank">[Article]</a>
 - Socal Cyber Cup 3rd Place (Awarded $2.5K)
@@ -197,6 +207,8 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 
 ### Skills
 
+<hr/>
+<div style="margin-top:1rem"></div>
 - <b>Languages</b>: Java, C, C++, Python, JavaScript, Golang, Shell Script, Solidity, SQL, HTML, CSS
 - <b>Framework</b>: React.js, Next.js, Node.js, Express.js, Web3.js, D3.js, Git, MongoDB, TailwindCSS, Drupal, Jupyter
   Notebook, PostgreSQL, Svelte, BeautifulSoup, Postman, Pinecone, Langchain, .NET, Docker, KNIME, Excel
