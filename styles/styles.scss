@@ -7,6 +7,13 @@ $heading-font-stack: Georgia; // system-ui, Helvetica, Arial, sans-serif; // use
 $code-font-stack: Inconsolata, monospace; // fonts for inline code and code blocks
 $container-max-width: 1100px; //820
 
+@font-face {
+  font-family: "satoshi";
+  src: url("../Satoshi-Medium.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
 // reset
 * {
   margin: 0;
@@ -62,6 +69,8 @@ h1 {
 
 .global-title {
   font-family: "Cedarville Cursive", cursive;
+  //font-family: "satoshi";
+  //font-family: "Inter Tight", sans-serif;
 
   font-size: 3.2rem;
   color: #222;
@@ -135,11 +144,11 @@ img {
 }
 
 .posts-list-title {
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.3rem;
 }
 
 .posts-list-item:first-of-type {
-  margin-top: 1.25rem;
+  margin-top: 1.1rem;
 }
 
 .posts-list-item .title {
