@@ -51,8 +51,8 @@
         <p>
             <b>Analyst Intern</b> at <mark>Vestr</mark>
             <br/><span style="color: gray">Nov 2022 - Present • Clemson, South Carolina</span>
-            <br/> - Led sell-side stock equity research through DCF model, market sentiment & industry analysis.
-            <br/> - Published weekly company newsletters & daily market summaries in the Web3/DeFi/Crypto sector. <a href="/writing" target="_blank">[Writings]</a>
+            <br/> -  Led sell-side stock equity research through Discounted Cash Flow model, market sentiment & industry analysis.
+            <br/> -  Published weekly company newsletters & daily market summaries in the Web3/DeFi/Crypto sector. <!-- <a href="/writing" target="_blank">[Writings]</a> -->
             <br/> - Worked directly alongside Founder/CEO and the lead developer in this Seed → Series A startup.
         </p>
     </div>
