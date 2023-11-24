@@ -182,11 +182,11 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 <hr/>
 - <b>DSM-5 Diagnostic Chatbot</b>: Leveraged LLM to parse through DSM-5 with semantic search, storing data as vector embeddings in Pinecone database. Fine-tuned OpenAI’s GPT-3.5 turbo and used Next.js to create an interactive diagnostic chatbot. Wrote and executed Python scripts in Beautiful Soup to scrape web data of nearby physicians & clinics, storing them as key-value documents in MongoDB. Built NodeJS API and used Axios library to fetch & render on screen. <a href="https://github.com/ritvikir/hackdavis" target="_blank">[GitHub]</a>
 
-- <b>Decentralized Exchange & ERC-20 Token</b>: • Wrote smart contracts in Solidity to create a custom ERC-20 token & tokenomics and a decentralized exchange. Implemented Constant Product Market formula used in Automated Market Making (AMM) systems, and deployed on Ethereum blockchain (mainnet) to allow users to trade custom token for ETH using Metamask wallet. <a href="https://github.com/BianLee/Decentralized-Exchange-Model-ERC-20-Token" target="_blank">[GitHub]</a>
+- <b>Decentralized Exchange & ERC-20 Token</b>: Wrote smart contracts in Solidity to create a custom ERC-20 token & tokenomics and a decentralized exchange. Implemented Constant Product Market formula used in Automated Market Making (AMM) systems, and deployed on Ethereum blockchain (mainnet) to allow users to trade custom token for ETH using Metamask wallet. <a href="https://github.com/BianLee/Decentralized-Exchange-Model-ERC-20-Token" target="_blank">[GitHub]</a>
 
 - <b>D3.JS SVG-map</b>: An interactive map on the front-end that plots city coordinates upon user input, and renders a SVG map (with pan & zoom functionality) using D3.js library and svg-pan-zoom. <a href="https://github.com/BianLee/D3-SVG-Map" target="_blank">[GitHub]</a>
 
-- <b>EdTech App (opensourcecollage.com)</b>: • Independently developed an EdTech CRUD application on MERN stack with Firebase authentication.Launched on Product Hunt and onboarded 18 non-profits on the platform, receving 22k+ total visitors. Won monetary prize & mentorship from business consultant, Silicon Valley SVSCORE (Mentor: Chuck Scifers). <a href="https://opensourcecollage.com" target="_blank">[Web App]</a> <a href="https://github.com/BianLee/opensourcecollage.com" target="_blank">[GitHub]</a>
+- <b>EdTech App (opensourcecollage.com)</b>: Independently developed an EdTech CRUD application on MERN stack with Firebase authentication.Launched on Product Hunt and onboarded 18 non-profits on the platform, receving 22k+ total visitors. Won monetary prize & mentorship from business consultant, Silicon Valley SVSCORE (Mentor: Chuck Scifers). <a href="https://opensourcecollage.com" target="_blank">[Web App]</a> <a href="https://github.com/BianLee/opensourcecollage.com" target="_blank">[GitHub]</a>
 
 - <b>Websites I built over the years</b>:
   - <b>This portfolio site</b>: Used Jekyll, SCSS and Markdown. <a href="https://github.com/BianLee/Personal-Website" target="_blank">[GitHub]</a>
@@ -199,17 +199,17 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 <hr/>
 <div style="margin-top:1rem"></div>
 - UC Davis Dean's Honors List (College of Engineering)
-- UC Davis Little Bang! Pitch + Poster Competition Winner (Awarded $1K) <a href="https://innovate.ucdavis.edu/blog/borrow-blog" target="_blank">[Article]</a>
+- UC Davis Little Bang! Pitch + Poster Competition Winner at Graduate School of Management (Awarded $1K) <a href="https://innovate.ucdavis.edu/blog/borrow-blog" target="_blank">[Article]</a>
 - Socal Cyber Cup 3rd Place (Awarded $2.5K)
 - CyberPatriot National Semifinalist
 - CompTIA IT Fundamentals+ Certification
+- Jira Software Fundamentals Certification
 - AP Scholar with Distinction
 
 ### Skills
 
 <hr/>
 <div style="margin-top:1rem"></div>
-- <b>Languages</b>: Java, C, C++, Python, JavaScript, Golang, Shell Script, Solidity, SQL, HTML, CSS
-- <b>Framework</b>: React.js, Next.js, Node.js, Express.js, Web3.js, D3.js, Git, MongoDB, TailwindCSS, Drupal, Jupyter
-  Notebook, PostgreSQL, Svelte, BeautifulSoup, Postman, Pinecone, Langchain, .NET, Docker, KNIME, Excel
+- <b>Languages</b>: Python, Java, C, C++, JavaScript, TypeScript, Golang, Solidity, SQL, HTML, CSS
+- <b>Framework</b>: React.js, Next.js, Remix, Node.js, Express.js, Web3.js, D3.js, Git, GitHub, MongoDB, Tailwind, Drupal, Jupyter Notebook, PostgreSQL, Svelte, BeautifulSoup, Postman, Clerk, Supabase, Docker, Zustand, Linux, Microsoft Excel
 - Native Fluency in English and Korean
