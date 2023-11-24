@@ -22,10 +22,11 @@
         <p>
             <b>Data Analyst Intern</b> at <mark>California Air Resources Board</mark>
             <br/><span style="color: gray">Jun 2023 - Present • Sacramento, California</span>
-            <br/> - Performed QA/QC on datasets (10K+ rows), and assisted system migration to .NET infrastructure from PHP.
-            <br/> - Queried CSV data using SQL statements and generated analytical reports using Excel and Python scripts.
-            <br/> - Developed a calculator to compute emission reduction values for projects, reducing manual tasks by 90%.
-            <br/> - Updated 3 organization webpages with Drupal CMS and drafted 11 internal documentations on Community Air Protection (CAP) reporting processes, and on Executive Orders, in compliance with State regulations.
+            <br/> - Performed QC on datasets of 10K+ records, and assisted QA testing in the database management system interface.
+            <br/> - Queried and parsed CSV data using SQL and Python scripts and developed analytical reports using Excel.
+            <br/> - Developed a calculator to compute emission reduction for projects, reducing manual input and calculations by 90%.
+            <br/> - Analyzed datasets of past funding amounts to forecast and propose values for the upcoming funding cycle
+            <br/> - Updated 3 organization webpages with Drupal CMS and drafted 11 internal documentations on Community Air Protection (CAP) reporting processes, and on Executive Orders in compliance with State regulations.
         </p>
     </div>
 </div>
