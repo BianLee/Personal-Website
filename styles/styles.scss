@@ -9,7 +9,7 @@ $container-max-width: 1100px; //820
 
 @font-face {
   font-family: "satoshi";
-  src: url("../Satoshi-Medium.otf") format("opentype");
+  src: url("../Satoshi-Light.otf") format("opentype");
   font-weight: normal;
   font-style: normal;
 }
@@ -68,7 +68,8 @@ h1 {
 }
 
 .global-title {
-  font-family: "courier", serif;
+  font-family: "courier";
+  font-weight: normal;
   // font-family: "Cedarville Cursive", cursive;
   //font-family: "satoshi";
   //font-family: "Inter Tight", sans-serif;

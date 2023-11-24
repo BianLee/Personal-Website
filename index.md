@@ -3,7 +3,7 @@
 
 <hr/>
 <div class="content-container">
-    <img src="/assets/new.jpg" alt="Bian Lee" class="pfp-image">
+    <img src="/assets/pfp_bian.jpeg" alt="Bian Lee" class="pfp-image">
     <div class="content-text">
         <p style="font-size: 1.25rem">
            I am an undergraduate student at University of California, Davis, pursuing B.S. in Computer Science and Engineering (CSE) with a minor in Economics. My interests range from software engineering, data analytics, startups/venture capital, cybersecurity and the world of Web3/DeFi. I also <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=W__FkkEbQz-Wu1P7A69EFA" target="_blank">compose and produce music</a> on the side. I am currently seeking internship opportunities as SWE/PM/Analyst roles. Please contact me via email, at bianlee2004@gmail.com.
@@ -16,6 +16,22 @@
 <!-- -->
 ### Experience
 <hr/>
+<div class="content-container">
+<!--
+    <img src="/assets/optimizing.jpeg" alt="Optimizing.com" class="content-image optimizing">
+    <div class="content-text">
+        <p>
+            <b>Software Engineer Intern</b> at <mark>Optimizing.com</mark>
+            <br/><span style="color: gray">Jun 2023 - Present • Austin, Texas</span>
+            <br/> - Collaborated on the development of CRM for business clients with Stripe and Roger contract integrations.
+            <br/> - Implemented front-end UI with Tailwind with LoaderFunctions and managed global state using Zustand.
+            <br/> - Built nested routes in Remix in TypeScript and refactored reusable components to reduce redundancy by 20%
+            <br/> - Designed relational (one-to-many) database schemas for customers & checkouts in Prisma and implemented API endpoints with ActionFunctions to listen to HTTP requests and interact with Supabase
+            <br/> - Thoroughly followed Agile methodologies in 2-week sprints using development/staging/production environments
+        </p>
+    </div>
+ -->
+</div>
 <div class="content-container">
     <img src="/assets/carb.jpeg" alt="California Air Resources Board" class="content-image">
     <div class="content-text">
@@ -134,7 +150,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
       <br/> - CIM 161: Systems and Network Administrator (Linux)
       <br/> - CIM 110: Information and Technology Essentials
       <br/> - CIM 115: Databases
-      <br/> - ENTR 200: Pathway to Success (Entrepreneurship)
+      <br/> - ENTR 200: Entrepreneurship
       <br/> - BIO 1: The Life Sciences
       <br/> - BIO 3: Humans and the Biological World
       <br/> - ASTR 20: General Astronomy
