@@ -64,10 +64,9 @@
         <p>
           <b>Software Engineer</b> at <mark>AggieWorks</mark>
           <br/><span style="color: gray">Oct 2022 - Jun 2023 • Davis, California</span>
-          <br/> - Engineered a CRUD web application end-to-end, as the founding engineer within the Clubly team.
-          <br/> - Implemented backend infrastructure, database schema and API using GORM with CRUD functionality.
-          <br/> - Implemented front-end modal UI with conditional rendering using ReactJS (legacy) then Svelte.
-          <br/> - Wrote internal scripts in Golang, to query number of API calls made at each REST endpoint.
+          <br/> - Spearheaded backend and REST API development using GORM and PostgreSQL with CRUD functionalities.
+          <br/> - Implemented front-end UI components (modal, cards, navbar, search) with conditional rendering using Svelte.
+          <br/> - Wrote internal scripts in Golang, to track and query number of API calls made at each REST endpoint.
         </p>
     </div>
 </div>
