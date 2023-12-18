@@ -1,6 +1,13 @@
 ---
 ---
 
+  <div class="content-container-album-spot">
+    <img src="/assets/spot.png" alt="Spotify Wrapped 2023" class="content-image-spot">
+    <img src="/assets/spot22.JPG" alt="Spotify Wrapped 2022" class="content-image-spot">
+  </div>
+  <i>2023 & 2022 Spotify Wrapped. A big thank you to all my fans!</i>
+
+
 ### Piano Repertoire
 
 - Arabesque No.1 by Claude Debussy [<a href="https://www.youtube.com/watch?v=klX6rMRBZgA&ab_channel=BostonLobster" target="_blank">Video</a>]
@@ -35,8 +42,19 @@
 Stream at <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=KmTQAT-ASdKAGmSUmwFvSw" target="_blank">Spotify</a> • <a href="https://music.apple.com/us/artist/bian-lee/1612288413" target="_blank">Apple Music</a> • <a href="https://soundcloud.com/bianlee" target="_blank">SoundCloud</a>
 
 
+
   <div class="content-container-album">
-    <img src="/assets/wurlitzer.png" alt="Vestr.io" class="content-image">
+    <img src="/assets/youandme.png" alt="you&me" class="content-image">
+    <div class="content-text-album">
+        <p>
+          <b>you&me</b> (Single, 2023)
+  <br/> - you&me [1:30]
+        </p>
+    </div>
+  </div>
+
+  <div class="content-container-album">
+    <img src="/assets/wurlitzer.png" alt="Wurlitzer" class="content-image">
     <div class="content-text-album">
         <p>
           <b>Wurlitzer</b> (EP, 2023)
@@ -51,7 +69,7 @@ Stream at <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=KmT
   </div>
 
   <div class="content-container-album">
-    <img src="/assets/nycinrain.png" alt="Vestr.io" class="content-image">
+    <img src="/assets/nycinrain.png" alt="nyc in rain" class="content-image">
     <div class="content-text-album">
         <p>
           <b>nyc in rain</b> (Single, 2023)
@@ -61,7 +79,7 @@ Stream at <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=KmT
   </div>
 
   <div class="content-container-album">
-    <img src="/assets/fireworks.png" alt="Vestr.io" class="content-image">
+    <img src="/assets/fireworks.png" alt="Fireworks" class="content-image">
     <div class="content-text-album">
         <p>
          <b>Fireworks</b> (Single, 2023)
@@ -71,7 +89,7 @@ Stream at <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=KmT
   </div>
 
   <div class="content-container-album">
-    <img src="/assets/searching.png" alt="Vestr.io" class="content-image">
+    <img src="/assets/searching.png" alt="Searching For Brighter Sounds" class="content-image">
     <div class="content-text-album">
         <p>
           <b>Searching For Brighter Sounds</b> (EP, 2023)
@@ -87,7 +105,7 @@ Stream at <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=KmT
 
 
   <div class="content-container-album">
-    <img src="/assets/rustbelt.png" alt="Vestr.io" class="content-image">
+    <img src="/assets/rustbelt.png" alt="Rust Belt, Dixieland & The Coastline" class="content-image">
     <div class="content-text-album">
         <p>
           <b>Rust Belt, Dixieland & The Coastline</b> (Album, 2022)
@@ -108,7 +126,7 @@ Stream at <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=KmT
 
 
   <div class="content-container-album">
-    <img src="/assets/graduation.png" alt="Vestr.io" class="content-image">
+    <img src="/assets/graduation.png" alt="Graduation" class="content-image">
     <div class="content-text-album">
         <p>
           <b>Graduation</b> (Single, 2022)
@@ -118,7 +136,7 @@ Stream at <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=KmT
   </div>
 
   <div class="content-container-album">
-    <img src="/assets/commonwealth.png" alt="Vestr.io" class="content-image">
+    <img src="/assets/commonwealth.png" alt="Commonwealth" class="content-image">
     <div class="content-text-album">
         <p>
            <b>Commonwealth</b> (Album, 2022)

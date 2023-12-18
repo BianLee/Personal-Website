@@ -254,6 +254,7 @@ GEM
     zeitwerk (2.6.11)
 
 PLATFORMS
+  ruby
   universal-darwin-22
   x64-mingw-ucrt
 
@@ -262,4 +263,4 @@ DEPENDENCIES
   webrick (~> 1.8)
 
 BUNDLED WITH
-   2.4.21
+   2.4.10

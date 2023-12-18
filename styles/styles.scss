@@ -206,6 +206,11 @@ code {
   max-width: 150px;
   margin-right: 10px;
 }
+.content-image-spot {
+  max-width: 400px;
+  margin-right: 10px;
+}
+
 .pfp-image {
   margin-top: 20px;
   max-width: 200px;
@@ -225,6 +230,9 @@ code {
   }
 
   .content-image {
+    margin: 0 auto 10px;
+  }
+  .content-image-spot {
     margin: 0 auto 10px;
   }
   .pfp-image {
