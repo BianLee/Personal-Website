@@ -16,21 +16,25 @@
 <!-- -->
 ### Experience
 <hr/>
+
 <div class="content-container">
-<!--
+
     <img src="/assets/optimizing.jpeg" alt="Optimizing.com" class="content-image optimizing">
     <div class="content-text">
         <p>
             <b>Software Engineer Intern</b> at <mark>Optimizing.com</mark>
-            <br/><span style="color: gray">Jun 2023 - Present • Austin, Texas</span>
+            <br/><span style="color: gray">Nov 2023 - Present • Austin, Texas</span>
             <br/> - Collaborated on the development of CRM for business clients with Stripe and Roger contract integrations.
             <br/> - Implemented front-end UI with Tailwind with LoaderFunctions and managed global state using Zustand.
-            <br/> - Built nested routes in Remix in TypeScript and refactored reusable components to reduce redundancy by 20%
+            <br/> - Built nested routes in Remix in TypeScript and refactored reusable components to reduce redundancy.
+            <!--
+            <br/> - Built nested routes in Remix in TypeScript and refactored reusable components to reduce redundancy
             <br/> - Designed relational (one-to-many) database schemas for customers & checkouts in Prisma and implemented API endpoints with ActionFunctions to listen to HTTP requests and interact with Supabase
             <br/> - Thoroughly followed Agile methodologies in 2-week sprints using development/staging/production environments
+            -->
         </p>
     </div>
- -->
+
 </div>
 <div class="content-container">
     <img src="/assets/carb.jpeg" alt="California Air Resources Board" class="content-image">
