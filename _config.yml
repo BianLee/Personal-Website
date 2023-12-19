@@ -23,9 +23,6 @@ nav-links:
   - name: Music
     url: /music
     external: false
-  - name: Resume
-    url: /resume.pdf
-    external: false
 
 # for the homepage image + big text next to it
 greeting_image: /assets/me.jpg
