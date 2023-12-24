@@ -14,6 +14,11 @@ $container-max-width: 1100px; //820
   font-style: normal;
 }
 
+.youtube-video {
+  aspect-ratio: 16 / 9;
+  width: 70%;
+}
+
 // reset
 * {
   margin: 0;
@@ -245,6 +250,10 @@ code {
   .content-text-album {
     margin: 0;
   }
+  .youtube-video {
+    aspect-ratio: 16 / 9;
+    width: 100%;
+  }
 }
 
 mark {
@@ -254,3 +263,6 @@ mark {
 .optimizing {
   margin-top: 30px;
 }
+
+
+

@@ -7,6 +7,7 @@
   </div>
   <i>2023 & 2022 Spotify Wrapped. A big thank you to all my fans!</i>
 
+<iframe class="youtube-video" src="https://www.youtube.com/embed/klX6rMRBZgA?si=uITJszuVD53qb8x_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Piano Repertoire
 
@@ -40,8 +41,6 @@
 ### Production Discography
 
 Stream at <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=KmTQAT-ASdKAGmSUmwFvSw" target="_blank">Spotify</a> • <a href="https://music.apple.com/us/artist/bian-lee/1612288413" target="_blank">Apple Music</a> • <a href="https://soundcloud.com/bianlee" target="_blank">SoundCloud</a>
-
-
 
   <div class="content-container-album">
     <img src="/assets/youandme.png" alt="you&me" class="content-image">
@@ -102,8 +101,6 @@ Stream at <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=KmT
     </div>
   </div>
 
-
-
   <div class="content-container-album">
     <img src="/assets/rustbelt.png" alt="Rust Belt, Dixieland & The Coastline" class="content-image">
     <div class="content-text-album">
@@ -122,8 +119,6 @@ Stream at <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=KmT
         </p>
     </div>
   </div>
-
-
 
   <div class="content-container-album">
     <img src="/assets/graduation.png" alt="Graduation" class="content-image">
@@ -158,5 +153,3 @@ Stream at <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=KmT
         </p>
     </div>
   </div>
-
-
