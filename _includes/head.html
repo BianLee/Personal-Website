@@ -25,13 +25,15 @@
                             {% for link in site.nav-links %}
                             <li>
                                 {% if link.external == true %}
-                                <a href="{{ link.url }}">
+                                    <a href="{{ link.url }}" {% if link.name == 'Discord' %}target="_blank"{% endif %}>
                                 {% else %}
-                                <a href="{{ link.url | prepend:site.url }}">
+                                    <a href="{{ link.url | prepend:site.url }}" {% if link.name == 'Discord' %}target="_blank"{% endif %}>
                                 {% endif %}
                                     {{ link.name }}
                                 </a>
                             </li>
+                            
+                            
                             {% endfor %}
                         </ul>
                     </nav>
