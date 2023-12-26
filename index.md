@@ -2,7 +2,9 @@
 ---
 
 <div class="content-container">
-    <img src="/assets/pfp_bian.jpg" alt="Bian Lee" class="pfp-image">
+    <div class="image-container-pfp">
+        <img src="/assets/pfp_bian.jpg" alt="Bian Lee" class="pfp-image">
+    </div>
     <div class="content-text">
         <p style="font-size: 1.2rem">
           <b style="font-size: 1.5rem">Bian Lee</b>
@@ -197,7 +199,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
         <p>
       <b>Saddleback College</b>: Dual Enrollment '21. GPA: 4.0
       <br/> - PSYC 1: Introduction to Psychology
-        </p><br/><br/><br/>
+        </p>
     </div>
 </div>
 
@@ -253,3 +255,17 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 - <b>Languages</b>: Python, Java, C, C++, JavaScript, TypeScript, Golang, Solidity, SQL, HTML, CSS
 - <b>Framework</b>: React.js, Next.js, Remix, Node.js, Express.js, Web3.js, D3.js, Git, GitHub, MongoDB, Tailwind, Drupal, Jupyter Notebook, PostgreSQL, Svelte, BeautifulSoup, Postman, Clerk, Supabase, Docker, Zustand, Linux, Microsoft Excel
 - Native Fluency in English and Korean
+
+<br/>
+<footer>
+        <div class="social-icons">
+        <a href="https://linkedin.com/in/bianlee" target="_blank"><i class="fab fa-linkedin"></i></a>
+            <a href="https://www.instagram.com/bian.lee/" target="_blank"><i class="fab fa-instagram"></i></a>
+            <a href="https://github.com/BianLee" target="_blank"><i class="fab fa-github"></i></a>
+            <a href="https://discord.com/invite/hMUU5tzVWH" target="_blank"><i class="fab fa-discord"></i></a>
+            <a href="https://www.youtube.com/channel/UCKEiBX4OdZhM8JeUpIWt4mw" target="_blank"><i class="fab fa-youtube"></i></a>
+            <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=zhdRRE5RQk2m6AqD11qmyQ" target="_blank"><i class="fab fa-spotify"></i></a>
+            <a href="https://bianlee.bandcamp.com/" target="_blank"><i class="fab fa-bandcamp"></i></a>
+            <a href="https://www.deezer.com/us/artist/162218717/" target="_blank"><i class="fab fa-deezer"></i></a>
+        </div>
+    </footer>
