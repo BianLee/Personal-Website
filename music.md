@@ -44,6 +44,13 @@
     </div>
 </div>
 
+<p><b>Singles</b>: <i>you&me; nyc in rain; Fireworks; Graduation</i>
+<br/><b>EPs</b>: <i>Wurlitzer, Searching For Brighter Sounds</i>
+<br/><b>Albums</b>: <i>Rust Belt, Dixieland & The Coastline; Commonwealth</i></p>
+
+<hr/>
+<p>I am a life-long musician with a classical background in instrumental music, as well as recent experience in composition & production. Over the years I've been part of numerous orchestras, ensembles, and concours, with both piano and cello </p>
+
 <!--
   <div class="content-container-album-spot">
     <img src="/assets/spot.png" alt="Spotify Wrapped 2023" class="content-image-spot">
