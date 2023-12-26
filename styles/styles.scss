@@ -239,6 +239,7 @@ code {
   margin-top: 20px;
   max-width: 200px;
   margin-right: 15px;
+  border-radius: 50%;
 }
 
 @media (max-width: 768px) {
@@ -260,9 +261,11 @@ code {
     margin: 0 auto 10px;
     max-width: 100%;
   }
+  /*
   .pfp-image {
     margin: 0 auto 10px;
   }
+  */
 
   .content-text {
     margin: 0;

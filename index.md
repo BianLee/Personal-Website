@@ -8,7 +8,7 @@
     <div class="content-text">
         <p style="font-size: 1.2rem">
           <b style="font-size: 1.5rem">Bian Lee</b>
-           <br/>I am an undergraduate student at University of California, Davis, pursuing B.S. in Computer Science and Engineering with a minor in Economics. My interests range from software engineering, data analytics, startups/venture capital, cybersecurity and the world of Web3/DeFi. I also <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=W__FkkEbQz-Wu1P7A69EFA" target="_blank">compose and produce music</a> on the side. Please contact me via email, at bianlee2004@gmail.com.
+           <br/>I am an undergraduate student at University of California, Davis, pursuing B.S. in Computer Science and Engineering with a minor in Economics. My interests range from software engineering, data analytics, startups/venture capital, cybersecurity and the world of Web3/DeFi. I also <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=W__FkkEbQz-Wu1P7A69EFA" target="_blank">compose and produce music</a> on the side. Please reach me via email at bianlee2004@gmail.com.
 
                     <!--I am originally from Seoul, South Korea where I lived for 12 years before moving to Ottawa, Canada (middle school) then again to Irvine, California (high school). I am now in Davis/Sacramento area for college. I have also visited <a href="/travel" target="_blank">16 US States</a> (UT is my favorite!).  -->
          </p>
@@ -226,7 +226,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 - <b>D3.JS SVG-map</b> <a href="https://github.com/BianLee/D3-SVG-Map" target="_blank">[GitHub]</a><br/><span style="color: gray">Oct 2023 • Next.js, D3.js</span><br/> An interactive map on the front-end that plots city coordinates upon user input, and renders a SVG map (with pan & zoom functionality) using D3.js library and svg-pan-zoom.
 
 - <b>EdTech App (opensourcecollage.com)</b>
-  <a href="https://opensourcecollage.com" target="_blank">[Web App]</a> <a href="https://github.com/BianLee/opensourcecollage.com" target="_blank">[GitHub]</a><br/> <span style="color: gray">Jan 2022 • MongoDB, Express.js, React.js, Node.js (MERN), Firebase</span> <br/>Independently built a full-stack EdTech app that allows browsing & sharing extracurricular and volunteer opportunities. Onboarded 18 non-profits and received 22k+ total visitors on the platform, after launching on Product Hunt. Received monetary prize & mentorship from business consultant, Silicon Valley SVSCORE (Mentor: Chuck Scifers).
+  <a href="https://opensourcecollage.com" target="_blank">[Web App]</a> <a href="https://github.com/BianLee/opensourcecollage.com" target="_blank">[GitHub]</a><a href="https://www.producthunt.com/products/open-source-collage#open-source-collage" target="_blank">[Product Hunt]</a><br/> <span style="color: gray">Jan 2022 • MongoDB, Express.js, React.js, Node.js (MERN), Firebase</span> <br/>Independently built a full-stack EdTech app that allows browsing & sharing extracurricular and volunteer opportunities. Onboarded 18 non-profits and received 22k+ total visitors on the platform, after launching on Product Hunt. Received monetary prize & mentorship from business consultant, Silicon Valley SVSCORE (Mentor: Chuck Scifers).
 
 - <b>This portfolio site (bianlee.me)</b> <a href="https://github.com/BianLee/Personal-Website" target="_blank">[GitHub]</a><br/> <span style="color: gray">Jun 2023 • Jekyll, SCSS, Markdown</span>
 
