@@ -1,6 +1,50 @@
 ---
 ---
 
+<div class="grid-container">
+    <div class="grid-item">
+        <a href="https://open.spotify.com/track/7jJGt80cu0ZBN37Kt2YBPw?si=763c240a6a634939" target="_blank">
+            <img src="/assets/youandme.png" alt="Image 1" loading="lazy">
+        </a>
+    </div>
+    <div class="grid-item">
+        <a href="https://open.spotify.com/album/1Mp9fOFvgOWVYWs0NjTu6p?si=s9iC5mqNQBy4V4EERgqB6g" target="_blank">
+            <img src="/assets/wurlitzer.png" alt="Image 2" loading="lazy">
+        </a>
+    </div>
+    <div class="grid-item">
+        <a href="https://open.spotify.com/track/097wCgtN3yB068H8oTORFi?si=88f419a3057548ae" target="_blank">
+            <img src="/assets/nycinrain.png" alt="Image 3" loading="lazy">
+        </a>
+    </div>
+    <div class="grid-item">
+        <a href="https://open.spotify.com/track/0tXpYe4rvAVEpXRYAItCBh?si=4464decbf0f94757" target="_blank">
+            <img src="/assets/fireworks.png" alt="Image 4" loading="lazy">
+        </a>
+    </div>
+    <div class="grid-item">
+         <a href="https://open.spotify.com/album/5Ou1rzPP20j4WjVmwh7tNV?si=33VxR-mbRcy9p4-qnR_wnQ" target="_blank">
+            <img src="/assets/searching.png" alt="Image 5" loading="lazy">
+        </a>
+    </div>
+    <div class="grid-item">
+        <a href="https://open.spotify.com/album/1zFB9ZLvmQUbuzbcWMdgMv?si=QgkpcIvxRwanelF8iwYKLg" target="_blank">
+            <img src="/assets/rustbelt.png" alt="Image 6" loading="lazy">
+        </a>
+    </div>
+    <div class="grid-item">
+         <a href="https://open.spotify.com/album/6A3CI0zm1ZvRLf7r9cbJ0o?si=bDNkElO-TbmyrzrBziwRFQ" target="_blank">
+            <img src="/assets/graduation.png" alt="Image 7" loading="lazy">
+        </a>
+    </div>
+    <div class="grid-item">
+       <a href="https://open.spotify.com/album/6zFnlEXWLDrxIiTPzngVZO?si=G6CiM0vaS-qFAHaaeCFPYA" target="_blank">
+            <img src="/assets/commonwealth.png" alt="Image 8" loading="lazy">
+        </a>
+    </div>
+</div>
+
+<!--
   <div class="content-container-album-spot">
     <img src="/assets/spot.png" alt="Spotify Wrapped 2023" class="content-image-spot">
     <img src="/assets/spot22.JPG" alt="Spotify Wrapped 2022" class="content-image-spot">
@@ -169,3 +213,4 @@ Stream at <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=KmT
         </p>
     </div>
   </div>
+ -->
