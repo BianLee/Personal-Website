@@ -1,12 +1,12 @@
 ---
 ---
 
-<hr/>
 <div class="content-container">
     <img src="/assets/pfp_bian.jpeg" alt="Bian Lee" class="pfp-image">
     <div class="content-text">
         <p style="font-size: 1.2rem">
-           I am an undergraduate student at University of California, Davis, pursuing B.S. in Computer Science and Engineering (CSE) with a minor in Economics. My interests range from software engineering, data analytics, startups/venture capital, cybersecurity and the world of Web3/DeFi. I also <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=W__FkkEbQz-Wu1P7A69EFA" target="_blank">compose and produce music</a> on the side. I am currently seeking internship opportunities as SWE/PM/Analyst roles. Please contact me via email, at bianlee2004@gmail.com.
+          <b style="font-size: 1.5rem">Bian Lee</b>
+           <br/>I am an undergraduate student at University of California, Davis, pursuing B.S. in Computer Science and Engineering with a minor in Economics. My interests range from software engineering, data analytics, startups/venture capital, cybersecurity and the world of Web3/DeFi. I also <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=W__FkkEbQz-Wu1P7A69EFA" target="_blank">compose and produce music</a> on the side. Please contact me via email, at bianlee2004@gmail.com.
 
                     <!--I am originally from Seoul, South Korea where I lived for 12 years before moving to Ottawa, Canada (middle school) then again to Irvine, California (high school). I am now in Davis/Sacramento area for college. I have also visited <a href="/travel" target="_blank">16 US States</a> (UT is my favorite!).  -->
          </p>

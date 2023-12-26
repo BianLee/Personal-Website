@@ -46,6 +46,10 @@ body {
 // navigation
 nav {
   margin: 1rem 0 1rem;
+  position: fixed;
+  top: 0;
+  right: 0;
+  padding: 10px;
 }
 
 nav li {
@@ -53,6 +57,20 @@ nav li {
   display: inline-block;
   margin: 0;
 }
+
+/* styles.css */
+/* Mobile Styles */
+@media (max-width: 768px) {
+  nav {
+      position: absolute;
+      top: 0;
+      left: 0; /* Center horizontally on mobile */
+      width: 100%; /* Full width on mobile */
+      text-align: center; /* Center the links */
+      padding: 10px 0; /* Add top and bottom padding for spacing */
+  }
+}
+
 
 nav a {
   margin-right: 1rem;
