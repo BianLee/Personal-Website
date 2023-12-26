@@ -75,7 +75,7 @@
              <span style="font-size: 18px"><b>Analyst Intern</b> - <mark>Vestr</mark></span>
             <br/><span style="color: gray">Nov 2022 - Jun 2023 • Clemson, South Carolina</span>
             <br/> -  Led sell-side stock equity research through Discounted Cash Flow model and market sentiment/industry analysis
-            <br/> -  PEdited and published weekly company newsletter and delivered +73% subscriber count growth <!-- <a href="/writing" target="_blank">[Writings]</a> -->
+            <br/> -  Edited and published weekly company newsletter and delivered +73% subscriber count growth <!-- <a href="/writing" target="_blank">[Writings]</a> -->
             <br/> - Worked directly alongside Founder/CEO and the lead developer in this Seed → Series A B2C app startup
         </p>
     </div>
