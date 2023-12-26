@@ -24,16 +24,12 @@
         <p>
              <span style="font-size: 18px"><b>Software Engineer Intern</b> - <mark>Optimizing.com</mark></span>
             <br/><span style="color: gray">Nov 2023 - Present • Austin, Texas</span>
-            <br/> - Collaborated on the development of CRM for business clients with Stripe and Roger contract integrations.
-            <br/> - Implemented front-end UI with Tailwind with LoaderFunctions and managed global state using Zustand.
-            <br/> - Built nested routes in Remix in TypeScript and refactored reusable components to reduce redundancy.
-            <!--
-            <br/> - Built nested routes in Remix in TypeScript and refactored reusable components to reduce redundancy
-            <br/> - Designed relational (one-to-many) database schemas for customers & checkouts in Prisma and implemented API endpoints with ActionFunctions to listen to HTTP requests and interact with Supabase
-            <br/> - Thoroughly followed Agile methodologies in 2-week sprints using development/staging/production environments
-            -->
-        </p>
-    </div>
+            <br/> - Collaborated on the backend development of CRM for business clients with Stripe integrations for financing
+            <br/> - Reduced code redundancy by ∼20% through refactoring reusable components and employing nested routes in Remix
+            <br/> - Designed relational (one-to-many) schemas in Prisma for customers/checkouts and implemented API endpoints with Action and LoaderFunctions to listen to HTTP requests, allowing for CRUD operations
+
+</p>
+</div>
 
 </div>
 <div class="content-container">
@@ -42,11 +38,11 @@
         <p>
             <span style="font-size: 18px"><b>Data Analyst Intern</b> - <mark>California Air Resources Board</mark></span>
             <br/><span style="color: gray">Jun 2023 - Present • Sacramento, California</span>
-            <br/> - Performed QC on datasets of 10K+ records, and assisted QA testing in the database management system interface.
-            <br/> - Queried and parsed CSV data using SQL and Python scripts and developed analytical reports using Excel.
-            <br/> - Developed a calculator to compute emission reduction for projects, reducing manual input and calculations by 90%.
-            <br/> - Analyzed datasets of past funding amounts to forecast and propose values for the upcoming funding cycle
-            <br/> - Updated 3 organization webpages with Drupal CMS and drafted 11 internal documentations on Community Air Protection (CAP) reporting processes, and on Executive Orders in compliance with State regulations.
+            <br/> - Performed QC on 6 datasets of 10K+ records to complete annual report calculations for aggregate air pollution emissions
+            <br/> - Reduced manual data entry by ∼80% by streamlining an automated importing system from DB to front-end interface
+            <br/> - Queried and parsed CSV data using SQL and Python scripts and developed analytical reports using Excel
+            <br/> - Led QA testing on 4 features of database management interface and updated Azure tickets to report results/findings
+            <br/> - Updated 5 organization webpages with Drupal CMS and drafted 11 internal documentations on Community Air Protection (CAP) reporting processes, and on Executive Orders in compliance with State regulations
         </p>
     </div>
 </div>
@@ -66,27 +62,27 @@
 -->
 
 <div class="content-container">
-    <img src="/assets/vestr.jpeg" alt="Vestr.io" class="content-image">
+    <img src="/assets/vestr.jpg" alt="Vestr.io" class="content-image">
     <div class="content-text">
         <p>
              <span style="font-size: 18px"><b>Analyst Intern</b> - <mark>Vestr</mark></span>
             <br/><span style="color: gray">Nov 2022 - Present • Clemson, South Carolina</span>
-            <br/> -  Led sell-side stock equity research through Discounted Cash Flow model, market sentiment & industry analysis.
-            <br/> -  Published weekly company newsletters & daily market summaries in the Web3/DeFi/Crypto sector. <!-- <a href="/writing" target="_blank">[Writings]</a> -->
-            <br/> - Worked directly alongside Founder/CEO and the lead developer in this Seed → Series A startup.
+            <br/> -  Led sell-side stock equity research through Discounted Cash Flow model and market sentiment/industry analysis
+            <br/> -  PEdited and published weekly company newsletter and delivered +73% subscriber count growth <!-- <a href="/writing" target="_blank">[Writings]</a> -->
+            <br/> - Worked directly alongside Founder/CEO and the lead developer in this Seed → Series A B2C app startup
         </p>
     </div>
 </div>
 
 <div class="content-container">
-    <img src="/assets/aggieworksSecond.jpeg" alt="AggieWorks" class="content-image">
+    <img src="/assets/aggieworksSecond.jpg" alt="AggieWorks" class="content-image">
     <div class="content-text">
         <p>
         <span style="font-size: 18px"><b>Software Engineer</b> - <mark>AggieWorks</mark></span>
           <br/><span style="color: gray">Oct 2022 - Jun 2023 • Davis, California</span>
-          <br/> - Spearheaded backend and REST API development using GORM and PostgreSQL with CRUD functionalities.
+          <br/> - Established backend infrastructure of Clubly.org by designing schemas, writing queries in GORM, and building API routes
           <br/> - Implemented front-end UI components (modal, cards, navbar, search) with conditional rendering using Svelte.
-          <br/> - Wrote internal scripts in Golang, to track and query number of API calls made at each REST endpoint.
+          <br/> - Wrote internal scripts in Golang, to track and query number of API calls made at every REST API endpoint
         </p>
     </div>
 </div>
@@ -98,9 +94,9 @@
         <span style="font-size: 18px"><b>Technical Mentor</b> - <mark>SoCal Community College Consortium on Cybersecurity</mark></span>
             <br/><span style="color: gray">Oct 2021 - Mar 2022 • Irvine, California</span>
           <br/> - Collaborated with professors from Irvine Valley College’s Computer Information Management (CIM) department to
-create prepatory CyberPatriot (security competition) materials, as a national semifinalist in the previous season. 
-          <br/> - Wrote 15 CTF problems & solutions for org-wide contests, on topics of cryptography and Linux OS.
-          <br/> - Developed training VM images for Ubuntu OS using Ansible and Shell Script. 
+create prepatory CyberPatriot (security competition) materials, as a national semifinalist in the previous season 
+          <br/> - Wrote 15 CTF problems & solutions for org-wide contests, on topics of cryptography and Linux OS
+          <br/> - Developed training VM images for Ubuntu OS using Ansible and Shell Script
         </p>
     </div>
 </div>
@@ -141,6 +137,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
       <br/> - ECS20: Discrete Mathematics For Computer Science
       <br/> - MAT21C: Multivariable Calculus
       <br/> - MAT22A: Linear Algebra
+      <br/> - STA131A: Probability Theory
         </p>
     </div>
 </div>
@@ -188,7 +185,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 </div>
 
 <div class="content-container">
-    <img src="/assets/northwood.jpeg" alt="Saddleback College" class="content-image">
+    <img src="/assets/northwood.jpg" alt="Saddleback College" class="content-image">
     <div class="content-text">
         <p>
       <b>Northwood High School</b>: GPA: 3.9UW/4.2W
@@ -206,7 +203,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 
 - <b>D3.JS SVG-map</b>: An interactive map on the front-end that plots city coordinates upon user input, and renders a SVG map (with pan & zoom functionality) using D3.js library and svg-pan-zoom. <a href="https://github.com/BianLee/D3-SVG-Map" target="_blank">[GitHub]</a>
 
-- <b>EdTech App (opensourcecollage.com)</b>: Independently developed an EdTech CRUD application on MERN stack with Firebase authentication.Launched on Product Hunt and onboarded 18 non-profits on the platform, receving 22k+ total visitors. Won monetary prize & mentorship from business consultant, Silicon Valley SVSCORE (Mentor: Chuck Scifers). <a href="https://opensourcecollage.com" target="_blank">[Web App]</a> <a href="https://github.com/BianLee/opensourcecollage.com" target="_blank">[GitHub]</a>
+- <b>EdTech App (opensourcecollage.com)</b>: Independently developed an EdTech CRUD application on MERN stack with Firebase authentication. Launched on Product Hunt and onboarded 18 non-profits on the platform, receving 22k+ total visitors. Won monetary prize & mentorship from business consultant, Silicon Valley SVSCORE (Mentor: Chuck Scifers). <a href="https://opensourcecollage.com" target="_blank">[Web App]</a> <a href="https://github.com/BianLee/opensourcecollage.com" target="_blank">[GitHub]</a>
 
 - <b>Websites I built over the years</b>:
   - <b>This portfolio site</b>: Used Jekyll, SCSS and Markdown. <a href="https://github.com/BianLee/Personal-Website" target="_blank">[GitHub]</a>
