@@ -279,6 +279,14 @@ mark {
   background-color: #fff0d1;
 }
 
+.image-container {
+  width: 150px; /* Adjust the width as needed */
+  margin-right: 10px;
+  overflow: hidden; /* Hide any overflow content */
+  position: relative; /* Create a positioning context for child elements */
+}
+
+
 /* 
 .optimizing {
   margin-top: 30px;

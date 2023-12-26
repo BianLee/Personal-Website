@@ -2,7 +2,7 @@
 ---
 
 <div class="content-container">
-    <img src="/assets/pfp_bian.jpeg" alt="Bian Lee" class="pfp-image">
+    <img src="/assets/pfp_bian.jpg" alt="Bian Lee" class="pfp-image">
     <div class="content-text">
         <p style="font-size: 1.2rem">
           <b style="font-size: 1.5rem">Bian Lee</b>
@@ -18,8 +18,9 @@
 <hr/>
 
 <div class="content-container">
-
-    <img src="/assets/optimizing.jpeg" alt="Optimizing.com" class="content-image optimizing">
+    <div class="image-container">
+    <img src="/assets/optimizing.jpg" alt="Optimizing.com" class="content-image optimizing" loading="lazy">
+</div>
     <div class="content-text">
         <p>
              <span style="font-size: 18px"><b>Software Engineer Intern</b> - <mark>Optimizing.com</mark></span>
@@ -33,7 +34,9 @@
 
 </div>
 <div class="content-container">
-    <img src="/assets/carb.jpeg" alt="California Air Resources Board" class="content-image">
+    <div class="image-container">
+    <img src="/assets/carb.jpeg" alt="California Air Resources Board" class="content-image" loading="lazy">
+    </div>
     <div class="content-text">
         <p>
             <span style="font-size: 18px"><b>Data Analyst Intern</b> - <mark>California Air Resources Board</mark></span>
@@ -62,7 +65,9 @@
 -->
 
 <div class="content-container">
-    <img src="/assets/vestr.jpg" alt="Vestr.io" class="content-image">
+    <div class="image-container">
+    <img src="/assets/vestr.jpg" alt="Vestr.io" class="content-image" loading="lazy">
+    </div>
     <div class="content-text">
         <p>
              <span style="font-size: 18px"><b>Analyst Intern</b> - <mark>Vestr</mark></span>
@@ -75,7 +80,9 @@
 </div>
 
 <div class="content-container">
-    <img src="/assets/aggieworksSecond.jpg" alt="AggieWorks" class="content-image">
+<div class="image-container">
+    <img src="/assets/aggieworksSecond.jpg" alt="AggieWorks" class="content-image" loading="lazy">
+    </div>
     <div class="content-text">
         <p>
         <span style="font-size: 18px"><b>Software Engineer</b> - <mark>AggieWorks</mark></span>
@@ -88,7 +95,9 @@
 </div>
 
 <div class="content-container">
-    <img src="/assets/socal.png" alt="SoCal Community College Consortium on Cybersecurity" class="content-image">
+<div class="image-container">
+    <img src="/assets/socal.png" alt="SoCal Community College Consortium on Cybersecurity" class="content-image" loading="lazy">
+    </div>
     <div class="content-text">
         <p>
         <span style="font-size: 18px"><b>Technical Mentor</b> - <mark>SoCal Community College Consortium on Cybersecurity</mark></span>
@@ -127,7 +136,9 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 <hr/>
 
 <div class="content-container">
-    <img src="/assets/davis.png" alt="UC Davis" class="content-image">
+<div class="image-container">
+    <img src="/assets/davis.png" alt="UC Davis" class="content-image" loading="lazy">
+    </div>
     <div class="content-text">
         <p>
        <b>University of California, Davis</b>. B.S. Computer Science and Engineering '25
@@ -143,7 +154,9 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 </div>
 
 <div class="content-container">
-    <img src="/assets/ivc.png" alt="Irvine Valley College" class="content-image">
+<div class="image-container">
+    <img src="/assets/ivc.png" alt="Irvine Valley College" class="content-image" loading="lazy">
+    </div>
     <div class="content-text">
         <p>
        <b>Irvine Valley College</b>: Dual Enrollment '20-22. GPA: 4.0
@@ -160,7 +173,9 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 </div>
 
 <div class="content-container">
-    <img src="/assets/fullerton.png" alt="Fullerton College" class="content-image">
+<div class="image-container">
+    <img src="/assets/fullerton.png" alt="Fullerton College" class="content-image" loading="lazy">
+    </div>
     <div class="content-text">
         <p>
         <b>Fullerton College</b>: Dual Enrollment '20-22. GPA: 3.8
@@ -175,7 +190,9 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 </div>
 
 <div class="content-container">
-    <img src="/assets/saddleback.png" alt="Saddleback College" class="content-image">
+<div class="image-container">
+    <img src="/assets/saddleback.png" alt="Saddleback College" class="content-image" loading="lazy">
+    </div>
     <div class="content-text">
         <p>
       <b>Saddleback College</b>: Dual Enrollment '21. GPA: 4.0
@@ -185,7 +202,9 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 </div>
 
 <div class="content-container">
-    <img src="/assets/northwood.jpg" alt="Saddleback College" class="content-image">
+<div class="image-container">
+    <img src="/assets/northwood.jpg" alt="Saddleback College" class="content-image" loading="lazy">
+    </div>
     <div class="content-text">
         <p>
       <b>Northwood High School</b>: GPA: 3.9UW/4.2W
