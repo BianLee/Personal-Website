@@ -44,12 +44,17 @@
     </div>
 </div>
 
-<p><b>Singles</b>: <i>you&me; nyc in rain; Fireworks; Graduation</i>
-<br/><b>EPs</b>: <i>Wurlitzer, Searching For Brighter Sounds</i>
-<br/><b>Albums</b>: <i>Rust Belt, Dixieland & The Coastline; Commonwealth</i></p>
+<p><br/>As a classical-trained instrumentalist and a musician, I strive to write music that leaves lasting impact on its listeners. I grew up playing the piano and cello, and have been part of numerous orchestras, ensembles, and concours. I studied theory and began my compositional journey by first writing short piano pieces, then later making a transition to producing digitally on DAWs. I have since publicly released 2 albums, 2 EPs, and 4 singles, amassing over 30k+ streams and 15k+ listeners from major streaming platforms.
 
-<hr/>
-<p>I am a life-long musician with a classical background in instrumental music, as well as recent experience in composition & production. Over the years I've been part of numerous orchestras, ensembles, and concours, with both piano and cello </p>
+<br/><br/>In 2022, I was interviewed and featured in <a href="https://www.arkansasonline.com/news/2022/jul/10/opinion-paper-trails-california-teen-writes/" target="blank"><i><mark>The Arkansas Democrat-Gazette</mark></i></a> for my track <i>Arkansas</i> -- one of the 25 tracks that I put out in association with US States (sort of like the same project Sufjan Stevens began but never completed).
+
+<br/><br/>In 2023, I began a separate <a href="https://www.youtube.com/@realbostonlobster" target="_blank"><mark>YouTube channel</mark></a> and an alt <a href="https://open.spotify.com/artist/2BT3MJmD79VsdDMkiai5Qq?si=Qx_XtQzKT_KuS2GUlgNuJQ" target="_blank"><mark>Spotify</mark></a> artist page under the name BostonLobster to release an alternate line of instrumental tracks. This past summer, I went back to practicing the classical pieces I'd learned previously (mostly in my younger years) to record and build a <a href="https://www.youtube.com/playlist?list=PLO_OB-_k9EKdsaGAFtUeUUvUh5R1NBXY-" target="_blank"><mark>piano performance repertoire</mark></a>. I also began a <a href="https://bianlee.substack.com/" target="_blank"><mark>Substack</mark></a> to document my musical journey and write about the many ideas I had regarding the current state of the music industry, mainstream sounds, production techniques, etc. I haven't been able to post as regularly as I would have liked, but it's still work in progress.<br/><br/></p>
+
+<center>
+  <iframe class="youtube-video" src="https://www.youtube.com/embed/klX6rMRBZgA?si=uITJszuVD53qb8x_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
+
+<p><br/>I've always been pretty prolific with my releases, and since starting this journey 2 years ago, there hasn't been a moment in time where I wasn't working on music. Currently, I'm busy sending out beats and backtracks to other artists (vocalists) for a potential collaboration. If you are interested in working with me, please reach me at bostonlobsterrecords@gmail.com.</p>
 
 <!--
   <div class="content-container-album-spot">

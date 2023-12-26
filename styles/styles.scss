@@ -51,6 +51,7 @@ nav {
   top: 0;
   right: 0;
   padding: 10px;
+  z-index: 100;
 }
 
 nav li {
@@ -363,3 +364,10 @@ footer {
   }
 }
 
+
+.centered-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Adjust the height as needed */
+}
