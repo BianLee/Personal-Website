@@ -76,7 +76,7 @@
             <br/><span style="color: gray">Nov 2022 - Jun 2023 • Clemson, South Carolina</span>
             <br/> -  Led sell-side stock equity research through Discounted Cash Flow model and market sentiment/industry analysis
             <br/> -  Edited and published weekly company newsletter and delivered +73% subscriber count growth <!-- <a href="/writing" target="_blank">[Writings]</a> -->
-            <br/> - Worked directly alongside Founder/CEO and the lead developer in this Seed → Series A B2C app startup
+            <br/> - Worked directly alongside Founder/CEO and the lead developer in this Seed → Series A app startup
         </p>
     </div>
 </div>
@@ -226,7 +226,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 - <b>D3.JS SVG-map</b> <a href="https://github.com/BianLee/D3-SVG-Map" target="_blank">[GitHub]</a><br/><span style="color: gray">Oct 2023 • Next.js, D3.js</span><br/> An interactive map on the front-end that plots city coordinates upon user input, and renders a SVG map (with pan & zoom functionality) using D3.js library and svg-pan-zoom.
 
 - <b>EdTech App (opensourcecollage.com)</b>
-  <a href="https://opensourcecollage.com" target="_blank">[Web App]</a> <a href="https://github.com/BianLee/opensourcecollage.com" target="_blank">[GitHub]</a><a href="https://www.producthunt.com/products/open-source-collage#open-source-collage" target="_blank">[Product Hunt]</a><br/> <span style="color: gray">Jan 2022 • MongoDB, Express.js, React.js, Node.js (MERN), Firebase</span> <br/>Independently built a full-stack EdTech app that allows browsing & sharing extracurricular and volunteer opportunities. Onboarded 18 non-profits and received 22k+ total visitors on the platform, after launching on Product Hunt. Received monetary prize & mentorship from business consultant, Silicon Valley SVSCORE (Mentor: Chuck Scifers).
+  <a href="https://opensourcecollage.com" target="_blank">[Web App]</a> <a href="https://github.com/BianLee/opensourcecollage.com" target="_blank">[GitHub]</a> <a href="https://www.producthunt.com/products/open-source-collage#open-source-collage" target="_blank">[Product Hunt]</a><br/> <span style="color: gray">Jan 2022 • MongoDB, Express.js, React.js, Node.js (MERN), Firebase</span> <br/>Independently built a full-stack EdTech app that allows browsing & sharing extracurricular and volunteer opportunities. Onboarded 18 non-profits and received 22k+ total visitors on the platform, after launching on Product Hunt. Received monetary prize & mentorship from business consultant, Silicon Valley SVSCORE (Mentor: Chuck Scifers).
 
 - <b>This portfolio site (bianlee.me)</b> <a href="https://github.com/BianLee/Personal-Website" target="_blank">[GitHub]</a><br/> <span style="color: gray">Jun 2023 • Jekyll, SCSS, Markdown</span>
 
