@@ -5,7 +5,7 @@
 <div class="content-container">
     <img src="/assets/pfp_bian.jpeg" alt="Bian Lee" class="pfp-image">
     <div class="content-text">
-        <p style="font-size: 1.25rem">
+        <p style="font-size: 1.2rem">
            I am an undergraduate student at University of California, Davis, pursuing B.S. in Computer Science and Engineering (CSE) with a minor in Economics. My interests range from software engineering, data analytics, startups/venture capital, cybersecurity and the world of Web3/DeFi. I also <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=W__FkkEbQz-Wu1P7A69EFA" target="_blank">compose and produce music</a> on the side. I am currently seeking internship opportunities as SWE/PM/Analyst roles. Please contact me via email, at bianlee2004@gmail.com.
 
                     <!--I am originally from Seoul, South Korea where I lived for 12 years before moving to Ottawa, Canada (middle school) then again to Irvine, California (high school). I am now in Davis/Sacramento area for college. I have also visited <a href="/travel" target="_blank">16 US States</a> (UT is my favorite!).  -->
@@ -22,7 +22,7 @@
     <img src="/assets/optimizing.jpeg" alt="Optimizing.com" class="content-image optimizing">
     <div class="content-text">
         <p>
-            <b>Software Engineer Intern</b> at <mark>Optimizing.com</mark>
+             <span style="font-size: 18px"><b>Software Engineer Intern</b> - <mark>Optimizing.com</mark></span>
             <br/><span style="color: gray">Nov 2023 - Present • Austin, Texas</span>
             <br/> - Collaborated on the development of CRM for business clients with Stripe and Roger contract integrations.
             <br/> - Implemented front-end UI with Tailwind with LoaderFunctions and managed global state using Zustand.
@@ -40,7 +40,7 @@
     <img src="/assets/carb.jpeg" alt="California Air Resources Board" class="content-image">
     <div class="content-text">
         <p>
-            <b>Data Analyst Intern</b> at <mark>California Air Resources Board</mark>
+            <span style="font-size: 18px"><b>Data Analyst Intern</b> - <mark>California Air Resources Board</mark></span>
             <br/><span style="color: gray">Jun 2023 - Present • Sacramento, California</span>
             <br/> - Performed QC on datasets of 10K+ records, and assisted QA testing in the database management system interface.
             <br/> - Queried and parsed CSV data using SQL and Python scripts and developed analytical reports using Excel.
@@ -69,7 +69,7 @@
     <img src="/assets/vestr.jpeg" alt="Vestr.io" class="content-image">
     <div class="content-text">
         <p>
-            <b>Analyst Intern</b> at <mark>Vestr</mark>
+             <span style="font-size: 18px"><b>Analyst Intern</b> - <mark>Vestr</mark></span>
             <br/><span style="color: gray">Nov 2022 - Present • Clemson, South Carolina</span>
             <br/> -  Led sell-side stock equity research through Discounted Cash Flow model, market sentiment & industry analysis.
             <br/> -  Published weekly company newsletters & daily market summaries in the Web3/DeFi/Crypto sector. <!-- <a href="/writing" target="_blank">[Writings]</a> -->
@@ -82,7 +82,7 @@
     <img src="/assets/aggieworksSecond.jpeg" alt="AggieWorks" class="content-image">
     <div class="content-text">
         <p>
-          <b>Software Engineer</b> at <mark>AggieWorks</mark>
+        <span style="font-size: 18px"><b>Software Engineer</b> - <mark>AggieWorks</mark></span>
           <br/><span style="color: gray">Oct 2022 - Jun 2023 • Davis, California</span>
           <br/> - Spearheaded backend and REST API development using GORM and PostgreSQL with CRUD functionalities.
           <br/> - Implemented front-end UI components (modal, cards, navbar, search) with conditional rendering using Svelte.
@@ -95,7 +95,7 @@
     <img src="/assets/socal.png" alt="SoCal Community College Consortium on Cybersecurity" class="content-image">
     <div class="content-text">
         <p>
-          <b>Technical Mentor</b> at <mark>SoCal Community College Consortium on Cybersecurity</mark>
+        <span style="font-size: 18px"><b>Technical Mentor</b> - <mark>SoCal Community College Consortium on Cybersecurity</mark></span>
             <br/><span style="color: gray">Oct 2021 - Mar 2022 • Irvine, California</span>
           <br/> - Collaborated with professors from Irvine Valley College’s Computer Information Management (CIM) department to
 create prepatory CyberPatriot (security competition) materials, as a national semifinalist in the previous season. 
@@ -220,7 +220,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 <div style="margin-top:1rem"></div>
 - UC Davis Dean's Honors List (College of Engineering)
 - UC Davis Little Bang! Pitch + Poster Competition Winner at Graduate School of Management (Awarded $1K) <a href="https://innovate.ucdavis.edu/blog/borrow-blog" target="_blank">[Article]</a>
-- Socal Cyber Cup 3rd Place (Awarded $2.5K)
+- Cyber Skyline SoCal Cyber Cup 3rd Place (Awarded $2.5K)
 - CyberPatriot National Semifinalist
 - CompTIA IT Fundamentals+ Certification
 - Jira Software Fundamentals Certification
