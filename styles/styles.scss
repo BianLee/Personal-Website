@@ -258,6 +258,7 @@ code {
   }
   .content-image-spot {
     margin: 0 auto 10px;
+    max-width: 100%;
   }
   .pfp-image {
     margin: 0 auto 10px;
@@ -273,6 +274,19 @@ code {
     aspect-ratio: 16 / 9;
     width: 100%;
   }
+
+  .image-container {
+  
+    position: relative; /* Revert to normal positioning on smaller screens */
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 50%;
+
+    transform: none;
+
+  }
+
+  
 }
 
 mark {

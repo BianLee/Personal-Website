@@ -43,7 +43,9 @@
 Stream at <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=KmTQAT-ASdKAGmSUmwFvSw" target="_blank">Spotify</a> • <a href="https://music.apple.com/us/artist/bian-lee/1612288413" target="_blank">Apple Music</a> • <a href="https://soundcloud.com/bianlee" target="_blank">SoundCloud</a>
 
   <div class="content-container-album">
+     <div class="image-container">
     <img src="/assets/youandme.png" alt="you&me" class="content-image">
+    </div>
     <div class="content-text-album">
         <p>
           <b>you&me</b> (Single, 2023)
@@ -53,7 +55,9 @@ Stream at <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=KmT
   </div>
 
   <div class="content-container-album">
+     <div class="image-container">
     <img src="/assets/wurlitzer.png" alt="Wurlitzer" class="content-image">
+    </div>
     <div class="content-text-album">
         <p>
           <b>Wurlitzer</b> (EP, 2023)
@@ -68,7 +72,9 @@ Stream at <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=KmT
   </div>
 
   <div class="content-container-album">
+     <div class="image-container">
     <img src="/assets/nycinrain.png" alt="nyc in rain" class="content-image">
+    </div>
     <div class="content-text-album">
         <p>
           <b>nyc in rain</b> (Single, 2023)
@@ -78,7 +84,9 @@ Stream at <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=KmT
   </div>
 
   <div class="content-container-album">
+     <div class="image-container">
     <img src="/assets/fireworks.png" alt="Fireworks" class="content-image">
+    </div>
     <div class="content-text-album">
         <p>
          <b>Fireworks</b> (Single, 2023)
@@ -88,7 +96,9 @@ Stream at <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=KmT
   </div>
 
   <div class="content-container-album">
+     <div class="image-container">
     <img src="/assets/searching.png" alt="Searching For Brighter Sounds" class="content-image">
+    </div>
     <div class="content-text-album">
         <p>
           <b>Searching For Brighter Sounds</b> (EP, 2023)
@@ -102,7 +112,9 @@ Stream at <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=KmT
   </div>
 
   <div class="content-container-album">
+     <div class="image-container">
     <img src="/assets/rustbelt.png" alt="Rust Belt, Dixieland & The Coastline" class="content-image">
+    </div>
     <div class="content-text-album">
         <p>
           <b>Rust Belt, Dixieland & The Coastline</b> (Album, 2022)
@@ -121,7 +133,9 @@ Stream at <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=KmT
   </div>
 
   <div class="content-container-album">
+     <div class="image-container">
     <img src="/assets/graduation.png" alt="Graduation" class="content-image">
+    </div>
     <div class="content-text-album">
         <p>
           <b>Graduation</b> (Single, 2022)
@@ -131,7 +145,9 @@ Stream at <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=KmT
   </div>
 
   <div class="content-container-album">
+     <div class="image-container">
     <img src="/assets/commonwealth.png" alt="Commonwealth" class="content-image">
+    </div>
     <div class="content-text-album">
         <p>
            <b>Commonwealth</b> (Album, 2022)

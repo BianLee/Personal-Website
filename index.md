@@ -71,7 +71,7 @@
     <div class="content-text">
         <p>
              <span style="font-size: 18px"><b>Analyst Intern</b> - <mark>Vestr</mark></span>
-            <br/><span style="color: gray">Nov 2022 - Present • Clemson, South Carolina</span>
+            <br/><span style="color: gray">Nov 2022 - Jun 2023 • Clemson, South Carolina</span>
             <br/> -  Led sell-side stock equity research through Discounted Cash Flow model and market sentiment/industry analysis
             <br/> -  PEdited and published weekly company newsletter and delivered +73% subscriber count growth <!-- <a href="/writing" target="_blank">[Writings]</a> -->
             <br/> - Worked directly alongside Founder/CEO and the lead developer in this Seed → Series A B2C app startup
@@ -216,19 +216,23 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 <br/>
 ### Technical Projects
 <hr/>
-- <b>DSM-5 Diagnostic Chatbot</b>: Leveraged LLM to parse through DSM-5 with semantic search, storing data as vector embeddings in Pinecone database. Fine-tuned OpenAI’s GPT-3.5 turbo and used Next.js to create an interactive diagnostic chatbot. Wrote and executed Python scripts in Beautiful Soup to scrape web data of nearby physicians & clinics, storing them as key-value documents in MongoDB. Built NodeJS API and used Axios library to fetch & render on screen. <a href="https://github.com/ritvikir/hackdavis" target="_blank">[GitHub]</a>
 
-- <b>Decentralized Exchange & ERC-20 Token</b>: Wrote smart contracts in Solidity to create a custom ERC-20 token & tokenomics and a decentralized exchange. Implemented Constant Product Market formula used in Automated Market Making (AMM) systems, and deployed on Ethereum blockchain (mainnet) to allow users to trade custom token for ETH using Metamask wallet. <a href="https://github.com/BianLee/Decentralized-Exchange-Model-ERC-20-Token" target="_blank">[GitHub]</a>
+- <b>DSM-5 Diagnostic Chatbot</b> <a href="https://github.com/ritvikir/hackdavis" target="_blank">[GitHub]</a><br/><span style="color: gray">Jun 2023 • GPT-3.5 Turbo, Pinecone, Langchain, MongoDB</span> <br/>Leveraged LLM to parse through DSM-5 with semantic search, storing data as vector embeddings in Pinecone database. Fine-tuned OpenAI’s GPT-3.5 turbo and used React in Next.js to create an interactive diagnostic chatbot. Executed Python scripts in Beautiful Soup to scrape web data of nearby physicians & clinics, storing them as key-value documents in MongoDB. Built and Served NodeJS API and used Axios library to fetch & render data on screen.
 
-- <b>D3.JS SVG-map</b>: An interactive map on the front-end that plots city coordinates upon user input, and renders a SVG map (with pan & zoom functionality) using D3.js library and svg-pan-zoom. <a href="https://github.com/BianLee/D3-SVG-Map" target="_blank">[GitHub]</a>
+- <b>Decentralized Exchange & ERC-20 Token</b> <a href="https://github.com/BianLee/Decentralized-Exchange-Model-ERC-20-Token" target="_blank">[GitHub]</a><br/><span style="color: gray">Dec 2022 • Solidity, Web3.js, React, Truffle Suite</span><br/>Wrote smart contracts in Solidity to create a custom ERC-20 token & tokenomics and a decentralized exchange. Implemented Constant Product Market formula used in Automated Market Making (AMM) systems, and deployed on Ethereum blockchain (mainnet) to allow users to trade custom token for ETH using Metamask wallet.
 
-- <b>EdTech App (opensourcecollage.com)</b>: Independently developed an EdTech CRUD application on MERN stack with Firebase authentication. Launched on Product Hunt and onboarded 18 non-profits on the platform, receving 22k+ total visitors. Won monetary prize & mentorship from business consultant, Silicon Valley SVSCORE (Mentor: Chuck Scifers). <a href="https://opensourcecollage.com" target="_blank">[Web App]</a> <a href="https://github.com/BianLee/opensourcecollage.com" target="_blank">[GitHub]</a>
+- <b>D3.JS SVG-map</b> <a href="https://github.com/BianLee/D3-SVG-Map" target="_blank">[GitHub]</a><br/><span style="color: gray">Oct 2023 • Next.js, D3.js</span><br/> An interactive map on the front-end that plots city coordinates upon user input, and renders a SVG map (with pan & zoom functionality) using D3.js library and svg-pan-zoom.
 
-- <b>Websites I built over the years</b>:
-  - <b>This portfolio site</b>: Used Jekyll, SCSS and Markdown. <a href="https://github.com/BianLee/Personal-Website" target="_blank">[GitHub]</a>
-  - <b>EmpireWebSpace</b>: Founded 7-member web agency currently doing pro bono work for local non-profits. Used NextJS + TailwindCSS for the site. <a href="https://www.empireweb.space/" target="_blank">[Website]</a> <a href="https://github.com/Empirewebspace/empirewebspace" target="_blank">[GitHub]</a>
-  - <b>InterSTEM 501(c)(3)</b>: Built organization website with Jekyll, Markdown, and SCSS. Published 148 articles and received 200k+ views. Led a tech team of 6. <a href="https://interstem.us" target="_blank">[Website]</a> <a href="https://github.com/InterSTEMDev/interstem.us" target="_blank">[GitHub]</a>
-  - <b>Northwood Cybersecurity Club</b>: Built website for high school's Cybersecurity Club, using Bootstrap. <a href="https://nhscyber.club" target="_blank">[Website]</a> <a href="https://github.com/BianLee/nhscyber.club.git" target="_blank">[GitHub]</a>
+- <b>EdTech App (opensourcecollage.com)</b>
+  <a href="https://opensourcecollage.com" target="_blank">[Web App]</a> <a href="https://github.com/BianLee/opensourcecollage.com" target="_blank">[GitHub]</a><br/> <span style="color: gray">Jan 2022 • MongoDB, Express.js, React.js, Node.js (MERN), Firebase</span> <br/>Independently built a full-stack EdTech app that allows browsing & sharing extracurricular and volunteer opportunities. Onboarded 18 non-profits and received 22k+ total visitors on the platform, after launching on Product Hunt. Received monetary prize & mentorship from business consultant, Silicon Valley SVSCORE (Mentor: Chuck Scifers).
+
+- <b>This portfolio site (bianlee.me)</b> <a href="https://github.com/BianLee/Personal-Website" target="_blank">[GitHub]</a><br/> <span style="color: gray">Jun 2023 • Jekyll, SCSS, Markdown</span>
+
+- <b>EmpireWebSpace (empireweb.space)</b> <a href="https://www.empireweb.space/" target="_blank">[Website]</a> <a href="https://github.com/Empirewebspace/empirewebspace" target="_blank">[GitHub]</a><br/><span style="color: gray">Apr 2023 • Next.js</span> <br/> Founded 7-member web agency currently doing pro bono work for local non-profits.
+
+- <b>InterSTEM 501(c)(3) website (interstem.us)</b>: <a href="https://interstem.us" target="_blank">[Website]</a> <a href="https://github.com/InterSTEMDev/interstem.us" target="_blank">[GitHub]</a><br/><span style="color: gray">June 2020 • Jekyll, Markdown, and SCSS</span> <br/> Led the development of organization website and managed a tech team of 6. Published 148 articles and received 200k+ views.
+
+- <b>NHS Cybersecurity Club website (nhscyber.club)</b> <a href="https://nhscyber.club" target="_blank">[Website]</a> <a href="https://github.com/BianLee/nhscyber.club.git" target="_blank">[GitHub]</a><br/><span style="color: gray">Oct 2019 • HTML, CSS, JavaScript, Bootstrap</span>
 
 <br/>
 ### Awards & Certifications
@@ -238,8 +242,8 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 - UC Davis Little Bang! Pitch + Poster Competition Winner at Graduate School of Management (Awarded $1K) <a href="https://innovate.ucdavis.edu/blog/borrow-blog" target="_blank">[Article]</a>
 - Cyber Skyline SoCal Cyber Cup 3rd Place (Awarded $2.5K)
 - CyberPatriot National Semifinalist
-- CompTIA IT Fundamentals+ Certification
-- Jira Software Fundamentals Certification
+- CompTIA IT Fundamentals+ Certification <a href="https://www.certmetrics.com/comptia/public/verification.aspx?code=JTD0JHWW0YKLF3G4" target="_blank">[Credential]</a>
+- Jira Software Fundamentals Certification <a href="https://university.atlassian.com/student/award/aW68xiZ7xKtfrwFSYWbgQmnc" target="_blank">[Credential]</a>
 - AP Scholar with Distinction
 
 ### Skills
