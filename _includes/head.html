@@ -27,7 +27,7 @@
                             {% for link in site.nav-links %}
                             <li>
                                 {% if link.external == true %}
-                                    <a style="color: black" href="{{ link.url }}" {% if link.name == 'Discord' %}target="_blank"{% endif %}>
+                                    <a style="color: black" href="{{ link.url }}" {% if link.name == 'Resume' %}target="_blank"{% endif %}>
                                 {% else %}
                                     <a style="color: black" href="{{ link.url | prepend:site.url }}" {% if link.name == 'Discord' %}target="_blank"{% endif %}>
                                 {% endif %}

@@ -23,9 +23,8 @@ nav-links:
   - name: Music
     url: /music
     external: false
-  - name: Discord
-    url: "https://discord.gg/hMUU5tzVWH"
-    target: blank
+  - name: Resume
+    url: /resume.pdf
     external: true
 
 # for the homepage image + big text next to it
