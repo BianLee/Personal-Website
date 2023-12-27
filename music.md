@@ -44,7 +44,7 @@
     </div>
 </div>
 
-<p><br/>As a classical-trained instrumentalist and a musician, I strive to write music that leaves lasting impact on its listeners. I grew up playing the piano and cello, and have been part of numerous orchestras, ensembles, and concours. I studied theory and began my compositional journey by first writing <a href="assets/composition_portfolio.pdf" target="_blank"><mark>short piano compositions</mark></a>, then later making a transition to producing digitally on DAWs. I have since publicly released 2 albums, 2 EPs, and 4 singles, amassing over 30k+ streams and 15k+ listeners from major streaming platforms.</p>
+<p><br/>As a classical-trained instrumentalist and a musician, I strive to write music that leaves lasting impact on listeners. I grew up playing the piano and cello, and have been part of numerous orchestras, ensembles, choirs, and concours. I studied theory and began my compositional journey in my senior year of high school through writing <a href="assets/composition_portfolio.pdf" target="_blank"><mark>short piano compositions</mark></a>, then later making a transition to producing digitally on DAWs. I have since publicly released 2 albums, 2 EPs, and 4 singles, amassing over 30k+ streams and 15k+ listeners from major streaming platforms.</p>
 
 <p>In 2022, I was interviewed and featured in <a href="https://www.arkansasonline.com/news/2022/jul/10/opinion-paper-trails-california-teen-writes/" target="blank"><i><mark>The Arkansas Democrat-Gazette</mark></i></a> for my track <i>Arkansas</i> -- one of the 25 tracks that I put out in association with US States (sort of like the same project Sufjan Stevens began but never completed).
 
@@ -57,7 +57,10 @@
   <iframe class="youtube-video" src="https://www.youtube.com/embed/rVmD91GerfQ?si=E5fuRVqiqA3BjC44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
 
-<p><br/>I've always been pretty prolific with my releases, and since starting this journey 2 years ago, there hasn't been a moment in time where I wasn't working on music. Currently, I'm busy sending out beats and backtracks to other artists (vocalists) for a potential collaboration. If you are interested in working with me, please reach me at bostonlobsterrecords@gmail.com.<br/><br/></p>
+<p><br/>I've always been pretty prolific with my releases, and since starting this journey 2 years ago, there hasn't been a moment in time where I wasn't working on music. Currently, I'm busy sending out beats and backtracks to other artists (vocalists) for a potential collaboration. If you are interested in working with me, please reach me at <a href="mailto:bostonlobsterrecords@gmail.com"><mark>bostonlobsterrecords@gmail.com</mark></a>. You can also join my <a href="https://discord.com/invite/hMUU5tzVWH" target="_blank"><mark>Discord server</mark></a> (if you're reading this, please join!)
+<br/><br/>At the moment, my favorite songs are <a href="https://www.youtube.com/watch?v=AewLWpaXqLA&ab_channel=ROTKEN" target="_blank"><mark><i>Be Just Fine</i></mark></a> and <a href="https://www.youtube.com/watch?v=mrkM5B2M8pY&ab_channel=ROTKEN" target="_blank"><mark><i>Baby Choppa</i></mark></a> by Rot Ken, and <a href="https://www.youtube.com/watch?v=9nWrG_C0TeQ&ab_channel=tictacto-Topic" target="_blank"><i><mark>its wii shop wednesday</mark></i></a> by tictacto. The producers that I look up to include Wheezy, Pharell, JetsonMade and the collectives Internet Money and Working On Dying. I listen to (and take inspiration from) almost all music genres, but I am a particular fan of melodic rap.
+
+<br/><br/></p>
 
   <center>
     <img src="/assets/spot.png" alt="Spotify Wrapped 2023" class="content-image-spot">
