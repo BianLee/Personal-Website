@@ -8,7 +8,7 @@
     <div class="content-text">
         <p style="font-size: 1.2rem">
           <b style="font-size: 1.5rem">Bian Lee</b>
-           <br/>I am an undergraduate student at University of California, Davis, pursuing B.S. in Computer Science and Engineering with a minor in Economics. My interests range from software engineering, data analytics, startups/venture capital, cybersecurity and the world of Web3/DeFi. I also <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=W__FkkEbQz-Wu1P7A69EFA" target="_blank">compose and produce music</a> on the side. Please reach me via email at bianlee2004@gmail.com.
+           <br/>I am an undergraduate student at University of California, Davis, pursuing B.S. in Computer Science and Engineering with a minor in Economics. My interests range from software engineering, data analytics, venture capital, cybersecurity, fintech and the world of Web3/DeFi. I also <a href="/music" target="_blank" style="text-decoration: underline; color: #444; text-decoration-color: red; text-underline-position: under;">compose and produce music</a> on the side. Please reach me via email at bianlee2004@gmail.com.
 
                     <!--I am originally from Seoul, South Korea where I lived for 12 years before moving to Ottawa, Canada (middle school) then again to Irvine, California (high school). I am now in Davis/Sacramento area for college. I have also visited <a href="/travel" target="_blank">16 US States</a> (UT is my favorite!).  -->
          </p>
@@ -266,6 +266,6 @@ create prepatory CyberPatriot (security competition) materials, as a national se
             <a href="https://www.youtube.com/channel/UCKEiBX4OdZhM8JeUpIWt4mw" target="_blank"><i class="fab fa-youtube"></i></a>
             <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=zhdRRE5RQk2m6AqD11qmyQ" target="_blank"><i class="fab fa-spotify"></i></a>
             <a href="https://bianlee.bandcamp.com/" target="_blank"><i class="fab fa-bandcamp"></i></a>
-            <a href="https://www.deezer.com/us/artist/162218717/" target="_blank"><i class="fab fa-deezer"></i></a>
+            <!-- <a href="https://www.deezer.com/us/artist/162218717/" target="_blank"><i class="fab fa-deezer"></i></a> -->
         </div>
     </footer>
