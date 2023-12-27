@@ -3,7 +3,7 @@
 
 <div class="content-container">
     <div class="image-container-pfp">
-        <img src="/assets/pfp_bian.jpg" alt="Bian Lee" class="pfp-image">
+        <img src="/assets/pfp1.jpg" alt="Bian Lee" class="pfp-image">
     </div>
     <div class="content-text">
         <p style="font-size: 1.2rem">
@@ -105,7 +105,7 @@
         <span style="font-size: 18px"><b>Technical Mentor</b> - <mark>SoCal Community College Consortium on Cybersecurity</mark></span>
             <br/><span style="color: gray">Oct 2021 - Mar 2022 • Irvine, California</span>
           <br/> - Collaborated with professors from Irvine Valley College’s Computer Information Management (CIM) department to
-create prepatory CyberPatriot (security competition) materials, as a national semifinalist in the previous season 
+create prepatory CyberPatriot (security competition) materials, as a national semifinalist in the previous season
           <br/> - Wrote 15 CTF problems & solutions for org-wide contests, on topics of cryptography and Linux OS
           <br/> - Developed training VM images for Ubuntu OS using Ansible and Shell Script
         </p>
