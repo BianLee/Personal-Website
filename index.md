@@ -3,7 +3,7 @@
 
 <div class="content-container">
     <div class="image-container-pfp">
-        <img src="/assets/pfp1.jpg" alt="Bian Lee" class="pfp-image">
+        <img src="/assets/pfp_bian.jpg" alt="Bian Lee" class="pfp-image">
     </div>
     <div class="content-text">
         <p style="font-size: 1.2rem">
