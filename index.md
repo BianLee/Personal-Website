@@ -8,7 +8,7 @@
     <div class="content-text">
         <p style="font-size: 1.2rem">
           <b style="font-size: 1.5rem">Bian Lee</b>
-           <br/>I am an undergraduate student at University of California, Davis, pursuing B.S. in Computer Science and Engineering with a minor in Economics. My interests range from software engineering, data analytics, venture capital, cybersecurity, fintech and the world of Web3/DeFi. I also <a href="/music" target="_blank" style="text-decoration: underline; color: #444; text-decoration-color: red; text-underline-position: under;">compose and produce music</a> on the side. Please reach me via email at bianlee2004@gmail.com.
+           <br/>I am an undergraduate student at University of California, Davis, pursuing B.S. in Computer Science and Engineering with a minor in Economics. My interests range from software engineering, data analytics, venture capital, cybersecurity, fintech and Web3/DeFi. I also <a href="/music" target="_blank" style="text-decoration: underline; color: #444; text-decoration-color: red; text-underline-position: under;">compose and produce music</a> on the side. Please reach me via email at bianlee2004@gmail.com.
 
                     <!--I am originally from Seoul, South Korea where I lived for 12 years before moving to Ottawa, Canada (middle school) then again to Irvine, California (high school). I am now in Davis/Sacramento area for college. I have also visited <a href="/travel" target="_blank">16 US States</a> (UT is my favorite!).  -->
          </p>
@@ -18,6 +18,20 @@
 <!-- -->
 ### Experience
 <hr/>
+<div class="content-container" style="margin-top: 18px">
+    <div class="image-container">
+    <img src="/assets/fidelity.jpg" alt="Fidelity Investments" class="content-image fidelity" loading="lazy">
+    </div>
+    <div class="content-text">
+        <p>
+             <span style="font-size: 18px"><b>Incoming Software Engineer Intern</b> - <mark>Fidelity Investments</mark></span>
+            <br/><span style="color: gray">Jun 2024 - Aug 2024 • Merrimack, New Hampshire</span>
+            <br/> - Incoming SWE Intern at Fidelity Investments for Summer 2024
+
+</p>
+</div>
+
+</div>
 
 <div class="content-container">
     <div class="image-container">

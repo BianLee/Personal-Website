@@ -217,6 +217,7 @@ code {
 .content-container {
   display: flex;
   align-items: center;
+  min-height: 155px;
 }
 .content-container-album {
   display: flex;
@@ -227,6 +228,7 @@ code {
 .content-text {
   flex: 1;
   margin-left: 10px;
+  max-height: 100%;
 }
 .content-text-album {
   flex: top;
@@ -234,7 +236,7 @@ code {
 }
 
 .content-image {
-  max-width: 150px;
+  max-width: 100%;
   margin-right: 10px;
 }
 .content-image-spot {
@@ -319,6 +321,10 @@ mark {
 .optimizing {
   margin-top: 30px;
 }
+
+.fidelity {
+  margin-top: 20px;
+}
 */ 
 
 
@@ -380,4 +386,10 @@ footer {
 
 .active {
   text-decoration: underline;
+}
+
+img, iframe {
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
 }
