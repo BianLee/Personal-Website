@@ -8,7 +8,7 @@
     <div class="content-text">
         <p style="font-size: 1.2rem">
           <b style="font-size: 1.5rem">Bian Lee</b>
-           <br/>I am an undergraduate student at University of California, Davis, pursuing B.S. in Computer Science and Engineering with a minor in Economics. My interests range from software engineering, data analytics, startups/venture capital, cybersecurity, fintech and Web3/DeFi. I also <a href="/music" target="_blank" style="text-decoration: underline; color: #444; text-decoration-color: red; text-underline-position: under;">compose and produce music</a>. Please reach me via email at bianlee2004@gmail.com.
+           <br/>I am an undergraduate student at University of California, Davis, pursuing B.S. in Computer Science and Engineering with a minor in Economics. My interests range from software engineering, data analytics, venture capital, cybersecurity, fintech and Web3/DeFi. I also <a href="/music" target="_blank" style="text-decoration: underline; color: #444; text-decoration-color: red; text-underline-position: under;">compose and produce music</a>. Please reach me via email at bianlee2004@gmail.com.
 
                     <!--I am originally from Seoul, South Korea where I lived for 12 years before moving to Ottawa, Canada (middle school) then again to Irvine, California (high school). I am now in Davis/Sacramento area for college. I have also visited <a href="/travel" target="_blank">16 US States</a> (UT is my favorite!).  -->
          </p>
