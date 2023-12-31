@@ -8,7 +8,7 @@
     <div class="content-text">
         <p style="font-size: 1.2rem">
           <b style="font-size: 1.5rem">Bian Lee</b>
-           <br/>I am an undergraduate student at University of California, Davis, pursuing B.S. in Computer Science and Engineering with a minor in Economics. My interests range from software engineering, data analytics, venture capital, cybersecurity, fintech and Web3/DeFi. I also <a href="/music" target="_blank" style="text-decoration: underline; color: #444; text-decoration-color: red; text-underline-position: under;">compose and produce music</a> on the side. Please reach me via email at bianlee2004@gmail.com.
+           <br/>I am an undergraduate student at University of California, Davis, pursuing B.S. in Computer Science and Engineering with a minor in Economics. My interests range from software engineering, data analytics, startups/venture capital, cybersecurity, fintech and Web3/DeFi. I also <a href="/music" target="_blank" style="text-decoration: underline; color: #444; text-decoration-color: red; text-underline-position: under;">compose and produce music</a>. Please reach me via email at bianlee2004@gmail.com.
 
                     <!--I am originally from Seoul, South Korea where I lived for 12 years before moving to Ottawa, Canada (middle school) then again to Irvine, California (high school). I am now in Davis/Sacramento area for college. I have also visited <a href="/travel" target="_blank">16 US States</a> (UT is my favorite!).  -->
          </p>
@@ -16,11 +16,11 @@
 
 </div>
 <!-- -->
-### Experience
+<h4>Work Experience</h4>
 <hr/>
-<div class="content-container" style="margin-top: 18px">
+<div class="content-container" style="margin-top: 16px">
     <div class="image-container">
-    <img src="/assets/fidelity.jpg" alt="Fidelity Investments" class="content-image fidelity" loading="lazy">
+    <img src="/assets/fidelity.jpg" alt="Fidelity Investments" class="content-image fidelity firm-logo" loading="lazy">
     </div>
     <div class="content-text">
         <p>
@@ -35,7 +35,7 @@
 
 <div class="content-container">
     <div class="image-container">
-    <img src="/assets/optimizing.jpg" alt="Optimizing.com" class="content-image optimizing" loading="lazy">
+    <img src="/assets/optimizing.jpg" alt="Optimizing.com" class="content-image optimizing firm-logo" loading="lazy">
 </div>
     <div class="content-text">
         <p>
@@ -51,7 +51,7 @@
 </div>
 <div class="content-container">
     <div class="image-container">
-    <img src="/assets/carb.jpeg" alt="California Air Resources Board" class="content-image" loading="lazy">
+    <img src="/assets/carb.jpeg" alt="California Air Resources Board" class="content-image firm-logo" loading="lazy">
     </div>
     <div class="content-text">
         <p>
@@ -82,7 +82,7 @@
 
 <div class="content-container">
     <div class="image-container">
-    <img src="/assets/vestr.jpg" alt="Vestr.io" class="content-image" loading="lazy">
+    <img src="/assets/vestr.jpg" alt="Vestr.io" class="content-image firm-logo" loading="lazy">
     </div>
     <div class="content-text">
         <p>
@@ -94,10 +94,13 @@
         </p>
     </div>
 </div>
+<div style="margin-top: 15px;"></div>
+<h4>Club & Extraccuricular Experience</h4>
 
-<div class="content-container">
+<hr/>
+<div class="content-container" style="margin-top: 16px">
 <div class="image-container">
-    <img src="/assets/aggieworksSecond.jpg" alt="AggieWorks" class="content-image" loading="lazy">
+    <img src="/assets/aggieworksSecond.jpg" alt="AggieWorks" class="content-image firm-logo" loading="lazy">
     </div>
     <div class="content-text">
         <p>
@@ -112,7 +115,7 @@
 
 <div class="content-container">
 <div class="image-container">
-    <img src="/assets/socal.png" alt="SoCal Community College Consortium on Cybersecurity" class="content-image" loading="lazy">
+    <img src="/assets/socal.png" alt="SoCal Community College Consortium on Cybersecurity" class="content-image firm-logo" loading="lazy">
     </div>
     <div class="content-text">
         <p>
@@ -125,30 +128,9 @@ create prepatory CyberPatriot (security competition) materials, as a national se
         </p>
     </div>
 </div>
+<div style="margin-top: 15px;"></div>
+<h4>Education & Relevant Coursework</h4>
 
-<!--
-<div class="content-container">
-    <img src="/assets/interstem.jpeg" alt="InterSTEM 501(c)(3)" class="content-image">
-    <div class="content-text">
-        <p>
-          <b>Webmaster</b> at InterSTEM 501(c)(3)
-          <br/> - Built organization website (<a href="https://interstem.us" target="_blank">interstem.us</a>) with Jekyll, Markdown, SCSS. Published 148 articles, w/ 200k+ views.
-          <br/> - Remotely taught 3 students a prepatory curriculum to help attain CompTIA IT Fundamentals+ Certification.
-        </p>
-    </div>
-</div>
-
--->
-
-<!--
-## Misc. Work Experience
-
-- <b>Part-Time Cashier</b> at local restaurant
-- <b>Part-Time Team Member</b> at Panera Bread
--->
-
-<br/>
-### Education & Relevant Coursework
 <hr/>
 
 <div class="content-container">
@@ -216,10 +198,9 @@ create prepatory CyberPatriot (security competition) materials, as a national se
         </p>
     </div>
 </div>
-
 <div class="content-container">
 <div class="image-container">
-    <img src="/assets/northwood.jpg" alt="Saddleback College" class="content-image" loading="lazy">
+    <img src="/assets/northwood.jpg" alt="Northwood High School" class="content-image" loading="lazy">
     </div>
     <div class="content-text">
         <p>
@@ -229,8 +210,8 @@ create prepatory CyberPatriot (security competition) materials, as a national se
     </div>
 </div>
 
-<br/>
-### Technical Projects
+<h4>Technical Projects</h4>
+
 <hr/>
 
 - <b>DSM-5 Diagnostic Chatbot</b> <a href="https://github.com/ritvikir/hackdavis" target="_blank">[GitHub]</a><br/><span style="color: gray">Jun 2023 • GPT-3.5 Turbo, Pinecone, Langchain, MongoDB</span> <br/>Leveraged LLM to parse through DSM-5 with semantic search, storing data as vector embeddings in Pinecone database. Fine-tuned OpenAI’s GPT-3.5 turbo and used React in Next.js to create an interactive diagnostic chatbot. Executed Python scripts in Beautiful Soup to scrape web data of nearby physicians & clinics, storing them as key-value documents in MongoDB. Built and Served NodeJS API and used Axios library to fetch & render data on screen.
@@ -250,8 +231,8 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 
 - <b>NHS Cybersecurity Club website (nhscyber.club)</b> <a href="https://nhscyber.club" target="_blank">[Website]</a> <a href="https://github.com/BianLee/nhscyber.club.git" target="_blank">[GitHub]</a><br/><span style="color: gray">Oct 2019 • HTML, CSS, JavaScript, Bootstrap</span>
 
-<br/>
-### Awards & Certifications
+<h4>Awards & Certifications</h4>
+
 <hr/>
 <div style="margin-top:1rem"></div>
 - UC Davis Dean's Honors List (College of Engineering)
@@ -262,7 +243,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 - Jira Software Fundamentals Certification <a href="https://university.atlassian.com/student/award/aW68xiZ7xKtfrwFSYWbgQmnc" target="_blank">[Credential]</a>
 - AP Scholar with Distinction
 
-### Skills
+<h4>Skills</h4>
 
 <hr/>
 <div style="margin-top:1rem"></div>

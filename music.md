@@ -59,7 +59,7 @@
 
 <p><br/>I've always been pretty prolific with my releases, and since starting this journey 2 years ago, there hasn't been a moment in time where I wasn't working on music. Currently, I'm busy sending out beats and backtracks to other artists (vocalists) for a potential collaboration. If you are interested in working with me, please reach me at <a href="mailto:bostonlobsterrecords@gmail.com"><mark>bostonlobsterrecords@gmail.com</mark></a>. You can also join my <a href="https://discord.com/invite/hMUU5tzVWH" target="_blank"><mark>Discord server</mark></a> (if you're reading this, please join!)
 <br/><br/>At the moment, my favorite songs are <a href="https://www.youtube.com/watch?v=AewLWpaXqLA&ab_channel=ROTKEN" target="_blank"><mark><i>Be Just Fine</i></mark></a> and <a href="https://www.youtube.com/watch?v=mrkM5B2M8pY&ab_channel=ROTKEN" target="_blank"><mark><i>Baby Choppa</i></mark></a> by Rot Ken, and <a href="https://www.youtube.com/watch?v=jYAlqHP6-xo&ab_channel=kmoe" target="_blank"><i><mark>homesick</mark></i></a> by kmoe. The producers that I look up to include Wheezy, Pharell, JetsonMade and the collectives Internet Money and Working On Dying. I listen to (and take inspiration from) almost all music genres, but I am a particular fan of melodic rap.
-
+<br/><br/>There are many directions and goals I wish to pursue with my music. Right now, I am solely focused on consistently putting out new sounds and seeing what works and what doesn't. I also aim to put out collaborative projects with other vocalists. Later in my music career, I wish to contribute to compositional work, such as writing film scores or composing for musicals.
 <br/><br/></p>
 
   <center>
