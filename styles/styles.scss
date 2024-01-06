@@ -48,13 +48,12 @@ body {
 nav {
   margin: 1rem 0 1rem;
   position: fixed;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   top: 0;
   right: 0;
   padding: 10px;
   z-index: 100;
   border-radius: 5px;
-  
 }
 
 nav li {
@@ -67,15 +66,14 @@ nav li {
 /* Mobile Styles */
 @media (max-width: 768px) {
   nav {
-      position: absolute;
-      top: 0;
-      left: 0; /* Center horizontally on mobile */
-      width: 100%; /* Full width on mobile */
-      text-align: center; /* Center the links */
-      padding: 10px 0; /* Add top and bottom padding for spacing */
+    position: absolute;
+    top: 0;
+    left: 0; /* Center horizontally on mobile */
+    width: 100%; /* Full width on mobile */
+    text-align: center; /* Center the links */
+    padding: 10px 0; /* Add top and bottom padding for spacing */
   }
 }
-
 
 nav a {
   margin-right: 1rem;
@@ -180,7 +178,6 @@ img {
   list-style: none;
   margin: 0rem 0;
 }
-
 
 .posts-list-title {
   margin-bottom: 0.2rem;
@@ -316,8 +313,6 @@ code {
     width: 50%;
     transform: none;
   }
-
-  
 }
 
 mark {
@@ -337,7 +332,6 @@ mark {
   position: relative; /* Create a positioning context for child elements */
 }
 
-
 /* 
 .optimizing {
   margin-top: 30px;
@@ -346,9 +340,7 @@ mark {
 .fidelity {
   margin-top: 20px;
 }
-*/ 
-
-
+*/
 
 footer {
   padding: 20px 0;
@@ -367,7 +359,6 @@ footer {
   color: black;
   font-size: 1.7rem;
 }
-
 
 .grid-container {
   display: grid;
@@ -394,10 +385,9 @@ footer {
 
 @media screen and (max-width: 600px) {
   .grid-container {
-      grid-template-columns: auto auto; /* Two columns for smaller screens */
+    grid-template-columns: auto auto; /* Two columns for smaller screens */
   }
 }
-
 
 .centered-content {
   display: flex;
@@ -410,9 +400,9 @@ footer {
   text-decoration: underline;
 }
 
-img, iframe {
+img,
+iframe {
   -moz-user-select: none;
   -webkit-user-select: none;
   user-select: none;
 }
-

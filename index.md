@@ -61,7 +61,7 @@
             <br/> - Reduced manual data entry by ∼80% by streamlining an automated importing system from DB to front-end interface
             <br/> - Queried and parsed CSV data using SQL and Python scripts and developed analytical reports using Excel
             <br/> - Led QA testing on 4 features of database management interface and updated Azure tickets to report results/findings
-            <br/> - Updated 5 organization webpages with Drupal CMS and drafted 11 internal documentations on Community Air Protection (CAP) reporting processes, and on Executive Orders in compliance with State regulations
+            <br/> - Updated 5 organization webpages with Drupal CMS and drafted 11 internal documentations
         </p>
     </div>
 </div>
