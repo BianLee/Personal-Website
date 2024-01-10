@@ -16,7 +16,7 @@
 <!-- -->
 <h4>Work Experience</h4>
 <hr/>
-<div class="content-container" style="">
+<div class="content-container" style="margin-top: 5px;">
     <div class="image-container">
     <img src="/assets/fidelity.jpg" alt="Fidelity Investments" class="content-image fidelity firm-logo" loading="lazy">
     </div>
@@ -99,7 +99,7 @@
 
 <hr/>
 
-<div class="content-container" style="">
+<div class="content-container" style="margin-top: 5px;">
     <div class="image-container">
         <img src="/assets/aggieworksSecond.jpg" alt="AggieWorks" class="content-image firm-logo" loading="lazy">
     </div>
