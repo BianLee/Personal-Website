@@ -40,7 +40,7 @@
     <div class="content-text">
         <p>
              <span style="font-size: 18px"><b>Software Engineer Intern</b> - <mark>Optimizing.com</mark></span>
-            <br/><span style="color: gray">Nov 2023 - Present • Austin, Texas (remote)</span>
+            <br/><span style="color: gray">Nov 2023 - Present • Austin, Texas</span>
             <br/> - Collaborated on the backend development of CRM for business clients with Stripe integrations for financing
             <br/> - Reduced code redundancy by ∼20% through refactoring reusable components and employing nested routes in Remix
             <br/> - Designed relational (one-to-many) schemas in Prisma for customers/checkouts and implemented API endpoints with Action and LoaderFunctions to listen to HTTP requests, allowing for CRUD operations
@@ -56,7 +56,7 @@
     <div class="content-text">
         <p>
             <span style="font-size: 18px"><b>Data Analyst Intern</b> - <mark>California Air Resources Board</mark></span>
-            <br/><span style="color: gray">Jun 2023 - Present • Sacramento, California (hybrid)</span>
+            <br/><span style="color: gray">Jun 2023 - Present • Sacramento, California</span>
             <br/> - Performed QC on 6 datasets of 10K+ records to complete annual report calculations for aggregate air pollution emissions
             <br/> - Reduced manual data entry by ∼80% by streamlining an automated importing system from DB to front-end interface
             <br/> - Queried and parsed CSV data using SQL and Python scripts and developed analytical reports using Excel
@@ -87,7 +87,7 @@
     <div class="content-text">
         <p>
              <span style="font-size: 18px"><b>Analyst Intern</b> - <mark>Vestr</mark></span>
-            <br/><span style="color: gray">Nov 2022 - Jun 2023 • Clemson, South Carolina (remote)</span>
+            <br/><span style="color: gray">Nov 2022 - Jun 2023 • Clemson, South Carolina</span>
             <br/> -  Led sell-side stock equity research through Discounted Cash Flow model and market sentiment/industry analysis
             <br/> -  Edited and published weekly company newsletter and delivered +73% subscriber count growth <!-- <a href="/writing" target="_blank">[Writings]</a> -->
             <br/> - Worked directly alongside Founder/CEO and the lead developer in this Seed → Series A app startup
