@@ -282,7 +282,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
     </div>
     <div class="card">
         <h3>This portfolio site (bianlee.me)</h3>
-         <p>Jekyll, SCSS, Markdown</p>
+         <p><span style="color: gray">Jekyll, SCSS, Markdown</span></p>
     </div>
 </div>
 
