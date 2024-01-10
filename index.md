@@ -110,7 +110,7 @@
             </span>
             <span style="color: gray">Oct 2022 - Jun 2023 • Davis, California</span>
                 <br/> - Established backend infrastructure of Clubly.org by designing schemas, writing queries in GORM, and building API routes
-            <br/> - Implemented front-end UI components (modal, cards, navbar, search) with conditional rendering using Svelte.
+            <br/> - Implemented front-end UI components (modal, cards, navbar, search) with conditional rendering using Svelte
             <br/> - Wrote internal scripts in Golang, to track and query number of API calls made at every REST API endpoint
         </p>
     </div>
