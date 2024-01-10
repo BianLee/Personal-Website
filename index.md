@@ -250,6 +250,40 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 
 <h4>Technical Projects</h4>
 
+    <div class="card-container">
+        <!-- Card 1 -->
+        <div class="card">
+            <h3>Project Title 1</h3>
+            <p>Description...</p>
+            <p>Technologies: Tech 1, Tech 2...</p>
+            <a href="GitHub-URL">GitHub</a>
+        </div>
+
+        <!-- Card 2 -->
+        <div class="card">
+            <h3>Project Title 2</h3>
+            <p>Description...</p>
+            <p>Technologies: Tech 1, Tech 2...</p>
+            <a href="GitHub-URL">GitHub</a>
+        </div>
+
+        <!-- Card 3 -->
+        <div class="card">
+            <h3>Project Title 3</h3>
+            <p>Description...</p>
+            <p>Technologies: Tech 1, Tech 2...</p>
+            <a href="GitHub-URL">GitHub</a>
+        </div>
+
+        <!-- Card 4 -->
+        <div class="card">
+            <h3>Project Title 4</h3>
+            <p>Description...</p>
+            <p>Technologies: Tech 1, Tech 2...</p>
+            <a href="GitHub-URL">GitHub</a>
+        </div>
+    </div>
+
 <hr/>
 - <b>DSM-5 Diagnostic Chatbot</b> <a href="https://github.com/ritvikir/hackdavis" target="_blank">[GitHub]</a><br/><span style="color: gray">Jun 2023 • GPT-3.5 Turbo, Pinecone, Langchain, MongoDB</span> <br/>Leveraged LLM to parse through DSM-5 with semantic search, storing data as vector embeddings in Pinecone database. Fine-tuned OpenAI’s GPT-3.5 turbo and used React in Next.js to create an interactive diagnostic chatbot. Executed Python scripts in Beautiful Soup to scrape web data of nearby physicians & clinics, storing them as key-value documents in MongoDB. Built and Served NodeJS API and used Axios library to fetch & render data on screen.
 
