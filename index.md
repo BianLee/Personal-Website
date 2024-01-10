@@ -91,13 +91,12 @@
             <span style="color: gray">Nov 2022 - Jun 2023 • Clemson, South Carolina</span>
             <br/> -  Led sell-side stock equity research through Discounted Cash Flow model and market sentiment/industry analysis
             <br/> -  Edited and published weekly company newsletter and delivered +73% subscriber count growth
+            <br/> - Worked directly alongside Founder/CEO & Engineer in the Series A startup
         </p>
     </div>
 </div>
 <div style="margin-top: 15px;"></div>
-<h4>Club & Extraccuricular Experience</h4>
-
-<hr/>
+<h4>Club & Extracurricular Experience</h4>
 
 <div class="content-container" style="margin-top: 14px;">
     <div class="image-container">
@@ -140,8 +139,6 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 
 <div style="margin-top: 15px;"></div>
 <h4>Education & Relevant Coursework</h4>
-
-<hr/>
 
 <div class="content-container">
 <div class="image-container">
@@ -251,44 +248,60 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 <h4>Technical Projects</h4>
 <div class="card-container">
     <!-- Card 1 -->
-    <div class="card">
-        <h3>DSM-5 Diagnostic Chatbot</h3>
-        <p>Leveraged LLM to parse through DSM-5 with semantic search, storing data as vector embeddings in Pinecone database. Fine-tuned OpenAI’s GPT-3.5 turbo and used React in Next.js to create an interactive diagnostic chatbot. Executed Python scripts in Beautiful Soup to scrape web data of nearby physicians & clinics, storing them as key-value documents in MongoDB. Built and Served NodeJS API and used Axios library to fetch & render data on screen.
-        <br/><br/><span style="color: gray">GPT-3.5 Turbo, Pinecone, Langchain, MongoDB</span></p>
-    </div>
-    <div class="card">
-        <h3>Decentralized Exchange & ERC-20 Token</h3>
-        <p>Wrote smart contracts in Solidity to create a custom ERC-20 token & tokenomics and a decentralized exchange. Implemented Constant Product Market formula used in Automated Market Making (AMM) systems, and deployed on Ethereum blockchain (mainnet) to allow users to trade custom token for ETH using Metamask wallet.<br/><br/><span style="color: gray">Solidity, Web3.js, React, Truffle Suite</span></p>
-    </div>
-    <div class="card">
-        <h3>EdTech App (opensourcecollage.com)</h3>
-        <p>Independently built a full-stack EdTech app that allows browsing & sharing extracurricular and volunteer opportunities. Onboarded 18 non-profits and received 22k+ total visitors on the platform, after launching on Product Hunt. Received monetary prize & mentorship from business consultant, Silicon Valley SVSCORE (Mentor: Chuck Scifers).<br/><br/><span style="color: gray">MongoDB, Express.js, React.js, Node.js (MERN), Firebase</span></p>
-    </div>
-    <div class="card">
-        <h3>D3.JS SVG-map</h3>
-        <p>An interactive map on the front-end that plots city coordinates upon user input, and renders a SVG map (with pan & zoom functionality) using D3.js library and svg-pan-zoom.<br/><br/> <span style="color: gray">Next.js, D3.js</span></p>
-    </div>
-     <div class="card">
-        <h3>EmpireWebSpace (empireweb.space)</h3>
-         <p>Founded 7-member web agency currently doing pro bono work for local non-profits.<br/><br/><span style="color: gray">Next.js</span></p>
-    </div>
-    <div class="card">
-        <h3>InterSTEM 501(c)(3) website (interstem.us)</h3>
-         <p>Led the development of organization website and managed a tech team of 6. Published 148 articles and received 200k+ views.<br/><br/> <span style="color: gray">Jekyll, Markdown, and SCSS</span></p>
-    </div>
-    <div class="card">
-    <h3>NHS Cybersecurity Club website (nhscyber.club)</h3>
-    <p><span style="color: gray">HTML, CSS, JavaScript, Bootstrap</span></p>
-    </div>
+      <a href="https://github.com/ritvikir/hackdavis" target="_blank" class="card-link">
+        <div class="card">
+            <h3>DSM-5 Diagnostic Chatbot</h3>
+            <p>Leveraged LLM to parse through DSM-5 with semantic search, storing data as vector embeddings in Pinecone database. Fine-tuned OpenAI’s GPT-3.5 turbo and used React in Next.js to create an interactive diagnostic chatbot. Executed Python scripts in Beautiful Soup to scrape web data of nearby physicians & clinics, storing them as key-value documents in MongoDB. Built and Served NodeJS API and used Axios library to fetch & render data on screen.
+            <br/><br/><span style="color: gray">GPT-3.5 Turbo, Pinecone, Langchain, MongoDB</span></p>
+        </div>
+    </a>
+    <a href="https://github.com/BianLee/Decentralized-Exchange-Model-ERC-20-Token" target="_blank" class="card-link">
+        <div class="card">
+            <h3>Decentralized Exchange & ERC-20 Token</h3>
+            <p>Wrote smart contracts in Solidity to create a custom ERC-20 token & tokenomics and a decentralized exchange. Implemented Constant Product Market formula used in Automated Market Making (AMM) systems, and deployed on Ethereum blockchain (mainnet) to allow users to trade custom token for ETH using Metamask wallet.<br/><br/><span style="color: gray">Solidity, Web3.js, React, Truffle Suite</span></p>
+        </div>
+    </a>
+    <a href="https://github.com/BianLee/opensourcecollage.com" target="_blank" class="card-link">
+        <div class="card">
+            <h3>EdTech App (opensourcecollage.com)</h3>
+            <p>Independently built a full-stack EdTech app that allows browsing & sharing extracurricular and volunteer opportunities. Onboarded 18 non-profits and received 22k+ total visitors on the platform, after launching on Product Hunt. Received monetary prize & mentorship from business consultant, Silicon Valley SVSCORE (Mentor: Chuck Scifers).<br/><br/><span style="color: gray">MongoDB, Express.js, React.js, Node.js (MERN), Firebase</span></p>
+        </div>
+    </a>
+    <a href="https://github.com/BianLee/D3-SVG-Map" target="_blank" class="card-link">
+        <div class="card">
+            <h3>D3.JS SVG-map</h3>
+            <p>An interactive map on the front-end that plots city coordinates upon user input, and renders a SVG map (with pan & zoom functionality) using D3.js library and svg-pan-zoom.<br/><br/> <span style="color: gray">Next.js, D3.js</span></p>
+        </div>
+    </a>
+    <a href="https://github.com/Empirewebspace/empirewebspace" target="_blank" class="card-link">
+        <div class="card">
+            <h3>EmpireWebSpace (empireweb.space)</h3>
+            <p>Founded 7-member web agency currently doing pro bono work for local non-profits.<br/><br/><span style="color: gray">Next.js</span></p>
+        </div>
+    </a>
+    <a href="https://github.com/InterSTEMDev/interstem.us" target="_blank" class="card-link">
+        <div class="card">
+            <h3>InterSTEM 501(c)(3) website (interstem.us)</h3>
+            <p>Led the development of organization website and managed a tech team of 6. Published 148 articles and received 200k+ views.<br/><br/> <span style="color: gray">Jekyll, Markdown, and SCSS</span></p>
+        </div>
+    </a>
+    <a href="https://github.com/BianLee/nhscyber.club" target="_blank" class="card-link">
+        <div class="card">
+        <h3>NHS Cybersecurity Club website (nhscyber.club)</h3>
+        <p><span style="color: gray">HTML, CSS, JavaScript, Bootstrap</span></p>
+        </div>
+    </a>
+    <a href="https://github.com/BianLee/Personal-Website" target="_blank" class="card-link">
     <div class="card">
         <h3>This portfolio site (bianlee.me)</h3>
          <p><span style="color: gray">Jekyll, SCSS, Markdown</span></p>
     </div>
+    </a>
+
 </div>
 
 <h4>Awards & Certifications</h4>
 
-<hr/>
 <div style="margin-top:1rem"></div>
 - UC Davis Dean's Honors List (College of Engineering)
 - UC Davis Little Bang! Pitch + Poster Competition Winner at Graduate School of Management (Awarded $1K) <a href="https://innovate.ucdavis.edu/blog/borrow-blog" target="_blank">[Article]</a>
@@ -300,7 +313,6 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 
 <h4>Skills</h4>
 
-<hr/>
 <div style="margin-top:1rem"></div>
 - <b>Languages</b>: Python, Java, C, C++, JavaScript, TypeScript, Golang, Solidity, SQL, HTML, CSS
 - <b>Framework</b>: React.js, Next.js, Remix, Node.js, Express.js, Web3.js, D3.js, Git, GitHub, MongoDB, Tailwind, Drupal, Jupyter Notebook, PostgreSQL, Svelte, BeautifulSoup, Postman, Clerk, Supabase, Docker, Zustand, Linux, Microsoft Excel
