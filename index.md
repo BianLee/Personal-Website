@@ -304,11 +304,11 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 
 <div style="margin-top:1rem"></div>
 - UC Davis Dean's Honors List (College of Engineering)
-- UC Davis Little Bang! Pitch + Poster Competition Winner at Graduate School of Management (Awarded $1K) <a href="https://innovate.ucdavis.edu/blog/borrow-blog" target="_blank">[Article]</a>
+- <a href="https://innovate.ucdavis.edu/blog/borrow-blog" target="_blank" style="text-decoration: underline; color: #444; text-decoration-color: red; text-underline-position: under;">UC Davis Little Bang! Pitch + Poster Competition Winner at Graduate School of Management (Awarded $1K)</a>
 - Cyber Skyline SoCal Cyber Cup 3rd Place (Awarded $2.5K)
 - CyberPatriot National Semifinalist
-- CompTIA IT Fundamentals+ Certification <a href="https://www.certmetrics.com/comptia/public/verification.aspx?code=JTD0JHWW0YKLF3G4" target="_blank">[Credential]</a>
-- Jira Software Fundamentals Certification <a href="https://university.atlassian.com/student/award/aW68xiZ7xKtfrwFSYWbgQmnc" target="_blank">[Credential]</a>
+- <a href="https://www.certmetrics.com/comptia/public/verification.aspx?code=JTD0JHWW0YKLF3G4" target="_blank" style="text-decoration: underline; color: #444; text-decoration-color: red; text-underline-position: under;">CompTIA IT Fundamentals+ Certification</a>
+- <a href="https://university.atlassian.com/student/award/aW68xiZ7xKtfrwFSYWbgQmnc" target="_blank" style="text-decoration: underline; color: #444; text-decoration-color: red; text-underline-position: under;">Jira Software Fundamentals Certification</a>
 - AP Scholar with Distinction
 
 <h4>Skills</h4>
