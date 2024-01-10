@@ -310,13 +310,18 @@ code {
     position: relative; /* Revert to normal positioning on smaller screens */
     margin-left: auto !important;
     margin-right: auto !important;
-    width: 50%;
     transform: none;
+  }
+  .image-container {
+    width: 23% !important;
   }
   p,
   li {
     font-size: 1.01rem; //1.1
     line-height: 142%;
+  }
+  li {
+    margin: 0.2rem 0 0 1rem;
   }
 }
 

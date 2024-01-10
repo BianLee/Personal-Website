@@ -25,7 +25,7 @@
     <div class="content-text">
         <p>
              <span style="font-size: 18px"><b>Incoming Software Engineer Intern</b> - <mark>Fidelity Investments</mark></span>
-            <br/><span style="color: gray">Jun 2024 - Aug 2024 • Merrimack, New Hampshire (on-site)</span>
+            <br/><span style="color: gray">Jun 2024 - Aug 2024 • Merrimack, New Hampshire</span>
             <br/> - Incoming SWE Intern at Fidelity Investments for Summer 2024
 
 </p>
@@ -142,7 +142,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
        <b>University of California, Davis</b>. B.S. Computer Science and Engineering '25
       <br/> - ECS36A: Object-Oriented Programming in C++
       <br/> - ECS36B: Data Structures & Algorithms
-      <br/> - ECS50: Machine-Dependent Programming (x86 Assembly)
+      <br/> - ECS50: Machine-Dependent Programming
       <br/> - ECS20: Discrete Mathematics For Computer Science
       <br/> - MAT21C: Multivariable Calculus
       <br/> - MAT22A: Linear Algebra
@@ -159,7 +159,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
         <p>
        <b>Irvine Valley College</b>: Dual Enrollment '20-22. GPA: 4.0
       <br/> - CIM 160: Computer Network Fundamentals
-      <br/> - CIM 161: Systems and Network Administrator (Linux)
+      <br/> - CIM 161: Systems Administrator (Linux)
       <br/> - CIM 110: Information and Technology Essentials
       <br/> - CIM 115: Databases
       <br/> - ENTR 200: Entrepreneurship
@@ -182,7 +182,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
         <br/> - ARCH 111: Introduction to Architecture
         <br/> - BUS 186: Business Economics
         <br/> - CIS 111: Introduction to Information Systems
-        <br/> - BUS 186: Funding Special Projects and New Ventures
+        <br/> - BUS 186: Funding Projects and New Ventures
         </p>
     </div>
 </div>
@@ -213,7 +213,6 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 <h4>Technical Projects</h4>
 
 <hr/>
-
 - <b>DSM-5 Diagnostic Chatbot</b> <a href="https://github.com/ritvikir/hackdavis" target="_blank">[GitHub]</a><br/><span style="color: gray">Jun 2023 • GPT-3.5 Turbo, Pinecone, Langchain, MongoDB</span> <br/>Leveraged LLM to parse through DSM-5 with semantic search, storing data as vector embeddings in Pinecone database. Fine-tuned OpenAI’s GPT-3.5 turbo and used React in Next.js to create an interactive diagnostic chatbot. Executed Python scripts in Beautiful Soup to scrape web data of nearby physicians & clinics, storing them as key-value documents in MongoDB. Built and Served NodeJS API and used Axios library to fetch & render data on screen.
 
 - <b>Decentralized Exchange & ERC-20 Token</b> <a href="https://github.com/BianLee/Decentralized-Exchange-Model-ERC-20-Token" target="_blank">[GitHub]</a><br/><span style="color: gray">Dec 2022 • Solidity, Web3.js, React, Truffle Suite</span><br/>Wrote smart contracts in Solidity to create a custom ERC-20 token & tokenomics and a decentralized exchange. Implemented Constant Product Market formula used in Automated Market Making (AMM) systems, and deployed on Ethereum blockchain (mainnet) to allow users to trade custom token for ETH using Metamask wallet.
