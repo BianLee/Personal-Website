@@ -16,7 +16,7 @@
 <!-- -->
 <h4>Work Experience</h4>
 <hr/>
-<div class="content-container" style="margin-top: 5px;">
+<div class="content-container" style="margin-top: 14px;">
     <div class="image-container">
     <img src="/assets/fidelity.jpg" alt="Fidelity Investments" class="content-image fidelity firm-logo" loading="lazy">
     </div>
@@ -29,7 +29,7 @@
 
 </span>
            <span style="color: gray">Jun 2024 - Aug 2024 • Merrimack, New Hampshire</span>
-            <br/> - Incoming SWE Intern at Fidelity Investments for Summer
+            <br/> - Incoming SWE Intern at Fidelity Investments for Summer 2024
 
 </p>
 </div>
@@ -53,6 +53,7 @@
             <br/> - Designed relational (one-to-many) schemas in Prisma for customers/checkouts and implemented API endpoints with Action and LoaderFunctions to listen to HTTP requests, allowing for CRUD operations
         </p>
     </div>
+
 </div>
 
 <div class="content-container" style="">
@@ -71,9 +72,9 @@
             <br/> - Reduced manual data entry by ∼80% by streamlining an automated importing system from DB to front-end interface
             <br/> - Queried and parsed CSV data using SQL and Python scripts and developed analytical reports using Excel
             <br/> - Led QA testing on 4 features of database management interface and updated Azure tickets to report results/findings
-            <br/> - Updated 5 organization webpages with Drupal CMS and drafted 11 internal documentations
         </p>
     </div>
+
 </div>
 
 <div class="content-container">
@@ -90,7 +91,6 @@
             <span style="color: gray">Nov 2022 - Jun 2023 • Clemson, South Carolina</span>
             <br/> -  Led sell-side stock equity research through Discounted Cash Flow model and market sentiment/industry analysis
             <br/> -  Edited and published weekly company newsletter and delivered +73% subscriber count growth
-            <br/> - Worked directly alongside Founder/CEO and the lead developer in this Seed → Series A app startup
         </p>
     </div>
 </div>
@@ -99,7 +99,7 @@
 
 <hr/>
 
-<div class="content-container" style="margin-top: 5px;">
+<div class="content-container" style="margin-top: 14px;">
     <div class="image-container">
         <img src="/assets/aggieworksSecond.jpg" alt="AggieWorks" class="content-image firm-logo" loading="lazy">
     </div>
@@ -243,7 +243,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
                 <span class="company">GPA: 3.9UW/4.2W</span>
             </span>
           <span style="color: gray">'22 • Irvine, California</span>
-      <br/>Philharmonic Orchestra, Choir, Engineering Club (VP), Cybersecurity Club (VP), Musicians United for Service and Entertainment (Events Coordinator), Model UN (Treasurer), Startup Club (Treasurer).
+      <br/>Philharmonic Orchestra, Choir, Engineering Club (VP), Cybersecurity Club (VP), Musicians United for Service and Entertainment (Events Coordinator), Model UN (Treasurer), Startup Club (Treasurer)
         </p>
     </div>
 </div>
