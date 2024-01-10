@@ -128,8 +128,8 @@ h4 {
 // typography: body
 p,
 li {
-  font-size: 1.05rem; //1.1
-  line-height: 150%;
+  font-size: 1rem; //1.1
+  line-height: 140%;
   color: #444;
   margin: 1.2rem 0;
 }
@@ -269,7 +269,7 @@ code {
 }
 .internship-title .role,
 .internship-title .company {
-  font-size: 18px;
+  font-size: 1.1rem;
 }
 
 @media (max-width: 768px) {
@@ -365,8 +365,8 @@ mark {
 }
 
 .image-container {
-  width: 150px; /* Adjust the width as needed */
-  margin-right: 10px;
+  width: 140px; /* Adjust the width as needed */
+  margin-right: 8px;
   overflow: hidden; /* Hide any overflow content */
   position: relative; /* Create a positioning context for child elements */
 }

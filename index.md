@@ -16,7 +16,7 @@
 <!-- -->
 <h4>Work Experience</h4>
 <hr/>
-<div class="content-container" style="margin-top: 14px">
+<div class="content-container" style="">
     <div class="image-container">
     <img src="/assets/fidelity.jpg" alt="Fidelity Investments" class="content-image fidelity firm-logo" loading="lazy">
     </div>
@@ -36,31 +36,38 @@
 
 </div>
 
-<div class="content-container">
+<div class="content-container" style="">
     <div class="image-container">
-    <img src="/assets/optimizing.jpg" alt="Optimizing.com" class="content-image optimizing firm-logo" loading="lazy">
-</div>
-    <div class="content-text">
-        <p>
-             <span style="font-size: 18px"><b>Software Engineer Intern</b> - <mark>Optimizing.com</mark></span>
-            <br/><span style="color: gray">Nov 2023 - Present • Austin, Texas</span>
-            <br/> - Collaborated on the backend development of CRM for business clients with Stripe integrations for financing
-            <br/> - Reduced code redundancy by ∼20% through refactoring reusable components and employing nested routes in Remix
-            <br/> - Designed relational (one-to-many) schemas in Prisma for customers/checkouts and implemented API endpoints with Action and LoaderFunctions to listen to HTTP requests, allowing for CRUD operations
-
-</p>
-</div>
-
-</div>
-<div class="content-container">
-    <div class="image-container">
-    <img src="/assets/carb.jpeg" alt="California Air Resources Board" class="content-image firm-logo" loading="lazy">
+        <img src="/assets/optimizing.jpg" alt="Optimizing.com" class="content-image optimizing firm-logo" loading="lazy">
     </div>
     <div class="content-text">
         <p>
-            <span style="font-size: 18px"><b>Data Analyst Intern</b> - <mark>California Air Resources Board</mark></span>
-            <br/><span style="color: gray">Jun 2023 - Present • Sacramento, California</span>
-            <br/> - Performed QC on 6 datasets of 10K+ records to complete annual report calculations for aggregate air pollution emissions
+            <span class="internship-title">
+                <span class="role"><b>Software Engineer Intern</b></span>
+                <span class="hyphen">&nbsp;-&nbsp;</span>
+                <span class="company"><mark>Optimizing.com</mark></span>
+            </span>
+            <span style="color: gray">Nov 2023 - Present • Austin, Texas</span>
+            <br/> - Collaborated on the backend development of CRM for business clients with Stripe integrations for financing
+            <br/> - Reduced code redundancy by ∼20% through refactoring reusable components and employing nested routes in Remix
+            <br/> - Designed relational (one-to-many) schemas in Prisma for customers/checkouts and implemented API endpoints with Action and LoaderFunctions to listen to HTTP requests, allowing for CRUD operations
+        </p>
+    </div>
+</div>
+
+<div class="content-container" style="">
+    <div class="image-container">
+        <img src="/assets/carb.jpeg" alt="California Air Resources Board" class="content-image firm-logo" loading="lazy">
+    </div>
+    <div class="content-text">
+        <p>
+            <span class="internship-title">
+                <span class="role"><b>Data Analyst Intern</b></span>
+                <span class="hyphen">&nbsp;-&nbsp;</span>
+                <span class="company"><mark>California Air Resources Board</mark></span>
+            </span>
+            <span style="color: gray">Jun 2023 - Present • Sacramento, California</span>
+             <br/> - Performed QC on 6 datasets of 10K+ records to complete annual report calculations for aggregate air pollution emissions
             <br/> - Reduced manual data entry by ∼80% by streamlining an automated importing system from DB to front-end interface
             <br/> - Queried and parsed CSV data using SQL and Python scripts and developed analytical reports using Excel
             <br/> - Led QA testing on 4 features of database management interface and updated Azure tickets to report results/findings
@@ -69,30 +76,20 @@
     </div>
 </div>
 
-<!--
-<div class="content-container">
-    <img src="/assets/carb.jpeg" alt="California Air Resources Board" class="content-image">
-    <div class="content-text">
-        <p>
-            <b>Data Analyst Intern</b> at California Air Resources Board
-            <br/> - Performed data quality control and assisted database migration to .NET system.
-            <br/> - Generated analytical reports on CSV datasets using Excel, SQL query commands, and Python scripting. Developed a calculator tool to compute emission reduction data for equipment, given load factor values and formulas.
-            <br/> - Assisted organization webpage creation with Drupal CMS. Drafted 11 internal documentations on Community Air Protection (CAP) reporting processes and on executive orders in compliance with State regulations.
-        </p>
-    </div>
-</div>
--->
-
 <div class="content-container">
     <div class="image-container">
     <img src="/assets/vestr.jpg" alt="Vestr.io" class="content-image firm-logo" loading="lazy">
     </div>
     <div class="content-text">
         <p>
-             <span style="font-size: 18px"><b>Analyst Intern</b> - <mark>Vestr</mark></span>
-            <br/><span style="color: gray">Nov 2022 - Jun 2023 • Clemson, South Carolina</span>
+         <span class="internship-title">
+                <span class="role"><b>Analyst Intern</b></span>
+                <span class="hyphen">&nbsp;-&nbsp;</span>
+                <span class="company"><mark>Vestr</mark></span>
+            </span>
+            <span style="color: gray">Nov 2022 - Jun 2023 • Clemson, South Carolina</span>
             <br/> -  Led sell-side stock equity research through Discounted Cash Flow model and market sentiment/industry analysis
-            <br/> -  Edited and published weekly company newsletter and delivered +73% subscriber count growth <!-- <a href="/writing" target="_blank">[Writings]</a> -->
+            <br/> -  Edited and published weekly company newsletter and delivered +73% subscriber count growth
             <br/> - Worked directly alongside Founder/CEO and the lead developer in this Seed → Series A app startup
         </p>
     </div>
@@ -101,36 +98,46 @@
 <h4>Club & Extraccuricular Experience</h4>
 
 <hr/>
-<div class="content-container" style="margin-top: 14px">
-<div class="image-container">
-    <img src="/assets/aggieworksSecond.jpg" alt="AggieWorks" class="content-image firm-logo" loading="lazy">
+
+<div class="content-container" style="">
+    <div class="image-container">
+        <img src="/assets/aggieworksSecond.jpg" alt="AggieWorks" class="content-image firm-logo" loading="lazy">
     </div>
     <div class="content-text">
         <p>
-        <span style="font-size: 18px"><b>Software Engineer</b> - <mark>AggieWorks</mark></span>
-          <br/><span style="color: gray">Oct 2022 - Jun 2023 • Davis, California</span>
-          <br/> - Established backend infrastructure of Clubly.org by designing schemas, writing queries in GORM, and building API routes
-          <br/> - Implemented front-end UI components (modal, cards, navbar, search) with conditional rendering using Svelte.
-          <br/> - Wrote internal scripts in Golang, to track and query number of API calls made at every REST API endpoint
+            <span class="internship-title">
+                <span class="role"><b>Software Engineer</b></span>
+                <span class="hyphen">&nbsp;-&nbsp;</span>
+                <span class="company"><mark>AggieWorks</mark></span>
+            </span>
+            <span style="color: gray">Oct 2022 - Jun 2023 • Davis, California</span>
+                <br/> - Established backend infrastructure of Clubly.org by designing schemas, writing queries in GORM, and building API routes
+            <br/> - Implemented front-end UI components (modal, cards, navbar, search) with conditional rendering using Svelte.
+            <br/> - Wrote internal scripts in Golang, to track and query number of API calls made at every REST API endpoint
         </p>
     </div>
 </div>
 
-<div class="content-container">
-<div class="image-container">
-    <img src="/assets/socal.png" alt="SoCal Community College Consortium on Cybersecurity" class="content-image firm-logo" loading="lazy">
+<div class="content-container" style="">
+    <div class="image-container">
+        <img src="/assets/socal.png" alt="SoCal Community College Consortium on Cybersecurity" class="content-image firm-logo" loading="lazy">
     </div>
     <div class="content-text">
         <p>
-        <span style="font-size: 18px"><b>Technical Mentor</b> - <mark>SoCal Community College Consortium on Cybersecurity</mark></span>
-            <br/><span style="color: gray">Oct 2021 - Mar 2022 • Irvine, California</span>
-          <br/> - Collaborated with professors from Irvine Valley College’s Computer Information Management (CIM) department to
+            <span class="internship-title">
+                <span class="role"><b>Technical Mentor</b></span>
+                <span class="hyphen">&nbsp;-&nbsp;</span>
+                <span class="company"><mark>SoCal Community College Consortium on Cybersecurity</mark></span>
+            </span>
+            <span style="color: gray">Oct 2021 - Mar 2022 • Irvine, California</span>
+             <br/> - Collaborated with professors from Irvine Valley College’s Computer Information Management (CIM) department to
 create prepatory CyberPatriot (security competition) materials, as a national semifinalist in the previous season
           <br/> - Wrote 15 CTF problems & solutions for org-wide contests, on topics of cryptography and Linux OS
           <br/> - Developed training VM images for Ubuntu OS using Ansible and Shell Script
         </p>
     </div>
 </div>
+
 <div style="margin-top: 15px;"></div>
 <h4>Education & Relevant Coursework</h4>
 
@@ -142,16 +149,23 @@ create prepatory CyberPatriot (security competition) materials, as a national se
     </div>
     <div class="content-text">
         <p>
-       <b>University of California, Davis</b>. B.S. Computer Science and Engineering '25
+
+            <span class="internship-title">
+                <span class="role"><b>University of California, Davis</b></span>
+                <span class="hyphen">&nbsp;-&nbsp;</span>
+                <span class="company">B.S. Computer Science and Engineering</span>
+            </span>
+              <span style="color: gray">'25 • Davis, California</span>
       <br/> - ECS36A: Object-Oriented Programming in C++
       <br/> - ECS36B: Data Structures & Algorithms
       <br/> - ECS50: Machine-Dependent Programming
-      <br/> - ECS20: Discrete Mathematics For Computer Science
+      <br/> - ECS20: Discrete Mathematics
       <br/> - MAT21C: Multivariable Calculus
       <br/> - MAT22A: Linear Algebra
       <br/> - STA131A: Probability Theory
         </p>
     </div>
+
 </div>
 
 <div class="content-container">
@@ -160,7 +174,12 @@ create prepatory CyberPatriot (security competition) materials, as a national se
     </div>
     <div class="content-text">
         <p>
-       <b>Irvine Valley College</b>: Dual Enrollment '20-22. GPA: 4.0
+         <span class="internship-title">
+                <span class="role"><b>Irvine Valley College</b></span>
+                <span class="hyphen">&nbsp;-&nbsp;</span>
+                <span class="company">Dual Enrollment, GPA: 4.0</span>
+            </span>
+              <span style="color: gray">'20-22 • Irvine, California</span>
       <br/> - CIM 160: Computer Network Fundamentals
       <br/> - CIM 161: Systems Administrator (Linux)
       <br/> - CIM 110: Information and Technology Essentials
@@ -171,6 +190,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
       <br/> - ASTR 20: General Astronomy
         </p>
     </div>
+
 </div>
 
 <div class="content-container">
@@ -179,7 +199,12 @@ create prepatory CyberPatriot (security competition) materials, as a national se
     </div>
     <div class="content-text">
         <p>
-        <b>Fullerton College</b>: Dual Enrollment '20-22. GPA: 3.8
+                 <span class="internship-title">
+                <span class="role"><b>Fullerton College</b></span>
+                <span class="hyphen">&nbsp;-&nbsp;</span>
+                <span class="company">Dual Enrollment, GPA: 3.8</span>
+            </span>
+        <span style="color: gray">'20-22 • Fullerton, California</span>
         <br/> - MATH 151: Calculus I
         <br/> - MATH 152: Calculus II
         <br/> - ARCH 111: Introduction to Architecture
@@ -196,7 +221,12 @@ create prepatory CyberPatriot (security competition) materials, as a national se
     </div>
     <div class="content-text">
         <p>
-      <b>Saddleback College</b>: Dual Enrollment '21. GPA: 4.0
+            <span class="internship-title">
+                <span class="role"><b>Saddleback College</b></span>
+                <span class="hyphen">&nbsp;-&nbsp;</span>
+                <span class="company">Dual Enrollment, GPA: 4.0</span>
+            </span>
+          <span style="color: gray">'21 • Mission Viejo, California</span>
       <br/> - PSYC 1: Introduction to Psychology
         </p>
     </div>
@@ -207,7 +237,12 @@ create prepatory CyberPatriot (security competition) materials, as a national se
     </div>
     <div class="content-text">
         <p>
-      <b>Northwood High School</b>: GPA: 3.9UW/4.2W
+                <span class="internship-title">
+                <span class="role"><b>Northwood High School</b></span>
+                <span class="hyphen">&nbsp;-&nbsp;</span>
+                <span class="company">GPA: 3.9UW/4.2W</span>
+            </span>
+          <span style="color: gray">'22 • Irvine, California</span>
       <br/>Philharmonic Orchestra, Choir, Engineering Club (VP), Cybersecurity Club (VP), Musicians United for Service and Entertainment (Events Coordinator), Model UN (Treasurer), Startup Club (Treasurer).
         </p>
     </div>
