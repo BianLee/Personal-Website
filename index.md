@@ -249,58 +249,42 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 </div>
 
 <h4>Technical Projects</h4>
-
-    <div class="card-container">
-        <!-- Card 1 -->
-        <div class="card">
-            <h3>Project Title 1</h3>
-            <p>Description...</p>
-            <p>Technologies: Tech 1, Tech 2...</p>
-            <a href="GitHub-URL">GitHub</a>
-        </div>
-
-        <!-- Card 2 -->
-        <div class="card">
-            <h3>Project Title 2</h3>
-            <p>Description...</p>
-            <p>Technologies: Tech 1, Tech 2...</p>
-            <a href="GitHub-URL">GitHub</a>
-        </div>
-
-        <!-- Card 3 -->
-        <div class="card">
-            <h3>Project Title 3</h3>
-            <p>Description...</p>
-            <p>Technologies: Tech 1, Tech 2...</p>
-            <a href="GitHub-URL">GitHub</a>
-        </div>
-
-        <!-- Card 4 -->
-        <div class="card">
-            <h3>Project Title 4</h3>
-            <p>Description...</p>
-            <p>Technologies: Tech 1, Tech 2...</p>
-            <a href="GitHub-URL">GitHub</a>
-        </div>
+<div class="card-container">
+    <!-- Card 1 -->
+    <div class="card">
+        <h3>DSM-5 Diagnostic Chatbot</h3>
+        <p>Leveraged LLM to parse through DSM-5 with semantic search, storing data as vector embeddings in Pinecone database. Fine-tuned OpenAI’s GPT-3.5 turbo and used React in Next.js to create an interactive diagnostic chatbot. Executed Python scripts in Beautiful Soup to scrape web data of nearby physicians & clinics, storing them as key-value documents in MongoDB. Built and Served NodeJS API and used Axios library to fetch & render data on screen.
+        <br/><br/><span style="color: gray">GPT-3.5 Turbo, Pinecone, Langchain, MongoDB</span></p>
     </div>
-
-<hr/>
-- <b>DSM-5 Diagnostic Chatbot</b> <a href="https://github.com/ritvikir/hackdavis" target="_blank">[GitHub]</a><br/><span style="color: gray">Jun 2023 • GPT-3.5 Turbo, Pinecone, Langchain, MongoDB</span> <br/>Leveraged LLM to parse through DSM-5 with semantic search, storing data as vector embeddings in Pinecone database. Fine-tuned OpenAI’s GPT-3.5 turbo and used React in Next.js to create an interactive diagnostic chatbot. Executed Python scripts in Beautiful Soup to scrape web data of nearby physicians & clinics, storing them as key-value documents in MongoDB. Built and Served NodeJS API and used Axios library to fetch & render data on screen.
-
-- <b>Decentralized Exchange & ERC-20 Token</b> <a href="https://github.com/BianLee/Decentralized-Exchange-Model-ERC-20-Token" target="_blank">[GitHub]</a><br/><span style="color: gray">Dec 2022 • Solidity, Web3.js, React, Truffle Suite</span><br/>Wrote smart contracts in Solidity to create a custom ERC-20 token & tokenomics and a decentralized exchange. Implemented Constant Product Market formula used in Automated Market Making (AMM) systems, and deployed on Ethereum blockchain (mainnet) to allow users to trade custom token for ETH using Metamask wallet.
-
-- <b>D3.JS SVG-map</b> <a href="https://github.com/BianLee/D3-SVG-Map" target="_blank">[GitHub]</a><br/><span style="color: gray">Oct 2023 • Next.js, D3.js</span><br/> An interactive map on the front-end that plots city coordinates upon user input, and renders a SVG map (with pan & zoom functionality) using D3.js library and svg-pan-zoom.
-
-- <b>EdTech App (opensourcecollage.com)</b>
-  <a href="https://opensourcecollage.com" target="_blank">[Web App]</a> <a href="https://github.com/BianLee/opensourcecollage.com" target="_blank">[GitHub]</a> <a href="https://www.producthunt.com/products/open-source-collage#open-source-collage" target="_blank">[Product Hunt]</a><br/> <span style="color: gray">Jan 2022 • MongoDB, Express.js, React.js, Node.js (MERN), Firebase</span> <br/>Independently built a full-stack EdTech app that allows browsing & sharing extracurricular and volunteer opportunities. Onboarded 18 non-profits and received 22k+ total visitors on the platform, after launching on Product Hunt. Received monetary prize & mentorship from business consultant, Silicon Valley SVSCORE (Mentor: Chuck Scifers).
-
-- <b>This portfolio site (bianlee.me)</b> <a href="https://github.com/BianLee/Personal-Website" target="_blank">[GitHub]</a><br/> <span style="color: gray">Jun 2023 • Jekyll, SCSS, Markdown</span>
-
-- <b>EmpireWebSpace (empireweb.space)</b> <a href="https://www.empireweb.space/" target="_blank">[Website]</a> <a href="https://github.com/Empirewebspace/empirewebspace" target="_blank">[GitHub]</a><br/><span style="color: gray">Apr 2023 • Next.js</span> <br/> Founded 7-member web agency currently doing pro bono work for local non-profits.
-
-- <b>InterSTEM 501(c)(3) website (interstem.us)</b>: <a href="https://interstem.us" target="_blank">[Website]</a> <a href="https://github.com/InterSTEMDev/interstem.us" target="_blank">[GitHub]</a><br/><span style="color: gray">June 2020 • Jekyll, Markdown, and SCSS</span> <br/> Led the development of organization website and managed a tech team of 6. Published 148 articles and received 200k+ views.
-
-- <b>NHS Cybersecurity Club website (nhscyber.club)</b> <a href="https://nhscyber.club" target="_blank">[Website]</a> <a href="https://github.com/BianLee/nhscyber.club.git" target="_blank">[GitHub]</a><br/><span style="color: gray">Oct 2019 • HTML, CSS, JavaScript, Bootstrap</span>
+    <div class="card">
+        <h3>Decentralized Exchange & ERC-20 Token</h3>
+        <p>Wrote smart contracts in Solidity to create a custom ERC-20 token & tokenomics and a decentralized exchange. Implemented Constant Product Market formula used in Automated Market Making (AMM) systems, and deployed on Ethereum blockchain (mainnet) to allow users to trade custom token for ETH using Metamask wallet.<br/><br/><span style="color: gray">Solidity, Web3.js, React, Truffle Suite</span></p>
+    </div>
+    <div class="card">
+        <h3>EdTech App (opensourcecollage.com)</h3>
+        <p>Independently built a full-stack EdTech app that allows browsing & sharing extracurricular and volunteer opportunities. Onboarded 18 non-profits and received 22k+ total visitors on the platform, after launching on Product Hunt. Received monetary prize & mentorship from business consultant, Silicon Valley SVSCORE (Mentor: Chuck Scifers).<br/><br/><span style="color: gray">MongoDB, Express.js, React.js, Node.js (MERN), Firebase</span></p>
+    </div>
+    <div class="card">
+        <h3>D3.JS SVG-map</h3>
+        <p>An interactive map on the front-end that plots city coordinates upon user input, and renders a SVG map (with pan & zoom functionality) using D3.js library and svg-pan-zoom.<br/><br/> <span style="color: gray">Next.js, D3.js</span></p>
+    </div>
+     <div class="card">
+        <h3>EmpireWebSpace (empireweb.space)</h3>
+         <p>Founded 7-member web agency currently doing pro bono work for local non-profits.<br/><br/><span style="color: gray">Next.js</span></p>
+    </div>
+    <div class="card">
+        <h3>InterSTEM 501(c)(3) website (interstem.us)</h3>
+         <p>Led the development of organization website and managed a tech team of 6. Published 148 articles and received 200k+ views.<br/><br/> <span style="color: gray">Jekyll, Markdown, and SCSS</span></p>
+    </div>
+    <div class="card">
+    <h3>NHS Cybersecurity Club website (nhscyber.club)</h3>
+    <p><span style="color: gray">HTML, CSS, JavaScript, Bootstrap</span></p>
+    </div>
+    <div class="card">
+        <h3>This portfolio site (bianlee.me)</h3>
+         <p>Jekyll, SCSS, Markdown</p>
+    </div>
+</div>
 
 <h4>Awards & Certifications</h4>
 
