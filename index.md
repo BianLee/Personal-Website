@@ -6,9 +6,8 @@
         <img src="/assets/pfp_bian.jpg" alt="Bian Lee" class="pfp-image">
     </div>
     <div class="content-text">
-        <p style="font-size: 1.18rem">
+        <p style="font-size: 1.18rem" class="intro-line-height">
           <b style="font-size: 1.5rem">Bian Lee</b>
-      
            <br/>I am an undergraduate student at University of California, Davis, pursuing B.S. in Computer Science and Engineering with a minor in Economics. My interests range from software engineering, data analytics, venture capital, cybersecurity, fintech and Web3/DeFi. I also <a href="/music" target="_blank" style="text-decoration: underline; color: #444; text-decoration-color: red; text-underline-position: under;">compose and produce music</a>. Please reach me via email at bianlee2004@gmail.com.
          </p>
     </div>
