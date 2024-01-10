@@ -313,6 +313,11 @@ code {
     width: 50%;
     transform: none;
   }
+  p,
+  li {
+    font-size: 1.01rem; //1.1
+    line-height: 142%;
+  }
 }
 
 mark {
