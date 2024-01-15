@@ -151,7 +151,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
                 <span class="hyphen">&nbsp;-&nbsp;</span>
                 <span class="company">B.S. Computer Science and Engineering</span>
             </span>
-              <span style="color: gray">'25 • Davis, California</span>
+              <span style="color: gray">'22 - 25 • Davis, California</span>
       <br/> - ECS36A: Object-Oriented Programming in C++
       <br/> - ECS36B: Data Structures & Algorithms
       <br/> - ECS50: Machine-Dependent Programming
