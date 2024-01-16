@@ -152,13 +152,13 @@ create prepatory CyberPatriot (security competition) materials, as a national se
                 <span class="company">B.S. Computer Science and Engineering</span>
             </span>
               <span style="color: gray">'22 - 25 • Davis, California</span>
-      <br/> - ECS36A: Object-Oriented Programming in C++
-      <br/> - ECS36B: Data Structures & Algorithms
-      <br/> - ECS50: Machine-Dependent Programming
-      <br/> - ECS20: Discrete Mathematics
-      <br/> - MAT21C: Multivariable Calculus
-      <br/> - MAT22A: Linear Algebra
-      <br/> - STA131A: Probability Theory
+      <br/> ECS36A: Object-Oriented Programming in C++
+      <br/> ECS36B: Data Structures & Algorithms
+      <br/> ECS50: Machine-Dependent Programming
+      <br/> ECS20: Discrete Mathematics
+      <br/> MAT21C: Multivariable Calculus
+      <br/> MAT22A: Linear Algebra
+      <br/> STA131A: Probability Theory
         </p>
     </div>
 
@@ -176,14 +176,14 @@ create prepatory CyberPatriot (security competition) materials, as a national se
                 <span class="company">Dual Enrollment, GPA: 4.0</span>
             </span>
               <span style="color: gray">'20-22 • Irvine, California</span>
-      <br/> - CIM 160: Computer Network Fundamentals
-      <br/> - CIM 161: Systems Administrator (Linux)
-      <br/> - CIM 110: Information and Technology Essentials
-      <br/> - CIM 115: Databases
-      <br/> - ENTR 200: Entrepreneurship
-      <br/> - BIO 1: The Life Sciences
-      <br/> - BIO 3: Humans and the Biological World
-      <br/> - ASTR 20: General Astronomy
+      <br/> CIM 160: Computer Network Fundamentals
+      <br/> CIM 161: Systems Administrator (Linux)
+      <br/> CIM 110: Information and Technology Essentials
+      <br/> CIM 115: Databases
+      <br/> ENTR 200: Entrepreneurship
+      <br/> BIO 1: The Life Sciences
+      <br/> BIO 3: Humans and the Biological World
+      <br/> ASTR 20: General Astronomy
         </p>
     </div>
 
@@ -201,12 +201,12 @@ create prepatory CyberPatriot (security competition) materials, as a national se
                 <span class="company">Dual Enrollment, GPA: 3.8</span>
             </span>
         <span style="color: gray">'20-22 • Fullerton, California</span>
-        <br/> - MATH 151: Calculus I
-        <br/> - MATH 152: Calculus II
-        <br/> - ARCH 111: Introduction to Architecture
-        <br/> - BUS 186: Business Economics
-        <br/> - CIS 111: Introduction to Information Systems
-        <br/> - BUS 186: Funding Projects and New Ventures
+        <br/> MATH 151: Calculus I
+        <br/> MATH 152: Calculus II
+        <br/> ARCH 111: Introduction to Architecture
+        <br/> BUS 186: Business Economics
+        <br/> CIS 111: Introduction to Information Systems
+        <br/> BUS 186: Funding Projects and New Ventures
         </p>
     </div>
 </div>
@@ -223,7 +223,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
                 <span class="company">Dual Enrollment, GPA: 4.0</span>
             </span>
           <span style="color: gray">'21 • Mission Viejo, California</span>
-      <br/> - PSYC 1: Introduction to Psychology
+      <br/> PSYC 1: Introduction to Psychology
         </p>
     </div>
 </div>
