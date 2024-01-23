@@ -8,7 +8,7 @@
     <div class="content-text">
         <p style="font-size: 1.18rem" class="intro-line-height">
           <b style="font-size: 1.5rem">Bian Lee</b>
-           <br/>I am a 2nd year undergraduate student at University of California, Davis, pursuing B.S. in Computer Science and Engineering with a minor in Economics. My interests range from software engineering, data analytics, venture capital, cybersecurity, fintech and Web3/DeFi. I also <a href="/music" target="_blank" style="text-decoration: underline; color: #444; text-decoration-color: red; text-underline-position: under;">compose and produce music</a>. Please reach me via email at bianlee2004@gmail.com.
+           <br/>I am a 2nd year undergraduate student at University of California, Davis, pursuing B.S. in Computer Science with a minor in Economics. My interests range from software engineering, data analytics, venture capital, cybersecurity, fintech and Web3/DeFi. I also <a href="/music" target="_blank" style="text-decoration: underline; color: #444; text-decoration-color: red; text-underline-position: under;">compose and produce music</a>. Please reach me via email at bianlee2004@gmail.com.
          </p>
     </div>
 </div>
@@ -149,7 +149,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
             <span class="internship-title">
                 <span class="role"><b>University of California, Davis</b></span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
-                <span class="company">B.S. Computer Science and Engineering</span>
+                <span class="company">B.S. Computer Science</span>
             </span>
               <span style="color: gray">'22 - 25 • Davis, California</span>
       <br/> ECS36A: Object-Oriented Programming in C++
