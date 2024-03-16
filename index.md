@@ -34,27 +34,6 @@
 </div>
 
 </div>
-
-<div class="content-container" style="">
-    <div class="image-container">
-        <img src="/assets/optimizing.jpg" alt="Optimizing.com" class="content-image optimizing firm-logo" loading="lazy">
-    </div>
-    <div class="content-text">
-        <p>
-            <span class="internship-title">
-                <span class="role"><b>Software Engineer Intern</b></span>
-                <span class="hyphen">&nbsp;-&nbsp;</span>
-                <span class="company"><mark>Optimizing.com</mark></span>
-            </span>
-            <span style="color: gray">Nov 2023 - Present • Austin, Texas</span>
-            <br/> - Collaborated on the backend development of CRM for business clients with Stripe integrations for financing
-            <br/> - Reduced code redundancy by ∼20% through refactoring reusable components and employing nested routes in Remix
-            <br/> - Designed relational (one-to-many) schemas in Prisma for customers/checkouts and implemented API endpoints with Action and LoaderFunctions to listen to HTTP requests, allowing for CRUD operations
-        </p>
-    </div>
-
-</div>
-
 <div class="content-container" style="">
     <div class="image-container">
         <img src="/assets/carb.jpeg" alt="California Air Resources Board" class="content-image firm-logo" loading="lazy">
@@ -71,6 +50,26 @@
             <br/> - Reduced manual data entry by ∼80% by streamlining an automated importing system from DB to front-end interface
             <br/> - Queried and parsed CSV data using SQL and Python scripts and developed analytical reports using Excel
             <br/> - Led QA testing on 4 features of database management interface and updated Azure tickets to report results/findings
+        </p>
+    </div>
+
+</div>
+
+<div class="content-container" style="">
+    <div class="image-container">
+        <img src="/assets/optimizing.jpg" alt="Optimizing.com" class="content-image optimizing firm-logo" loading="lazy">
+    </div>
+    <div class="content-text">
+        <p>
+            <span class="internship-title">
+                <span class="role"><b>Software Engineer Intern</b></span>
+                <span class="hyphen">&nbsp;-&nbsp;</span>
+                <span class="company"><mark>Optimizing.com</mark></span>
+            </span>
+            <span style="color: gray">Nov 2023 - Feb 2024 • Austin, Texas</span>
+            <br/> - Collaborated on the backend development of CRM for business clients with Stripe integrations for financing
+            <br/> - Reduced code redundancy by ∼20% through refactoring reusable components and employing nested routes in Remix
+            <br/> - Designed relational (one-to-many) schemas in Prisma for customers/checkouts and implemented API endpoints with Action and LoaderFunctions to listen to HTTP requests, allowing for CRUD operations
         </p>
     </div>
 
@@ -247,6 +246,13 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 <h4>Technical Projects</h4>
 <div class="card-container">
     <!-- Card 1 -->
+    <a href="https://allegrostudio.tech" target="_blank" class="card-link">
+        <div class="card">
+            <h3>MentorMingle</h3>
+            <p>Built a full-stack application that connects current UC Davis students with alumni for mentor-mentee relationships. Integrated authentication, real-time messaging, and profile editing. Created for ECS164 class.
+            <br/><br/><span style="color: gray">Next.js, Supabase</span></p>
+        </div>
+    </a>
       <a href="https://github.com/ritvikir/hackdavis" target="_blank" class="card-link">
         <div class="card">
             <h3>DSM-5 Diagnostic Chatbot</h3>
