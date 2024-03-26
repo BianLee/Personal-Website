@@ -3,6 +3,11 @@
 
 <div class="grid-container">
     <div class="grid-item">
+        <a href="" target="_blank">
+            <img src="/assets/music/painting_pictures.png" loading="lazy">
+        </a>
+    </div>
+    <div class="grid-item">
         <a href="https://open.spotify.com/track/7jJGt80cu0ZBN37Kt2YBPw?si=763c240a6a634939" target="_blank">
             <img src="/assets/music/youandme.png" loading="lazy">
         </a>
