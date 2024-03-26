@@ -15,25 +15,7 @@
 <!-- -->
 <h4>Work Experience</h4>
 <hr/>
-<div class="content-container" style="margin-top: 14px;">
-    <div class="image-container">
-    <img src="/assets/fidelity.jpg" alt="Fidelity Investments" class="content-image fidelity firm-logo" loading="lazy">
-    </div>
-    <div class="content-text">
-        <p>
-    <span class="internship-title">
-    <span class="role"><b>Incoming Software Engineer Intern</b></span>
-   <span class="hyphen">&nbsp;-&nbsp;</span>
-    <span class="company"><mark>Fidelity Investments</mark></span>
 
-</span>
-           <span style="color: gray">Jun 2024 - Aug 2024 • Merrimack, New Hampshire</span>
-            <br/> - Incoming SWE Intern at Fidelity Investments for Summer 2024
-
-</p>
-</div>
-
-</div>
 <div class="content-container" style="">
     <div class="image-container">
         <img src="/assets/carb.jpeg" alt="California Air Resources Board" class="content-image firm-logo" loading="lazy">
