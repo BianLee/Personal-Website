@@ -39,7 +39,7 @@
 
 <div class="content-container" style="">
     <div class="image-container">
-        <img src="/assets/optimizing.jpg" alt="Optimizing.com" class="content-image optimizing firm-logo" loading="lazy">
+        <img src="/assets/optimizing_com_logo.jpg" alt="Optimizing.com" class="content-image optimizing firm-logo" loading="lazy">
     </div>
     <div class="content-text">
         <p>
