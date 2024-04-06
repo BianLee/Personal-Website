@@ -223,6 +223,13 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 <h4>Technical Projects</h4>
 <div class="card-container">
     <!-- Card 1 -->
+     <a href="https://davisrideshare.com" target="_blank" class="card-link">
+        <div class="card">
+            <h3>DavisRideShare.com</h3>
+            <p>Built a full-stack application that allows UC Davis students to find ridesharing on campus and save on transportation cost.
+            <br/><br/><span style="color: gray">Next.js, Supabase</span></p>
+        </div>
+    </a>
     <a href="https://allegrostudio.tech" target="_blank" class="card-link">
         <div class="card">
             <h3>MentorMingle</h3>
