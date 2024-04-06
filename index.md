@@ -28,10 +28,11 @@
                 <span class="company"><mark>California Air Resources Board</mark></span>
             </span>
             <span style="color: gray">Jun 2023 - Present • Sacramento, California</span>
-             <br/> - Performed QC on 6 datasets of 10K+ records to complete annual report calculations for aggregate air pollution emissions
-            <br/> - Reduced manual data entry by ∼80% by streamlining an automated importing system from DB to front-end interface
-            <br/> - Queried and parsed CSV data using SQL and Python scripts and developed analytical reports using Excel
-            <br/> - Led QA testing on 4 features of database management interface and updated Azure tickets to report results/findings
+             <br/> - Thoroughly performed QA/QC procedures on 6 datasets (10K+ records) and compiled reports on aggregate air pollution emissions during the annual CAP reporting cycle, under Carl Moyer Memorial Air Quality Standards Attainment program
+            <br/> - Reduced manual data entry by ∼80% by streamlining an automated importing system from database to front-end interface
+            <br/> - Queried/parsed CSV data from backend using SQL and wrote Python scripts to develop data pipelines
+            <br/> - Conducted software testing on 10+ features of CARL database management system and communicated critical findings
+            <br/> - Completed cost-effectiveness analysis on Excel to calculate emissions and grants values for State-funded projects
         </p>
     </div>
 
@@ -49,9 +50,9 @@
                 <span class="company"><mark>Optimizing.com</mark></span>
             </span>
             <span style="color: gray">Nov 2023 - Feb 2024 • Austin, Texas</span>
-            <br/> - Collaborated on the backend development of CRM for business clients with Stripe integrations for financing
+            <br/> - Led backend development of CRM dashboard for 10+ SMB business clients with Stripe integrations for financing payments
             <br/> - Reduced code redundancy by ∼20% through refactoring reusable components and employing nested routes in Remix
-            <br/> - Designed relational (one-to-many) schemas in Prisma for customers/checkouts and implemented API endpoints with Action and LoaderFunctions to listen to HTTP requests, allowing for CRUD operations
+            <br/> - Designed 6 relational (one-to-many) schemas in Prisma for customers/checkouts and implemented API endpoints with Action/LoaderFunctions to listen to HTTP requests and allow CRUD operations
         </p>
     </div>
 
@@ -69,7 +70,7 @@
                 <span class="company"><mark>Vestr</mark></span>
             </span>
             <span style="color: gray">Nov 2022 - Jun 2023 • Clemson, South Carolina</span>
-            <br/> -  Led sell-side stock equity research through Discounted Cash Flow model and market sentiment/industry analysis
+            <br/> -  Conducted sell-side stock equity research through Discounted Cash Flow model and market sentiment/industry analysis
             <br/> -  Edited and published weekly company newsletter and delivered +73% subscriber count growth
             <br/> - Worked directly alongside Founder/CEO & Engineer in the Series A startup
         </p>
@@ -133,13 +134,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
                 <span class="company">B.S. Computer Science</span>
             </span>
               <span style="color: gray">'22 - 25 • Davis, California</span>
-      <br/> ECS36A: Object-Oriented Programming in C++
-      <br/> ECS36B: Data Structures & Algorithms
-      <br/> ECS50: Machine-Dependent Programming
-      <br/> ECS20: Discrete Mathematics
-      <br/> MAT21C: Multivariable Calculus
-      <br/> MAT22A: Linear Algebra
-      <br/> STA131A: Probability Theory
+      <br/> Object-Oriented Programming in C++, Programming & Problem Solving, Data Structures & Algorithms, Computer Architecture, Machine-Dependent Programming in x86 Assembly, Discrete Mathematics, Human-Computer Interaction, Probability Theory, Linear Algebra
         </p>
     </div>
 
