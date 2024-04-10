@@ -1,5 +1,5 @@
 ---
-title: "The Ethical Implications of the United State Government’s digital surveillance of Americans’ communications"
+title: "The Ethical Implications of the United States Government’s digital surveillance of Americans’ communications"
 date: "2024-04-05"
 description: " "
 layout: post
