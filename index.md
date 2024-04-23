@@ -131,9 +131,9 @@ create prepatory CyberPatriot (security competition) materials, as a national se
             <span class="internship-title">
                 <span class="role"><b>University of California, Davis</b></span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
-                <span class="company">B.S. Computer Science</span>
+                <span class="company">B.S. Computer Science, B.A. Economics</span>
             </span>
-              <span style="color: gray">'22 - 25 • Davis, California</span>
+              <span style="color: gray">'22 - 26 • Davis, California</span>
       <br/> Object-Oriented Programming in C++, Programming & Problem Solving, Data Structures & Algorithms, Computer Architecture, Machine-Dependent Programming in x86 Assembly, Discrete Mathematics, Human-Computer Interaction, Probability Theory, Linear Algebra
         </p>
     </div>
@@ -223,6 +223,13 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 <h4>Technical Projects</h4>
 <div class="card-container">
     <!-- Card 1 -->
+    <a href="https://davisrideshare.com" target="_blank" class="card-link">
+        <div class="card">
+            <h3>Yoga Form Detection/Correction Model with Real-Time Video Feed</h3>
+            <p>Used TensorFlow’s PoseNet model to build a live webcam feed that tracks body points in relative coordinates, comparing them against a ML model trained on images of correct yoga forms to give generative feedback through Gemini API + ElevenLab's text-to-speech model.
+            <br/><br/><span style="color: gray">TensorFlow, Gemini API, ElevenLabs, Flask, Next.js, Supabase</span></p>
+        </div>
+    </a>
      <a href="https://davisrideshare.com" target="_blank" class="card-link">
         <div class="card">
             <h3>DavisRideShare.com</h3>
@@ -232,21 +239,21 @@ create prepatory CyberPatriot (security competition) materials, as a national se
     </a>
     <a href="https://allegrostudio.tech" target="_blank" class="card-link">
         <div class="card">
-            <h3>MentorMingle</h3>
-            <p>Built a full-stack application that connects current UC Davis students with alumni for mentor-mentee relationships. Integrated authentication, real-time messaging, and profile editing. Created for ECS164 class.
+            <h3>Mentor/Mentee Real-Time Communication App</h3>
+            <p>Developed and launched a full-stack social application designed to pair mentees with mentors (students with alumni), integrating authentication, real-time 1:1 messaging, profile creation/editing, searching, and filtering capabilities. Submission for ECS164 term project.
             <br/><br/><span style="color: gray">Next.js, Supabase</span></p>
         </div>
     </a>
       <a href="https://github.com/ritvikir/hackdavis" target="_blank" class="card-link">
         <div class="card">
-            <h3>DSM-5 Diagnostic Chatbot</h3>
+            <h3>DSM-5 Diagnostic Chatbot with Semantic Search</h3>
             <p>Leveraged LLM to parse through DSM-5 with semantic search, storing data as vector embeddings in Pinecone database. Fine-tuned OpenAI’s GPT-3.5 turbo and used React in Next.js to create an interactive diagnostic chatbot. Executed Python scripts in Beautiful Soup to scrape web data of nearby physicians & clinics, storing them as key-value documents in MongoDB. Built and Served NodeJS API and used Axios library to fetch & render data on screen.
             <br/><br/><span style="color: gray">GPT-3.5 Turbo, Pinecone, Langchain, MongoDB</span></p>
         </div>
     </a>
     <a href="https://github.com/BianLee/Decentralized-Exchange-Model-ERC-20-Token" target="_blank" class="card-link">
         <div class="card">
-            <h3>Decentralized Exchange & ERC-20 Token</h3>
+            <h3>Decentralized Exchange and ERC-20 Token/Tokenomics</h3>
             <p>Wrote smart contracts in Solidity to create a custom ERC-20 token & tokenomics and a decentralized exchange. Implemented Constant Product Market formula used in Automated Market Making (AMM) systems, and deployed on Ethereum blockchain (mainnet) to allow users to trade custom token for ETH using Metamask wallet.<br/><br/><span style="color: gray">Solidity, Web3.js, React, Truffle Suite</span></p>
         </div>
     </a>
