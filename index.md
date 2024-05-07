@@ -223,7 +223,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 <h4>Technical Projects</h4>
 <div class="card-container">
     <!-- Card 1 -->
-    <a href="https://davisrideshare.com" target="_blank" class="card-link">
+    <a href="https://github.com/BianLee/Equilibrio" target="_blank" class="card-link">
         <div class="card">
             <h3>Yoga Form Detection/Correction Model with Real-Time Video Feed</h3>
             <p>Used TensorFlow’s PoseNet model to build a live webcam feed that tracks body points in relative coordinates, comparing them against a ML model trained on images of correct yoga forms to give generative feedback through Gemini API + ElevenLab's text-to-speech model.
