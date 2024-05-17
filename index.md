@@ -8,15 +8,37 @@
     <div class="content-text">
         <p style="font-size: 1.18rem" class="intro-line-height">
           <b style="font-size: 1.5rem">Bian Lee</b>
-           <br/>I am a 2nd year undergraduate student at University of California, Davis, pursuing B.S. in Computer Science and B.A. in Economics. My interests range from software engineering, data analytics, venture capital, cybersecurity, fintech and Web3/DeFi. I also <a href="/music" target="_blank" style="text-decoration: underline; color: #444; text-decoration-color: red; text-underline-position: under;">compose and produce music</a>. Please reach me via email at bianlee2004@gmail.com.
+           <br/>I am a sophomore at University of California, Davis, pursuing B.S. in Computer Science and B.A. in Economics. My interests range from software engineering, data analytics, cybersecurity, fintech and Web3/DeFi. I also <a href="/music" target="_blank" style="text-decoration: underline; color: #444; text-decoration-color: red; text-underline-position: under;">compose and produce music</a>. Please reach me via email at bianlee2004@gmail.com.
          </p>
     </div>
 </div>
 <!-- -->
 <h4>Work Experience</h4>
 <hr/>
-
-<div class="content-container" style="">
+<div class="content-container" style="margin-top: 10px">
+    <div class="image-container">
+        <img src="/assets/fidelity.jpg" alt="Fidelity Investments" class="content-image firm-logo" loading="lazy">
+    </div>
+    <div class="content-text">
+        <p>
+            <span class="internship-title">
+                <span class="role"><b>Incoming Software Engineer Intern</b></span>
+                <span class="hyphen">&nbsp;-&nbsp;</span>
+                <span class="company"><mark>Fidelity Investments</mark></span>
+            </span>
+            <span style="color: gray">Jun 2023 - May 2024 • Merrimack, New Hampshire</span>
+            <br/> - Summer 2024
+            <!-- 
+             <br/> - Thoroughly performed QA/QC procedures on 6 datasets (10K+ records) and compiled reports on aggregate air pollution emissions during the annual CAP reporting cycle, under Carl Moyer Memorial Air Quality Standards Attainment program
+            <br/> - Reduced manual data entry by ∼80% by streamlining an automated importing system from database to front-end interface
+            <br/> - Queried/parsed CSV data from backend using SQL and wrote Python scripts to develop data pipelines
+            <br/> - Conducted software testing on 10+ features of CARL database management system and communicated critical findings
+            <br/> - Completed cost-effectiveness analysis on Excel to calculate emissions and grants values for State-funded projects
+            -->
+        </p>
+    </div>
+</div>
+<div class="content-container">
     <div class="image-container">
         <img src="/assets/carb.jpeg" alt="California Air Resources Board" class="content-image firm-logo" loading="lazy">
     </div>
@@ -27,15 +49,17 @@
                 <span class="hyphen">&nbsp;-&nbsp;</span>
                 <span class="company"><mark>California Air Resources Board</mark></span>
             </span>
-            <span style="color: gray">Jun 2023 - Present • Sacramento, California</span>
+            <span style="color: gray">Jun 2023 - May 2024 • Sacramento, California</span>
+            <br/>- Carl Moyer Memorial Air Quality Standards Attainment Program under Incentives & Technology Advancement Branch
+            <!-- 
              <br/> - Thoroughly performed QA/QC procedures on 6 datasets (10K+ records) and compiled reports on aggregate air pollution emissions during the annual CAP reporting cycle, under Carl Moyer Memorial Air Quality Standards Attainment program
             <br/> - Reduced manual data entry by ∼80% by streamlining an automated importing system from database to front-end interface
             <br/> - Queried/parsed CSV data from backend using SQL and wrote Python scripts to develop data pipelines
             <br/> - Conducted software testing on 10+ features of CARL database management system and communicated critical findings
             <br/> - Completed cost-effectiveness analysis on Excel to calculate emissions and grants values for State-funded projects
+            -->
         </p>
     </div>
-
 </div>
 
 <div class="content-container" style="">
@@ -50,9 +74,12 @@
                 <span class="company"><mark>Optimizing.com</mark></span>
             </span>
             <span style="color: gray">Nov 2023 - Feb 2024 • Austin, Texas</span>
+            <br/>Optimizing.com
+            <!--
             <br/> - Led backend development of CRM dashboard for 10+ SMB business clients with Stripe integrations for financing payments
             <br/> - Reduced code redundancy by ∼20% through refactoring reusable components and employing nested routes in Remix
             <br/> - Designed 6 relational (one-to-many) schemas in Prisma for customers/checkouts and implemented API endpoints with Action/LoaderFunctions to listen to HTTP requests and allow CRUD operations
+            -->
         </p>
     </div>
 
@@ -70,15 +97,18 @@
                 <span class="company"><mark>Vestr</mark></span>
             </span>
             <span style="color: gray">Nov 2022 - Jun 2023 • Clemson, South Carolina</span>
+            <br/>Vestr.io
+            <!--
             <br/> -  Conducted sell-side stock equity research through Discounted Cash Flow model and market sentiment/industry analysis
             <br/> -  Edited and published weekly company newsletter and delivered +73% subscriber count growth
             <br/> - Worked directly alongside Founder/CEO & Engineer in the Series A startup
+            -->
         </p>
     </div>
 </div>
 <div style="margin-top: 15px;"></div>
+<!-- 
 <h4>Club & Extracurricular Experience</h4>
-
 <div class="content-container" style="margin-top: 14px;">
     <div class="image-container">
         <img src="/assets/aggieworksSecond.jpg" alt="AggieWorks" class="content-image firm-logo" loading="lazy">
@@ -97,7 +127,6 @@
         </p>
     </div>
 </div>
-
 <div class="content-container" style="">
     <div class="image-container">
         <img src="/assets/socal.png" alt="SoCal Community College Consortium on Cybersecurity" class="content-image firm-logo" loading="lazy">
@@ -117,7 +146,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
         </p>
     </div>
 </div>
-
+--> 
 <div style="margin-top: 15px;"></div>
 <h4>Education & Relevant Coursework</h4>
 
@@ -152,14 +181,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
                 <span class="company">Dual Enrollment, GPA: 4.0</span>
             </span>
               <span style="color: gray">'20-22 • Irvine, California</span>
-      <br/> CIM 160: Computer Network Fundamentals
-      <br/> CIM 161: Systems Administrator (Linux)
-      <br/> CIM 110: Information and Technology Essentials
-      <br/> CIM 115: Databases
-      <br/> ENTR 200: Entrepreneurship
-      <br/> BIO 1: The Life Sciences
-      <br/> BIO 3: Humans and the Biological World
-      <br/> ASTR 20: General Astronomy
+      <br/>Computer Network Fundamentals, Systems Administrator (Linux), Information and Technology Essentials, Databases, Entrepreneurship, The Life Sciences, Humans and the Biological World, General Astronomy
         </p>
     </div>
 
@@ -177,12 +199,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
                 <span class="company">Dual Enrollment, GPA: 3.8</span>
             </span>
         <span style="color: gray">'20-22 • Fullerton, California</span>
-        <br/> MATH 151: Calculus I
-        <br/> MATH 152: Calculus II
-        <br/> ARCH 111: Introduction to Architecture
-        <br/> BUS 186: Business Economics
-        <br/> CIS 111: Introduction to Information Systems
-        <br/> BUS 186: Funding Projects and New Ventures
+        <br/>Calculus I, Calculus II, Introduction to Architecture, Business Economics, Introduction to Information Systems, Funding Projects and New Ventures
         </p>
     </div>
 </div>
@@ -199,7 +216,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
                 <span class="company">Dual Enrollment, GPA: 4.0</span>
             </span>
           <span style="color: gray">'21 • Mission Viejo, California</span>
-      <br/> PSYC 1: Introduction to Psychology
+      <br/>Introduction to Psychology
         </p>
     </div>
 </div>
