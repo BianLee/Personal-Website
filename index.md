@@ -162,7 +162,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
                 <span class="hyphen">&nbsp;-&nbsp;</span>
                 <span class="company">B.S. Computer Science, B.A. Economics</span>
             </span>
-              <span style="color: gray">'22 - 26 • Davis, California</span>
+              <span style="color: gray">'22-26 • Davis, California</span>
       <br/> Object-Oriented Programming in C++, Programming & Problem Solving, Data Structures & Algorithms, Computer Architecture, Machine-Dependent Programming in x86 Assembly, Discrete Mathematics, Human-Computer Interaction, Probability Theory, Linear Algebra
         </p>
     </div>
@@ -231,7 +231,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
                 <span class="hyphen">&nbsp;-&nbsp;</span>
                 <span class="company">GPA: 3.9UW/4.2W</span>
             </span>
-          <span style="color: gray">'22 • Irvine, California</span>
+          <span style="color: gray">'18-22 • Irvine, California</span>
       <br/>Philharmonic Orchestra, Choir, Engineering Club (VP), Cybersecurity Club (VP), Musicians United for Service and Entertainment (Events Coordinator), Model UN (Treasurer), Startup Club (Treasurer)
         </p>
     </div>
