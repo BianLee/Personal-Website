@@ -26,7 +26,7 @@
                 <span class="hyphen">&nbsp;-&nbsp;</span>
                 <span class="company"><mark>Fidelity Investments</mark></span>
             </span>
-            <span style="color: gray">Jun 2023 - May 2024 • Merrimack, New Hampshire</span>
+            <span style="color: gray">Jun 2024 - Aug 2024 • Merrimack, New Hampshire</span>
             <br/> - Summer 2024
             <!-- 
              <br/> - Thoroughly performed QA/QC procedures on 6 datasets (10K+ records) and compiled reports on aggregate air pollution emissions during the annual CAP reporting cycle, under Carl Moyer Memorial Air Quality Standards Attainment program
