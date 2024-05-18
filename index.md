@@ -74,7 +74,7 @@
                 <span class="company"><mark>Optimizing.com</mark></span>
             </span>
             <span style="color: gray">Nov 2023 - Feb 2024 • Austin, Texas</span>
-            <br/>Optimizing.com
+            <br/>- Optimizing.com
             <!--
             <br/> - Led backend development of CRM dashboard for 10+ SMB business clients with Stripe integrations for financing payments
             <br/> - Reduced code redundancy by ∼20% through refactoring reusable components and employing nested routes in Remix
@@ -97,7 +97,7 @@
                 <span class="company"><mark>Vestr</mark></span>
             </span>
             <span style="color: gray">Nov 2022 - Jun 2023 • Clemson, South Carolina</span>
-            <br/>Vestr.io
+            <br/>- Vestr.io
             <!--
             <br/> -  Conducted sell-side stock equity research through Discounted Cash Flow model and market sentiment/industry analysis
             <br/> -  Edited and published weekly company newsletter and delivered +73% subscriber count growth
@@ -286,6 +286,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
             <p>An interactive map on the front-end that plots city coordinates upon user input, and renders a SVG map (with pan & zoom functionality) using D3.js library and svg-pan-zoom.<br/><br/> <span style="color: gray">Next.js, D3.js</span></p>
         </div>
     </a>
+    <!--
     <a href="https://github.com/Empirewebspace/empirewebspace" target="_blank" class="card-link">
         <div class="card">
             <h3>EmpireWebSpace (empireweb.space)</h3>
@@ -310,7 +311,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
          <p><span style="color: gray">Jekyll, SCSS, Markdown</span></p>
     </div>
     </a>
-
+        -->
 </div>
 
 <h4>Awards & Certifications</h4>
