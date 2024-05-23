@@ -34,6 +34,6 @@ Works Cited
 - A More Responsible Digital Surveillance Future, uploads.fas.org/2021/02/Digital-Surveillance-Future.pdf. Accessed 21 Feb. 2024.
 - Richards, Neil M. “The Dangers of Surveillance.” Harvard Law Review, 24 Mar. 2023, harvardlawreview.org/print/vol-126/the-dangers-of-surveillance/.
 - “Edward Snowden, the NSA, and Mass Surveillance.” CT.Gov, portal.ct.gov/SDE/CT-Core-Standards/Materials-for-Teachers/Science-Social-Studies-World-Languages/Social-Studies/Lesson-Plans---Social-Studies/Social-Studies/Grades-11-12-Edward-Snowden-The-NSA-and-Mass-Surveillance. Accessed 20 Feb. 2024.
-- Government Surveillance and Incentives to Abuse Power, www.ischool.berkeley.edu/sites/default/files/government-surveillance-abuse-incentives.pdf. Accessed 21 Feb. 2024.
+- Government Surveillance and Incentives to Abuse Power, www.ischool.
 - The USA PATRIOT Act: Civil Liberties, the Media, and Public ..., ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=2097&context=ulj. Accessed 21 Feb. 2024.
 - Effectiveness of Metadata Information and Tools Applied To ..., digitalcommons.unl.edu/cgi/viewcontent.cgi?article=2608&context=libphilprac. Accessed 21 Feb. 2024.
