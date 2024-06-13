@@ -22,12 +22,12 @@
     <div class="content-text">
         <p>
             <span class="internship-title">
-                <span class="role"><b>Incoming Software Engineer Intern</b></span>
+                <span class="role"><b>Software Engineer Intern</b></span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
                 <span class="company"><mark>Fidelity Investments</mark></span>
             </span>
-            <span style="color: gray">Jun 2024 - Aug 2024 • Merrimack, New Hampshire</span>
-            <br/> - Summer 2024
+            <span style="color: gray">Jun 2024 - Present • Merrimack, New Hampshire</span>
+            <br/> - Margins & Risk Brokerage Technology
             <!-- 
              <br/> - Thoroughly performed QA/QC procedures on 6 datasets (10K+ records) and compiled reports on aggregate air pollution emissions during the annual CAP reporting cycle, under Carl Moyer Memorial Air Quality Standards Attainment program
             <br/> - Reduced manual data entry by ∼80% by streamlining an automated importing system from database to front-end interface
