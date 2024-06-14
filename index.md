@@ -27,7 +27,7 @@
                 <span class="company"><mark>Fidelity Investments</mark></span>
             </span>
             <span style="color: gray">Jun 2024 - Present • Merrimack, New Hampshire</span>
-            <br/> - Margins & Risk Brokerage Technology
+            <br/> - Margins & Risk Brokerage Processing Engine
             <!-- 
              <br/> - Thoroughly performed QA/QC procedures on 6 datasets (10K+ records) and compiled reports on aggregate air pollution emissions during the annual CAP reporting cycle, under Carl Moyer Memorial Air Quality Standards Attainment program
             <br/> - Reduced manual data entry by ∼80% by streamlining an automated importing system from database to front-end interface
@@ -254,7 +254,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
             <br/><br/><span style="color: gray">Next.js, Supabase</span></p>
         </div>
     </a>
-    <a href="https://allegrostudio.tech" target="_blank" class="card-link">
+    <a href="https://github.com/BianLee/mentormingle" target="_blank" class="card-link">
         <div class="card">
             <h3>Mentor/Mentee Real-Time Communication App</h3>
             <p>Developed and launched a full-stack social application designed to pair mentees with mentors (students with alumni), integrating authentication, real-time 1:1 messaging, profile creation/editing, searching, and filtering capabilities. Submission for ECS164 term project.
