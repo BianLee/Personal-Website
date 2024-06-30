@@ -7,7 +7,7 @@
     </div>
     <div class="content-text">
         <p style="font-size: 1.18rem" class="intro-line-height">
-          <b style="font-size: 1.5rem">Bian Lee</b>
+          <b style="font-size: 1.5rem">Bian Lee 🇺🇸</b>
            <br/>I am a sophomore at University of California, Davis, pursuing B.S. in Computer Science and B.A. in Economics. My interests range from software engineering, data analytics, cybersecurity, fintech and Web3/DeFi. I also compose and produce music. Please reach me via email at bianlee2004@gmail.com.
          </p>
     </div>
