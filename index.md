@@ -150,7 +150,8 @@ create prepatory CyberPatriot (security competition) materials, as a national se
                 <span class="company">B.S. Computer Science, B.A. Economics</span>
             </span>
               <span style="color: gray">'22-26 • Davis, California</span>
-      <br/> Object-Oriented Programming in C++, Programming & Problem Solving, Data Structures & Algorithms, Computer Architecture, Machine-Dependent Programming in x86 Assembly, Discrete Mathematics, Human-Computer Interaction, Probability Theory, Linear Algebra
+      <br/> Object-Oriented Programming, Programming & Problem Solving, Data Structures & Algorithms, Computer Architecture,
+Discrete Mathematics, Machine-Dependent Programming, Human-Computer Interaction, Computational Social Science, Vehicle & Transporation Technology, Probability Theory, Micro/Macroeconomics
         </p>
     </div>
 </div>
