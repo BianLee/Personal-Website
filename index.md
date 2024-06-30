@@ -1,7 +1,7 @@
 ---
 ---
 
-<div class="content-container">
+<div class="content-container-pfp">
     <div class="image-container-pfp">
         <img src="/assets/pfp_bian.jpg" alt="Bian Lee" class="pfp-image">
     </div>
@@ -16,6 +16,7 @@
 
 
 <div style="margin-top:2.5rem"></div>
+
 <div class="content-container">
 <div class="image-container">
     <img src="/assets/fidelity.jpg" alt="Fidelity Investments" class="content-image firm-logo" loading="lazy">
@@ -28,7 +29,7 @@
                  <span class="company" style="font-weight: 800">Fidelity Investments</span>
             </span>
               <span style="color: gray">Jun 2024 - Present • Merrimack, New Hampshire</span>
-      <br/>- Margins & Risk
+     <br/>- Margins & Risk
         </p>
     </div>
 </div>
@@ -47,13 +48,6 @@
             </span>
             <span style="color: gray">Jun 2023 - May 2024 • Sacramento, California</span>
             <br/>- Carl Moyer Memorial Air Quality Standards Attainment Program under Incentives & Technology Advancement Branch
-            <!-- 
-             <br/> - Thoroughly performed QA/QC procedures on 6 datasets (10K+ records) and compiled reports on aggregate air pollution emissions during the annual CAP reporting cycle, under Carl Moyer Memorial Air Quality Standards Attainment program
-            <br/> - Reduced manual data entry by ∼80% by streamlining an automated importing system from database to front-end interface
-            <br/> - Queried/parsed CSV data from backend using SQL and wrote Python scripts to develop data pipelines
-            <br/> - Conducted software testing on 10+ features of CARL database management system and communicated critical findings
-            <br/> - Completed cost-effectiveness analysis on Excel to calculate emissions and grants values for State-funded projects
-            -->
         </p>
     </div>
 </div>
@@ -222,7 +216,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
                 <span class="internship-title">
                 <span class="role" style="font-weight: 800">Northwood High School</span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
-                <span class="company">GPA: 3.9UW/4.2W</span>
+                <span class="company">GPA: 3.9UW / 4.2W</span>
             </span>
           <span style="color: gray">'18-22 • Irvine, California</span>
       <br/>Philharmonic Orchestra, Choir, Engineering Club (VP), Cybersecurity Club (VP), Musicians United for Service and Entertainment (Events Coordinator), Model UN (Treasurer), Startup Club (Treasurer)

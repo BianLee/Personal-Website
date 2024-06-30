@@ -45,10 +45,10 @@ body {
   width: 90%;
   max-width: 750px;
   margin: 4rem auto;
-  font-family:  "Cormorant Garamond", Georgia, Cambria, "Times New Roman", Times, serif !important;
-  
+  font-size: 1.5rem !important;
   margin-top: 3rem !important;
 }
+
 
 // navigation
 nav {
@@ -132,14 +132,18 @@ h4 {
 }
 
 // typography: body
+
 p,
+i, 
 li {
   font-size: 1rem; //1.1
-  line-height: 143%;
+  line-height: 140%;
   color: #444;
   margin: 1.2rem 0;
   font-family:  "Cormorant Garamond", Georgia, Cambria, "Times New Roman", Times, serif;
 }
+
+
 
 li {
   margin: 0.25rem 0 0 2.5rem;
@@ -151,12 +155,17 @@ li:first-child {
 
 a {
   color: $accent-color;
+  font-size: inherit;
+}
+i{
+  font-size: inherit;
 }
 
 a:hover,
 a:active {
   color: lighten($accent-color, 10%);
 }
+
 
 // images
 img {
@@ -226,11 +235,33 @@ code {
   //font-family: $code-font-stack;
 }
 
+.content-container-pfp {
+  display: flex;
+  align-items: center;
+  min-height: 133px;
+
+}
+
 .content-container {
   display: flex;
   align-items: center;
   min-height: 133px;
+  /*
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  */
+  
 }
+
+/*
+.content-container:hover {
+  background-color: #f5f5f5;
+}
+*/
+
+
 .content-container-album {
   display: flex;
   align-items: start;
@@ -306,7 +337,7 @@ code {
     display: none; /* Hide the hyphen on mobile */
   }
 
-  .content-container {
+  .content-container, .content-container-pfp {
     flex-direction: column;
     align-items: flex-start;
     margin-top: 1rem;
@@ -369,6 +400,7 @@ code {
 
 mark {
   background-color: #fff0d1;
+  font-size: inherit;
 }
 
 .image-container {
@@ -504,4 +536,10 @@ iframe {
   .intro-line-height {
     line-height: 147%;
   }
+}
+
+
+
+.blog-font a {
+  font-size: 1.2rem;
 }

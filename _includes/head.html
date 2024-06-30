@@ -29,7 +29,7 @@
                     <nav>
                         <ul>
                             {% for link in site.nav-links %}
-                            <li>        
+                            <li style="font-size: 1.1rem;">        
                                 {% if link.external == true %}
                                     <a style="color: black;" href="{{ link.url }}" {% if link.name == 'Resume' %}target="_blank"{% endif %}>
                                 {% else %}

@@ -8,23 +8,43 @@
     content="width=device-width, initial-scale=1.0, maximum-scale=1.0"
   />
   <link rel="stylesheet" href="{{ '/styles/styles.css' | prepend:site.url }}" />
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+  .small-font {
+    font-size: 1rem !important;
+  }
+
+  .medium-font {
+    font-size: 1.2rem !important;
+  }
+
+
+
+  </style>
+    
+    
 </head>
 
 <body>
-  <div id="container-blog">
-    {% if site.nav-links %} {% endif %} {% if page.is_post %}<a
-      href="{{ '/writing' | prepend:site.url }}"
-      >← Back to all posts</a
-    >{% endif %} {% unless page.url == "/" %}
-    <h1>
+  <div class="blog-font" id="container-blog">
+    {% if site.nav-links %} {% endif %} {% if page.is_post %}
+    <a href="{{ '/writing' | prepend:site.url }}">← Back to all posts</a>{% endif %}
+    {% unless page.url == "/" %}
+    <h1 class="large-font">
       {% if page.title %}{{ page.title }}{% endif %}{% if post.title %}{{
       post.title }}{% endif %}
     </h1>
-    {% endunless %} {% if page.date %}
+    {% endunless %}
+    {% if page.date %}
     <span class="timestamp timestamp-block">
       {% include post-date.html %}
     </span>
-    {% endif %} {% if page.url == "/" %} {% include greeting.html %} {% endif %}
-    {{ content }} {% include foot.html %}
+    {% endif %}
+    {% if page.url == "/" %} {% include greeting.html %} {% endif %}
+    <div class="medium-font">
+      {{ content }}
+    </div>
+    {% include foot.html %}
   </div>
 </body>
