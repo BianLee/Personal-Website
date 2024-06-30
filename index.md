@@ -8,36 +8,32 @@
     <div class="content-text">
         <p style="font-size: 1.18rem" class="intro-line-height">
           <b style="font-size: 1.5rem">Bian Lee</b>
-           <br/>I am a sophomore at University of California, Davis, pursuing B.S. in Computer Science and B.A. in Economics. My interests range from software engineering, data analytics, cybersecurity, fintech and Web3/DeFi. I also <a href="/music" target="_blank" style="text-decoration: underline; color: #444; text-decoration-color: red; text-underline-position: under;">compose and produce music</a>. Please reach me via email at bianlee2004@gmail.com.
+           <br/>I am a sophomore at University of California, Davis, pursuing B.S. in Computer Science and B.A. in Economics. My interests range from software engineering, data analytics, cybersecurity, fintech and Web3/DeFi. I also compose and produce music. Please reach me via email at bianlee2004@gmail.com.
          </p>
     </div>
 </div>
 <!-- -->
-<h4>Work Experience</h4>
-<hr/>
-<div class="content-container" style="margin-top: 10px">
-    <div class="image-container">
-        <img src="/assets/fidelity.jpg" alt="Fidelity Investments" class="content-image firm-logo" loading="lazy">
+
+
+<div style="margin-top:2.5rem"></div>
+<div class="content-container">
+<div class="image-container">
+    <img src="/assets/fidelity.jpg" alt="Fidelity Investments" class="content-image firm-logo" loading="lazy">
     </div>
     <div class="content-text">
         <p>
             <span class="internship-title">
                 <span class="role"><b>Software Engineer Intern</b></span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
-                <span class="company"><mark>Fidelity Investments</mark></span>
+                 <span class="company" style="font-weight: 800">Fidelity Investments</span>
             </span>
-            <span style="color: gray">Jun 2024 - Present • Merrimack, New Hampshire</span>
-            <br/> - Margins & Risk Brokerage Processing Engine
-            <!-- 
-             <br/> - Thoroughly performed QA/QC procedures on 6 datasets (10K+ records) and compiled reports on aggregate air pollution emissions during the annual CAP reporting cycle, under Carl Moyer Memorial Air Quality Standards Attainment program
-            <br/> - Reduced manual data entry by ∼80% by streamlining an automated importing system from database to front-end interface
-            <br/> - Queried/parsed CSV data from backend using SQL and wrote Python scripts to develop data pipelines
-            <br/> - Conducted software testing on 10+ features of CARL database management system and communicated critical findings
-            <br/> - Completed cost-effectiveness analysis on Excel to calculate emissions and grants values for State-funded projects
-            -->
+              <span style="color: gray">Jun 2024 - Present • Merrimack, New Hampshire</span>
+      <br/>- Margins & Risk
         </p>
     </div>
 </div>
+
+
 <div class="content-container">
     <div class="image-container">
         <img src="/assets/carb.jpeg" alt="California Air Resources Board" class="content-image firm-logo" loading="lazy">
@@ -47,7 +43,7 @@
             <span class="internship-title">
                 <span class="role"><b>Data Analyst Intern</b></span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
-                <span class="company"><mark>California Air Resources Board</mark></span>
+                 <span class="company" style="font-weight: 800">California Air Resources Board</span>
             </span>
             <span style="color: gray">Jun 2023 - May 2024 • Sacramento, California</span>
             <br/>- Carl Moyer Memorial Air Quality Standards Attainment Program under Incentives & Technology Advancement Branch
@@ -71,10 +67,9 @@
             <span class="internship-title">
                 <span class="role"><b>Software Engineer Intern</b></span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
-                <span class="company"><mark>Optimizing.com</mark></span>
+                <span class="company" style="font-weight: 800">Optimizing</span>
             </span>
             <span style="color: gray">Nov 2023 - Feb 2024 • Austin, Texas</span>
-            <br/>- Optimizing.com
             <!--
             <br/> - Led backend development of CRM dashboard for 10+ SMB business clients with Stripe integrations for financing payments
             <br/> - Reduced code redundancy by ∼20% through refactoring reusable components and employing nested routes in Remix
@@ -94,7 +89,7 @@
          <span class="internship-title">
                 <span class="role"><b>Analyst Intern</b></span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
-                <span class="company"><mark>Vestr</mark></span>
+                 <span class="company" style="font-weight: 800">Vestr</span>
             </span>
             <span style="color: gray">Nov 2022 - Jun 2023 • Clemson, South Carolina</span>
             <br/>- Vestr.io
@@ -149,16 +144,14 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 --> 
 <div style="margin-top: 15px;"></div>
 <h4>Education & Relevant Coursework</h4>
-
 <div class="content-container">
 <div class="image-container">
     <img src="/assets/davis.png" alt="UC Davis" class="content-image" loading="lazy">
     </div>
     <div class="content-text">
         <p>
-
             <span class="internship-title">
-                <span class="role"><b>University of California, Davis</b></span>
+                <span class="role" style="font-weight: 800">University of California, Davis</span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
                 <span class="company">B.S. Computer Science, B.A. Economics</span>
             </span>
@@ -166,8 +159,8 @@ create prepatory CyberPatriot (security competition) materials, as a national se
       <br/> Object-Oriented Programming in C++, Programming & Problem Solving, Data Structures & Algorithms, Computer Architecture, Machine-Dependent Programming in x86 Assembly, Discrete Mathematics, Human-Computer Interaction, Probability Theory, Linear Algebra
         </p>
     </div>
-
 </div>
+
 
 <div class="content-container">
 <div class="image-container">
@@ -176,7 +169,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
     <div class="content-text">
         <p>
          <span class="internship-title">
-                <span class="role"><b>Irvine Valley College</b></span>
+                <span class="role" style="font-weight: 800">Irvine Valley College</span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
                 <span class="company">Dual Enrollment, GPA: 4.0</span>
             </span>
@@ -194,7 +187,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
     <div class="content-text">
         <p>
                  <span class="internship-title">
-                <span class="role"><b>Fullerton College</b></span>
+                <span class="role" style="font-weight: 800">Fullerton College</span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
                 <span class="company">Dual Enrollment, GPA: 3.8</span>
             </span>
@@ -211,7 +204,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
     <div class="content-text">
         <p>
             <span class="internship-title">
-                <span class="role"><b>Saddleback College</b></span>
+                <span class="role" style="font-weight: 800">Saddleback College</span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
                 <span class="company">Dual Enrollment, GPA: 4.0</span>
             </span>
@@ -227,7 +220,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
     <div class="content-text">
         <p>
                 <span class="internship-title">
-                <span class="role"><b>Northwood High School</b></span>
+                <span class="role" style="font-weight: 800">Northwood High School</span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
                 <span class="company">GPA: 3.9UW/4.2W</span>
             </span>
@@ -238,6 +231,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 </div>
 
 <h4>Technical Projects</h4>
+<div style="margin-top:1rem"></div>
 <div class="card-container">
     <!-- Card 1 -->
     <a href="https://github.com/BianLee/Equilibrio" target="_blank" class="card-link">
@@ -321,6 +315,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 - <a href="https://innovate.ucdavis.edu/blog/borrow-blog" target="_blank" style="text-decoration: underline; color: #444; text-decoration-color: red; text-underline-position: under;">UC Davis Little Bang! Pitch + Poster Competition Winner at Graduate School of Management (Awarded $1K)</a>
 - Cyber Skyline SoCal Cyber Cup 3rd Place (Awarded $2.5K)
 - CyberPatriot National Semifinalist
+- <a href="https://www.credly.com/badges/e4436913-a118-4c67-9725-9c67070cf0ac/public_url" target="_blank" style="text-decoration: underline; color: #444; text-decoration-color: red; text-underline-position: under;">AWS Certified Cloud Practitioner</a>
 - <a href="https://www.certmetrics.com/comptia/public/verification.aspx?code=JTD0JHWW0YKLF3G4" target="_blank" style="text-decoration: underline; color: #444; text-decoration-color: red; text-underline-position: under;">CompTIA IT Fundamentals+ Certification</a>
 - <a href="https://university.atlassian.com/student/award/aW68xiZ7xKtfrwFSYWbgQmnc" target="_blank" style="text-decoration: underline; color: #444; text-decoration-color: red; text-underline-position: under;">Jira Software Fundamentals Certification</a>
 - AP Scholar with Distinction
