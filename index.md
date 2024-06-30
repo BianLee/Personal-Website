@@ -315,7 +315,12 @@ Discrete Mathematics, Machine-Dependent Programming, Human-Computer Interaction,
 - <a href="https://university.atlassian.com/student/award/aW68xiZ7xKtfrwFSYWbgQmnc" target="_blank" style="text-decoration: underline; color: #444; text-decoration-color: red; text-underline-position: under;">Jira Software Fundamentals Certification</a>
 - AP Scholar with Distinction
 
+
+
+
 <h4>Skills</h4>
+
+<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/realbostonlobster?theme=light&font=Cormorant%20Garamond&ext=heatmap) -->
 
 <div style="margin-top:1rem"></div>
 - <b>Languages</b>: Python, Java, C, C++, JavaScript, TypeScript, Golang, Solidity, SQL, HTML, CSS
