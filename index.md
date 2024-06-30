@@ -320,7 +320,7 @@ Discrete Mathematics, Machine-Dependent Programming, Human-Computer Interaction,
 
 <h4>Skills</h4>
 
-<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/realbostonlobster?theme=light&font=Cormorant%20Garamond&ext=heatmap) -->
+ ![LeetCode Stats](https://leetcard.jacoblin.cool/realbostonlobster?theme=light&font=Cormorant%20Garamond&ext=heatmap)
 
 <div style="margin-top:1rem"></div>
 - <b>Languages</b>: Python, Java, C, C++, JavaScript, TypeScript, Golang, Solidity, SQL, HTML, CSS
