@@ -17,7 +17,7 @@
 
 <div style="margin-top:2.5rem"></div>
 
-<div class="content-container">
+<div class="content-container mobile-only">
 <div class="image-container">
     <img src="/assets/fidelity.jpg" alt="Fidelity Investments" class="content-image firm-logo" loading="lazy">
     </div>
@@ -35,7 +35,7 @@
 </div>
 
 
-<div class="content-container">
+<div class="content-container mobile-only">
     <div class="image-container">
         <img src="/assets/carb.jpeg" alt="California Air Resources Board" class="content-image firm-logo" loading="lazy">
     </div>
@@ -52,7 +52,7 @@
     </div>
 </div>
 
-<div class="content-container" style="">
+<div class="content-container mobile-only" style="">
     <div class="image-container">
         <img src="/assets/optimizing_com_logo.jpg" alt="Optimizing.com" class="content-image optimizing firm-logo" loading="lazy">
     </div>
@@ -61,7 +61,7 @@
             <span class="internship-title">
                 <span class="role"><b>Software Engineer Intern</b></span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
-                <span class="company" style="font-weight: 800"><mark>>Optimizing</mark></span>
+                <span class="company" style="font-weight: 800"><mark>Optimizing</mark></span>
             </span>
             <span style="color: gray">Nov 2023 - Feb 2024 • Austin, Texas</span>
             <!--
@@ -71,10 +71,9 @@
             -->
         </p>
     </div>
-
 </div>
 
-<div class="content-container">
+<div class="content-container mobile-only">
     <div class="image-container">
     <img src="/assets/vestr.jpg" alt="Vestr.io" class="content-image firm-logo" loading="lazy">
     </div>
@@ -138,7 +137,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 --> 
 <div style="margin-top: 15px;"></div>
 <h4>Education & Relevant Coursework</h4>
-<div class="content-container">
+<div class="content-container mobile-only">
 <div class="image-container">
     <img src="/assets/davis.png" alt="UC Davis" class="content-image" loading="lazy">
     </div>
@@ -157,7 +156,7 @@ Discrete Mathematics, Machine-Dependent Programming, Human-Computer Interaction,
 </div>
 
 
-<div class="content-container">
+<div class="content-container mobile-only">
 <div class="image-container">
     <img src="/assets/ivc.png" alt="Irvine Valley College" class="content-image" loading="lazy">
     </div>
@@ -175,7 +174,7 @@ Discrete Mathematics, Machine-Dependent Programming, Human-Computer Interaction,
 
 </div>
 
-<div class="content-container">
+<div class="content-container mobile-only">
 <div class="image-container">
     <img src="/assets/fullerton.png" alt="Fullerton College" class="content-image" loading="lazy">
     </div>
@@ -192,7 +191,7 @@ Discrete Mathematics, Machine-Dependent Programming, Human-Computer Interaction,
     </div>
 </div>
 
-<div class="content-container">
+<div class="content-container mobile-only">
 <div class="image-container">
     <img src="/assets/saddleback.png" alt="Saddleback College" class="content-image" loading="lazy">
     </div>
@@ -208,7 +207,7 @@ Discrete Mathematics, Machine-Dependent Programming, Human-Computer Interaction,
         </p>
     </div>
 </div>
-<div class="content-container">
+<div class="content-container mobile-only">
 <div class="image-container">
     <img src="/assets/northwood.jpg" alt="Northwood High School" class="content-image" loading="lazy">
     </div>

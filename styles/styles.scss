@@ -543,3 +543,30 @@ iframe {
 .blog-font a {
   font-size: 1.2rem;
 }
+
+@media only screen and (max-width: 768px) {
+  .mobile-only:nth-child(odd) {
+    /* Style for odd children */
+    
+    padding-left:1rem;
+    padding-right:1rem;
+    padding-top:1rem;
+    border-color: #f5f5f5;
+    border-width: 2px;
+    border-style: solid;
+
+    
+
+  }
+  .mobile-only:nth-child(even) {
+    /* Style for even children */
+
+    padding-left:1rem;
+    padding-right:1rem;
+    padding-top:1rem;
+    border-color: #f5f5f5;
+    border-width: 1px;
+    border-style: solid;
+
+  }
+}
