@@ -26,7 +26,7 @@
             <span class="internship-title">
                 <span class="role"><b>Software Engineer Intern</b></span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
-                 <span class="company" style="font-weight: 800">Fidelity Investments</span>
+                 <span class="company" style="font-weight: 800"><mark>Fidelity Investments</mark></span>
             </span>
               <span style="color: gray">Jun 2024 - Present • Merrimack, New Hampshire</span>
      <br/>- Margins & Risk
@@ -44,7 +44,7 @@
             <span class="internship-title">
                 <span class="role"><b>Data Analyst Intern</b></span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
-                 <span class="company" style="font-weight: 800">California Air Resources Board</span>
+                 <span class="company" style="font-weight: 800"><mark>California Air Resources Board</mark></span>
             </span>
             <span style="color: gray">Jun 2023 - May 2024 • Sacramento, California</span>
             <br/>- Carl Moyer Memorial Air Quality Standards Attainment Program under Incentives & Technology Advancement Branch
@@ -61,7 +61,7 @@
             <span class="internship-title">
                 <span class="role"><b>Software Engineer Intern</b></span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
-                <span class="company" style="font-weight: 800">Optimizing</span>
+                <span class="company" style="font-weight: 800"><mark>>Optimizing</mark></span>
             </span>
             <span style="color: gray">Nov 2023 - Feb 2024 • Austin, Texas</span>
             <!--
@@ -83,7 +83,7 @@
          <span class="internship-title">
                 <span class="role"><b>Analyst Intern</b></span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
-                 <span class="company" style="font-weight: 800">Vestr</span>
+                 <span class="company" style="font-weight: 800"><mark>Vestr</mark></span>
             </span>
             <span style="color: gray">Nov 2022 - Jun 2023 • Clemson, South Carolina</span>
             <br/>- Vestr.io
