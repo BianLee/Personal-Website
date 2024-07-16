@@ -40,7 +40,7 @@
 
 <div class="content-container mobile-only">
     <div class="image-container">
-        <img src="/assets/carb_bg.png" alt="California Air Resources Board" class="content-image firm-logo" loading="lazy">
+        <img src="/assets/carb.jpeg" alt="California Air Resources Board" class="content-image firm-logo" loading="lazy">
     </div>
     <div class="content-text">
         <p>
