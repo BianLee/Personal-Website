@@ -6,7 +6,7 @@ layout: post
 tags: "policy"
 ---
 
-<p style="font-size: 1.2rem;">
+<p style="font-size: 1.12rem;">
 <i>This article was originally published in my weekly music Substack Newsletter, Bian's Studio. Subscribe <a href="https://bianlee.substack.com/" target="_blank">here</a>.</i>
 
 <br><br/>Few months ago I stumbled upon a Reddit thread that led to one of my favorite discoveries on the internet. A post was made in a music subreddit asking recommendations for songs “that sound like late night train ride” or something along those lines. Someone replied it by linking the track Never Meant by American Football, and I gave it a listen right away. It was the moment I discovered Midwest emo.

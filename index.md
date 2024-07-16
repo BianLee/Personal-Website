@@ -161,7 +161,7 @@ Discrete Mathematics, Machine-Dependent Programming, Human-Computer Interaction,
 
 <div class="content-container mobile-only">
 <div class="image-container">
-    <img src="/assets/ivc.jpeg" style="border-radius: 5px;" alt="Irvine Valley College" class="content-image" loading="lazy">
+    <img src="/assets/ivc.png" style="border-radius: 5px;" alt="Irvine Valley College" class="content-image" loading="lazy">
     </div>
     <div class="content-text">
         <p>

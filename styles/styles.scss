@@ -607,6 +607,10 @@ footer {
   background-color: #f2f0f0;
 }
 
+[data-theme="dark"] .grid-item img {
+  background-color: #2a2a2a; //here
+}
+
 @media screen and (max-width: 768px) {
   .grid-container {
     grid-template-columns: auto auto; /* Two columns for smaller screens */

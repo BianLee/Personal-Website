@@ -31,10 +31,10 @@
     {% if site.nav-links %} {% endif %} {% if page.is_post %}
     <a href="{{ '/writing' | prepend:site.url }}">← Back to all posts</a>{% endif %}
     {% unless page.url == "/" %}
-    <h1 class="large-font">
+    <h2 class="large-font">
       {% if page.title %}{{ page.title }}{% endif %}{% if post.title %}{{
       post.title }}{% endif %}
-    </h1>
+    </h2>
     {% endunless %}
     {% if page.date %}
     <span class="timestamp timestamp-block">
