@@ -149,11 +149,11 @@ create prepatory CyberPatriot (security competition) materials, as a national se
             <span class="internship-title">
                 <span class="school-name" style="font-weight: 800">University of California, Davis</span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
-                <span class="school-description">B.S. Computer Science, B.A. Economics</span>
+                <span class="school-description smaller-mobile-date">B.S. Computer Science, B.A. Economics</span>
             </span>
-              <span style="color: gray">'22-26 • Davis, California</span>
-      <br/> Object-Oriented Programming, Programming & Problem Solving, Data Structures & Algorithms, Computer Architecture,
-Discrete Mathematics, Machine-Dependent Programming, Human-Computer Interaction, Computational Social Science, Vehicle & Transporation Technology, Probability Theory, Micro/Macroeconomics
+              <span style="color: gray" class="gray smaller-mobile-date">'22-26 • Davis, California</span>
+      <br/><span class="smaller-mobile">Object-Oriented Programming, Programming & Problem Solving, Data Structures & Algorithms, Computer Architecture,
+Discrete Mathematics, Machine-Dependent Programming, Human-Computer Interaction, Computational Social Science, Vehicle & Transporation Technology, Probability Theory, Micro/Macroeconomics</span>
         </p>
     </div>
 </div>
@@ -168,10 +168,10 @@ Discrete Mathematics, Machine-Dependent Programming, Human-Computer Interaction,
          <span class="internship-title">
                 <span class="school-name" style="font-weight: 800">Irvine Valley College</span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
-                <span class="school-description">Dual Enrollment, GPA: 4.0</span>
+                <span class="school-description smaller-mobile-date">Dual Enrollment, GPA: 4.0</span>
             </span>
-              <span style="color: gray">'20-22 • Irvine, California</span>
-      <br/>Computer Network Fundamentals, Systems Administrator (Linux), Information and Technology Essentials, Databases, Entrepreneurship, The Life Sciences, Humans and the Biological World, General Astronomy
+              <span style="color: gray" class="gray smaller-mobile-date">'20-22 • Irvine, California</span>
+      <br/><span class="smaller-mobile">Computer Network Fundamentals, Systems Administrator (Linux), Information and Technology Essentials, Databases, Entrepreneurship, The Life Sciences, Humans and the Biological World, General Astronomy</span>
         </p>
     </div>
 
@@ -186,10 +186,10 @@ Discrete Mathematics, Machine-Dependent Programming, Human-Computer Interaction,
                  <span class="internship-title">
                 <span class="school-name" style="font-weight: 800">Fullerton College</span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
-                <span class="school-description">Dual Enrollment, GPA: 3.8</span>
+                <span class="school-description smaller-mobile-date">Dual Enrollment, GPA: 3.8</span>
             </span>
-        <span style="color: gray">'20-22 • Fullerton, California</span>
-        <br/>Calculus I, Calculus II, Introduction to Architecture, Business Economics, Introduction to Information Systems, Funding Projects and New Ventures
+        <span style="color: gray" class="gray smaller-mobile-date">'20-22 • Fullerton, California</span>
+        <br/><span class="smaller-mobile">Calculus I, Calculus II, Introduction to Architecture, Business Economics, Introduction to Information Systems, Funding Projects and New Ventures</span>
         </p>
     </div>
 </div>
@@ -203,10 +203,10 @@ Discrete Mathematics, Machine-Dependent Programming, Human-Computer Interaction,
             <span class="internship-title">
                 <span class="school-name" style="font-weight: 800">Saddleback College</span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
-                <span class="school-description">Dual Enrollment, GPA: 4.0</span>
+                <span class="school-description smaller-mobile-date">Dual Enrollment, GPA: 4.0</span>
             </span>
-          <span style="color: gray">'21 • Mission Viejo, California</span>
-      <br/>Introduction to Psychology
+          <span style="color: gray" class="gray smaller-mobile-date">'21 • Mission Viejo, California</span>
+      <br/><span class="smaller-mobile">Introduction to Psychology</span>
         </p>
     </div>
 </div>
@@ -219,10 +219,10 @@ Discrete Mathematics, Machine-Dependent Programming, Human-Computer Interaction,
                 <span class="internship-title">
                 <span class="school-name" style="font-weight: 800">Northwood High School</span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
-                <span class="school-description">GPA: 3.9UW / 4.2W</span>
+                <span class="school-description smaller-mobile-date">GPA: 3.9UW / 4.2W</span>
             </span>
-          <span style="color: gray">'18-22 • Irvine, California</span>
-      <br/>Philharmonic Orchestra, Choir, Engineering Club (VP), Cybersecurity Club (VP), Musicians United for Service and Entertainment (Events Coordinator), Model UN (Treasurer), Startup Club (Treasurer)
+          <span style="color: gray" class="gray smaller-mobile-date">'18-22 • Irvine, California</span>
+      <br/><span class="smaller-mobile">Philharmonic Orchestra, Choir, Engineering Club (VP), Cybersecurity Club (VP), Musicians United for Service and Entertainment (Events Coordinator), Model UN (Treasurer), Startup Club (Treasurer)</span>
         </p>
     </div>
 </div>
