@@ -31,8 +31,8 @@
                 <span class="hyphen">&nbsp;-&nbsp;</span>
                  <span class="company" style="font-weight: 800">Fidelity Investments</span>
             </span>
-              <span style="color: gray">Jun 2024 - Present • Merrimack, New Hampshire</span>
-     <br/>- Margins & Risk
+              <span style="color: gray" class="smaller-mobile-date">Jun 2024 - Present • Merrimack, New Hampshire</span>
+         <br/><span class="smaller-mobile">- Margins & Risk</span>
         </p>
     </div>
 </div>
@@ -49,8 +49,8 @@
                 <span class="hyphen">&nbsp;-&nbsp;</span>
                  <span class="company" style="font-weight: 800">California Air Resources Board</span>
             </span>
-            <span style="color: gray">Jun 2023 - May 2024 • Sacramento, California</span>
-            <br/>- Carl Moyer Memorial Air Quality Standards Attainment Program under Incentives & Technology Advancement Branch
+            <span style="color: gray" class="smaller-mobile-date">Jun 2023 - May 2024 • Sacramento, California</span>
+            <br/><span class="smaller-mobile">- Carl Moyer Memorial Air Quality Standards Attainment Program under Incentives & Technology Advancement Branch</span>
         </p>
     </div>
 </div>
@@ -66,7 +66,7 @@
                 <span class="hyphen">&nbsp;-&nbsp;</span>
                 <span class="company" style="font-weight: 800">Optimizing</span>
             </span>
-            <span style="color: gray">Nov 2023 - Feb 2024 • Austin, Texas</span>
+            <span style="color: gray" class="smaller-mobile-date">Nov 2023 - Feb 2024 • Austin, Texas</span>
             <!--
             <br/> - Led backend development of CRM dashboard for 10+ SMB business clients with Stripe integrations for financing payments
             <br/> - Reduced code redundancy by ∼20% through refactoring reusable components and employing nested routes in Remix
@@ -87,8 +87,8 @@
                 <span class="hyphen">&nbsp;-&nbsp;</span>
                  <span class="company" style="font-weight: 800">Vestr</span>
             </span>
-            <span style="color: gray">Nov 2022 - Jun 2023 • Clemson, South Carolina</span>
-            <br/>- Vestr.io
+            <span style="color: gray" class="smaller-mobile-date">Nov 2022 - Jun 2023 • Clemson, South Carolina</span>
+            <br/><span class="smaller-mobile">- Vestr.io</span>
             <!--
             <br/> -  Conducted sell-side stock equity research through Discounted Cash Flow model and market sentiment/industry analysis
             <br/> -  Edited and published weekly company newsletter and delivered +73% subscriber count growth
