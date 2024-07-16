@@ -80,7 +80,7 @@
 
 //here
 [data-theme="dark"] .content-school img {
-  background-color: #2a2a2a;
+  background-color: none;
   padding: 5px;
   border-radius: 5px;
 }
@@ -230,7 +230,7 @@ nav li {
     padding: 10px 0; /* Add top and bottom padding for spacing */
   }
   [data-theme="dark"] .content-school img {
-    background-color: lightgray;
+    background-color: white;
     padding: 5px;
     border-radius: 5px;
   }
@@ -917,4 +917,15 @@ nav a:hover, nav a.active {
   .web-only-margin {
     margin-top: 2.5rem;
   }
+}
+
+
+:root {
+  --bg-color: #1a1a1a;
+  /* other dark mode variables */
+}
+
+[data-theme="light"] {
+  --bg-color: #ffffff;
+  /* other light mode variables */
 }

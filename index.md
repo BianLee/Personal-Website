@@ -140,7 +140,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 --> 
 <div style="margin-top: 15px;"></div>
 <h4>Education & Relevant Coursework</h4>
-<div class="content-container content-school mobile-only">
+<div class="content-container mobile-only">
 <div class="image-container">
     <img src="/assets/davis.png" alt="UC Davis" class="content-image" loading="lazy">
     </div>
