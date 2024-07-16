@@ -132,7 +132,7 @@ $accent-color: #b00; // link color
 $font-stack:  "Cormorant Garamond", Georgia, Cambria, "Times New Roman", Times, serif;
 $heading-font-stack: "Cormorant Garamond", Georgia, Cambria, "Times New Roman", Times, serif; // system-ui, Helvetica, Arial, sans-serif; // use this to set a different font for your headings if you want
 $code-font-stack: "Cormorant Garamond", Georgia, Cambria, "Times New Roman", Times, serif; // fonts for inline code and code blocks
-$container-max-width: 880px; //820 // 1100
+$container-max-width: 865px; //820 // 1100
 
 body {
   background-color: var(--bg-color);
@@ -576,7 +576,7 @@ code {
   p,
   li {
     font-size: 1.01rem; //1.1
-    line-height: 142%;
+    line-height: 137%; //142
   }
   li {
     margin: 0.2rem 0 0 1rem;
@@ -732,7 +732,7 @@ iframe {
     padding-bottom: 0px;
   }
   .intro-line-height {
-    line-height: 147%;
+    line-height: 141%;
   }
 }
 
