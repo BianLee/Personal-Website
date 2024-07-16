@@ -1,5 +1,19 @@
 <!DOCTYPE html>
 <head>
+
+
+    <style>
+      body {
+        background-color: #ffffff; /* Set this to the light mode background color */
+        color: #444; /* Set this to the light mode text color */
+        transition: background-color 0.3s ease, color 0.3s ease;
+      }
+      [data-theme="dark"] body {
+        background-color: #1a1a1a; /* Set this to the dark mode background color */
+        color: #cfcfcf; /* Set this to the dark mode text color */
+      }
+    </style>
+
   <meta charset="utf-8" />
   <title>{{ site.title }}</title>
   <meta name="description" content="{{ site.description }}" />
@@ -31,7 +45,7 @@
     {% if site.nav-links %} {% endif %} {% if page.is_post %}
     <a href="{{ '/writing' | prepend:site.url }}">← Back to all posts</a>{% endif %}
     {% unless page.url == "/" %}
-    <h2 class="large-font">
+    <h2 class="large-font" style="margin-top:15px;">
       {% if page.title %}{{ page.title }}{% endif %}{% if post.title %}{{
       post.title }}{% endif %}
     </h2>
@@ -73,4 +87,6 @@
       const newTheme = body.getAttribute('data-theme') === 'light' ? 'dark' : 'light';
       updateTheme(newTheme);
   });
+
+  
 </script>

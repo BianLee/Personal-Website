@@ -140,16 +140,16 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 --> 
 <div style="margin-top: 15px;"></div>
 <h4>Education & Relevant Coursework</h4>
-<div class="content-container mobile-only">
+<div class="content-container content-school mobile-only">
 <div class="image-container">
     <img src="/assets/davis.png" alt="UC Davis" class="content-image" loading="lazy">
     </div>
     <div class="content-text">
         <p>
             <span class="internship-title">
-                <span class="role" style="font-weight: 800">University of California, Davis</span>
+                <span class="school-name" style="font-weight: 800">University of California, Davis</span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
-                <span class="company">B.S. Computer Science, B.A. Economics</span>
+                <span class="school-description">B.S. Computer Science, B.A. Economics</span>
             </span>
               <span style="color: gray">'22-26 • Davis, California</span>
       <br/> Object-Oriented Programming, Programming & Problem Solving, Data Structures & Algorithms, Computer Architecture,
@@ -159,16 +159,16 @@ Discrete Mathematics, Machine-Dependent Programming, Human-Computer Interaction,
 </div>
 
 
-<div class="content-container mobile-only">
+<div class="content-container content-school mobile-only">
 <div class="image-container">
     <img src="/assets/ivc.png" style="border-radius: 5px;" alt="Irvine Valley College" class="content-image" loading="lazy">
     </div>
     <div class="content-text">
         <p>
          <span class="internship-title">
-                <span class="role" style="font-weight: 800">Irvine Valley College</span>
+                <span class="school-name" style="font-weight: 800">Irvine Valley College</span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
-                <span class="company">Dual Enrollment, GPA: 4.0</span>
+                <span class="school-description">Dual Enrollment, GPA: 4.0</span>
             </span>
               <span style="color: gray">'20-22 • Irvine, California</span>
       <br/>Computer Network Fundamentals, Systems Administrator (Linux), Information and Technology Essentials, Databases, Entrepreneurship, The Life Sciences, Humans and the Biological World, General Astronomy
@@ -177,16 +177,16 @@ Discrete Mathematics, Machine-Dependent Programming, Human-Computer Interaction,
 
 </div>
 
-<div class="content-container mobile-only">
+<div class="content-container content-school mobile-only">
 <div class="image-container">
     <img src="/assets/fullerton.png" alt="Fullerton College" class="content-image" loading="lazy">
     </div>
     <div class="content-text">
         <p>
                  <span class="internship-title">
-                <span class="role" style="font-weight: 800">Fullerton College</span>
+                <span class="school-name" style="font-weight: 800">Fullerton College</span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
-                <span class="company">Dual Enrollment, GPA: 3.8</span>
+                <span class="school-description">Dual Enrollment, GPA: 3.8</span>
             </span>
         <span style="color: gray">'20-22 • Fullerton, California</span>
         <br/>Calculus I, Calculus II, Introduction to Architecture, Business Economics, Introduction to Information Systems, Funding Projects and New Ventures
@@ -194,16 +194,16 @@ Discrete Mathematics, Machine-Dependent Programming, Human-Computer Interaction,
     </div>
 </div>
 
-<div class="content-container  mobile-only">
+<div class="content-container  content-school mobile-only">
 <div class="image-container">
     <img src="/assets/saddleback.png" alt="Saddleback College" class="content-image" loading="lazy">
     </div>
     <div class="content-text">
         <p>
             <span class="internship-title">
-                <span class="role" style="font-weight: 800">Saddleback College</span>
+                <span class="school-name" style="font-weight: 800">Saddleback College</span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
-                <span class="company">Dual Enrollment, GPA: 4.0</span>
+                <span class="school-description">Dual Enrollment, GPA: 4.0</span>
             </span>
           <span style="color: gray">'21 • Mission Viejo, California</span>
       <br/>Introduction to Psychology
@@ -217,9 +217,9 @@ Discrete Mathematics, Machine-Dependent Programming, Human-Computer Interaction,
     <div class="content-text">
         <p>
                 <span class="internship-title">
-                <span class="role" style="font-weight: 800">Northwood High School</span>
+                <span class="school-name" style="font-weight: 800">Northwood High School</span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
-                <span class="company">GPA: 3.9UW / 4.2W</span>
+                <span class="school-description">GPA: 3.9UW / 4.2W</span>
             </span>
           <span style="color: gray">'18-22 • Irvine, California</span>
       <br/>Philharmonic Orchestra, Choir, Engineering Club (VP), Cybersecurity Club (VP), Musicians United for Service and Entertainment (Events Coordinator), Model UN (Treasurer), Startup Club (Treasurer)

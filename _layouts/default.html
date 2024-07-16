@@ -1,4 +1,3 @@
-
 {% include head.html %} {% if page.is_post %}<a
   href="{{ '/writing' | prepend:site.url }}"
   >← Back to all posts</a
@@ -11,6 +10,7 @@
 <span class="timestamp timestamp-block"> {% include post-date.html %} </span>
 {% endif %} {% if page.url == "/" %} {% include greeting.html %} {% endif %} {{
 content }} {% include foot.html %}
+
 
 
 

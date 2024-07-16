@@ -14,7 +14,7 @@
 <ul>
   {% for post in site.posts %}
     {% if post.tags contains "policy" %}
-      <li style="font-size:1.2rem;"><a href="{{ post.url }}" style="color: black;">{{ post.title }}</a></li>
+      <li style="font-size:1.1rem;"><a href="{{ post.url }}" style="color: black;">{{ post.title }}</a></li>
     {% endif %}
   {% endfor %}
 </ul>

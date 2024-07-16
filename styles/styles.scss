@@ -63,14 +63,24 @@
   font-weight: normal !important;
 }
 
+[data-theme="dark"] .school-description, [data-theme="dark"] b {
+  color: white !important;
+  font-weight: normal !important;
+}
 
 [data-theme="dark"] .role, [data-theme="dark"] b {
   color: white !important;
   font-weight: normal !important;
 }
 
+[data-theme="dark"] .school-name, [data-theme="dark"] b {
+  color: white !important;
+  font-weight: normal !important;
+}
+
+//here
 [data-theme="dark"] .content-school img {
-  background-color: white;
+  background-color: none;
   padding: 5px;
   border-radius: 5px;
 }
@@ -218,6 +228,11 @@ nav li {
     width: 100%; /* Full width on mobile */
     text-align: center; /* Center the links */
     padding: 10px 0; /* Add top and bottom padding for spacing */
+  }
+  [data-theme="dark"] .content-school img {
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px;
   }
 }
 
@@ -446,8 +461,23 @@ code {
   align-items: center; /* Center items vertically */
 }
 .internship-title .role,
+.internship-title .school-name,
 .internship-title .company {
   font-size: 1.1rem;
+}
+.internship-title .school-description {
+  font-size: 1.1rem;
+}
+
+
+.company {
+  text-decoration: normal;
+}
+.school-name {
+  text-decoration: normal;
+}
+.school-description {
+  text-decoration: normal;
 }
 
 @media (max-width: 768px) {
@@ -459,11 +489,15 @@ code {
     flex-direction: column; /* Stack items vertically */
     margin: 0 auto;
   }
-  .internship-title .company {
+  .internship-title .company, .school-description {
     order: 1; /* make it -1 to reverse order */
   }
+  
+  
   .internship-title .role,
+  .internship-title .school-name,
   .internship-title .company,
+  .internship-title .school-description,
   .internship-title .location {
     margin: 0 auto;
     width: 100%;
@@ -487,6 +521,16 @@ code {
     align-items: flex-start;
     margin-top: 1rem;
   }
+  
+  .company {
+    text-decoration: underline;
+  }
+
+  .school-name {
+    text-decoration: underline;
+  }
+
+
 
   .content-image {
     margin: 0 auto 0px;
@@ -608,7 +652,7 @@ footer {
 }
 
 [data-theme="dark"] .grid-item img {
-  background-color: #2a2a2a; //here
+  background-color: #2a2a2a;
 }
 
 @media screen and (max-width: 768px) {
@@ -725,9 +769,6 @@ iframe {
 }
 
 
-.company-mark {
-  /* No special styles here */
-}
 
 /* Mobile views (max width 768px) */
 @media (max-width: 768px) {
