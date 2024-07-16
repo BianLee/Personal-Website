@@ -80,7 +80,7 @@
 
 //here
 [data-theme="dark"] .content-school img {
-  background-color: none;
+  background-color: #2a2a2a;
   padding: 5px;
   border-radius: 5px;
 }
@@ -230,11 +230,12 @@ nav li {
     padding: 10px 0; /* Add top and bottom padding for spacing */
   }
   [data-theme="dark"] .content-school img {
-    background-color: white;
+    background-color: lightgray;
     padding: 5px;
     border-radius: 5px;
   }
 }
+
 
 nav a {
   margin-right: 1rem;

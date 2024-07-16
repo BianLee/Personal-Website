@@ -40,7 +40,7 @@
 
 <div class="content-container mobile-only">
     <div class="image-container">
-        <img src="/assets/carb.jpeg" alt="California Air Resources Board" class="content-image firm-logo" loading="lazy">
+        <img src="/assets/carb_bg.png" alt="California Air Resources Board" class="content-image firm-logo" loading="lazy">
     </div>
     <div class="content-text">
         <p>
@@ -78,7 +78,7 @@
 
 <div class="content-container mobile-only">
     <div class="image-container">
-    <img src="/assets/vestr.jpg" alt="Vestr.io" class="content-image firm-logo" loading="lazy">
+    <img src="/assets/vestr_bg.png" alt="Vestr.io" class="content-image firm-logo" loading="lazy">
     </div>
     <div class="content-text">
         <p>
@@ -210,9 +210,9 @@ Discrete Mathematics, Machine-Dependent Programming, Human-Computer Interaction,
         </p>
     </div>
 </div>
-<div class="content-container mobile-only">
+<div class="content-container content-school mobile-only">
 <div class="image-container">
-    <img src="/assets/northwood.jpg" style="border-radius: 5px;" alt="Northwood High School" class="content-image" loading="lazy">
+    <img src="/assets/northwood_bg.png" style="border-radius: 5px;" alt="Northwood High School" class="content-image" loading="lazy">
     </div>
     <div class="content-text">
         <p>
