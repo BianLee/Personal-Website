@@ -18,7 +18,7 @@
 <!-- -->
 
 
-<div style="margin-top:2.5rem"></div>
+  <div class="web-only-margin"></div>
 
 <div class="content-container mobile-only">
 <div class="image-container">

@@ -165,7 +165,7 @@ a {
   padding: 0;
   box-sizing: border-box;
   font-family:  "Cormorant Garamond", Georgia, Cambria, "Times New Roman", Times, serif;
-  font-size: 1.13rem;
+  font-size: 1.12rem;
   font-weight: 500;
 
 }
@@ -863,5 +863,12 @@ nav a:hover, nav a.active {
 
   .show-darkModeToggle {
     display: block !important; /* Show when conditionally added via JavaScript */
+  }
+}
+
+
+@media (min-width: 768px) {
+  .web-only-margin {
+    margin-top: 2.5rem;
   }
 }

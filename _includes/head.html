@@ -33,7 +33,7 @@
                                 {% if link.external == true %}
                                     <a style="color: black;" href="{{ link.url }}" {% if link.name == 'Resume' %}target="_blank"{% endif %}>
                                 {% else %}
-                                    <a {% if page.url == link.url %}style="text-decoration: underline; color: black; text-decoration-color: red; text-underline-position: under;"{% endif %} style="color: black" href="{{ link.url | prepend:site.url }}" {% if link.name == 'Discord' %}target="_blank"{% endif %}>
+                                    <a {% if page.url == link.url %}style="text-decoration: underline; color: black; text-decoration-color: gray; text-underline-position: under;"{% endif %} style="color: black" href="{{ link.url | prepend:site.url }}" {% if link.name == 'Discord' %}target="_blank"{% endif %}>
                                 {% endif %}
                                     {{ link.name }}
                                 </a>
