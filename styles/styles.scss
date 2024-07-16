@@ -401,7 +401,7 @@ code {
 .content-container {
   display: flex;
   align-items: center;
-  min-height: 133px;
+  min-height: 120px;
   /*
   padding-left: 0.5rem;
   padding-right: 0.5rem;
@@ -571,7 +571,7 @@ code {
     transform: none;
   }
   .image-container {
-    width: 28% !important;
+    width: 23% !important; //28
   }
   p,
   li {
@@ -589,7 +589,7 @@ mark {
 }
 
 .image-container {
-  width: 120px; /* Adjust the width as needed. 140 */
+  width: 100px; /* Adjust the width as needed. 140 */
   margin-right: 8px;
   overflow: hidden; /* Hide any overflow content */
   position: relative; /* Create a positioning context for child elements */

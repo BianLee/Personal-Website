@@ -78,7 +78,7 @@
 
 <div class="content-container mobile-only">
     <div class="image-container">
-    <img src="/assets/vestr_bg.png" alt="Vestr.io" class="content-image firm-logo" loading="lazy">
+    <img src="/assets/vestr.jpg" alt="Vestr.io" class="content-image firm-logo" loading="lazy">
     </div>
     <div class="content-text">
         <p>
