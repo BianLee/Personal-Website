@@ -80,7 +80,7 @@
 
 //here
 [data-theme="dark"] .content-school img {
-  background-color: #2a2a2a;
+  background-color: none;
   padding: 5px;
   border-radius: 5px;
 }
@@ -870,6 +870,7 @@ nav a:hover, nav a.active {
     top: 10px;
     left: 10px;
     font-size: 1.2rem;
+    display: none;
   }
 }
 
@@ -919,3 +920,14 @@ nav a:hover, nav a.active {
   }
 }
 
+:root {
+  --bg-color: #1a1a1a;
+  --text-color: #cfcfcf;
+  /* other dark mode variables */
+}
+
+[data-theme="light"] {
+  --bg-color: #ffffff;
+  --text-color: #444;
+  /* other light mode variables */
+}
