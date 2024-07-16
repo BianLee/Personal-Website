@@ -296,7 +296,9 @@ Discrete Mathematics, Machine-Dependent Programming, Human-Computer Interaction,
 <h4>Skills</h4>
 
 
- ![LeetCode Stats](https://leetcard.jacoblin.cool/realbostonlobster?theme=light&font=Cormorant%20Garamond&ext=heatmap)
+<img id="leetcodeStats" alt="LeetCode Stats" />
+
+
  <br/><i>Leetcode Stats!</i>
 
 <div style="margin-top:1rem"></div>
@@ -318,29 +320,44 @@ Discrete Mathematics, Machine-Dependent Programming, Human-Computer Interaction,
         </div>
     </footer>
 
-
 <script>
 const darkModeToggle = document.getElementById('darkModeToggle');
 const body = document.body;
 
-// Check for saved theme preference or default to light mode
+function updateLeetCodeImage() {
+  const leetcodeImg = document.getElementById('leetcodeStats');
+  if (leetcodeImg) {  // Check if the element exists
+    const isDarkMode = document.body.getAttribute('data-theme') === 'dark';
+    const theme = isDarkMode ? 'dark' : 'light';
+    leetcodeImg.src = `https://leetcard.jacoblin.cool/realbostonlobster?theme=${theme}&font=Cormorant%20Garamond&ext=heatmap`;
+  }
+}
+
+// Check for saved theme preference or default to dark
 const currentTheme = localStorage.getItem('theme') || 'dark';
-body.setAttribute('data-theme', currentTheme);
 
 function updateTheme(theme) {
   body.setAttribute('data-theme', theme);
   localStorage.setItem('theme', theme);
   updateButtonText(theme);
+  updateLeetCodeImage();  // Update image whenever theme changes
 }
 
 function updateButtonText(theme) {
   darkModeToggle.textContent = theme === 'light' ? '🌙' : '☀️';
 }
 
-updateButtonText(currentTheme);
+// Apply the theme when the page loads
+updateTheme(currentTheme);
 
 darkModeToggle.addEventListener('click', () => {
   const newTheme = body.getAttribute('data-theme') === 'light' ? 'dark' : 'light';
   updateTheme(newTheme);
 });
+
+// Add event listener for when the DOM content is loaded
+document.addEventListener('DOMContentLoaded', updateLeetCodeImage);
+
+// If using turbolinks or any other dynamic page loading, you might need this:
+document.addEventListener('turbolinks:load', updateLeetCodeImage);
 </script>
