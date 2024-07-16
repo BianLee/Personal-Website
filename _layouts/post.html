@@ -48,3 +48,29 @@
     {% include foot.html %}
   </div>
 </body>
+
+<script>
+  const darkModeToggle = document.getElementById('darkModeToggle');
+  const body = document.body;
+
+  // Check for saved theme preference or default to light mode
+  const currentTheme = localStorage.getItem('theme') || 'dark';
+  body.setAttribute('data-theme', currentTheme);
+
+  function updateTheme(theme) {
+      body.setAttribute('data-theme', theme);
+      localStorage.setItem('theme', theme);
+      updateButtonText(theme);
+  }
+
+  function updateButtonText(theme) {
+      darkModeToggle.textContent = theme === 'light' ? '🌓' : '☀️';
+  }
+
+  updateButtonText(currentTheme);
+
+  darkModeToggle.addEventListener('click', () => {
+      const newTheme = body.getAttribute('data-theme') === 'light' ? 'dark' : 'light';
+      updateTheme(newTheme);
+  });
+</script>

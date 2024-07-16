@@ -1,3 +1,4 @@
+
 {% include head.html %} {% if page.is_post %}<a
   href="{{ '/writing' | prepend:site.url }}"
   >← Back to all posts</a
@@ -10,3 +11,31 @@
 <span class="timestamp timestamp-block"> {% include post-date.html %} </span>
 {% endif %} {% if page.url == "/" %} {% include greeting.html %} {% endif %} {{
 content }} {% include foot.html %}
+
+
+
+<script>
+  const darkModeToggle = document.getElementById('darkModeToggle');
+  const body = document.body;
+
+  // Check for saved theme preference or default to light mode
+  const currentTheme = localStorage.getItem('theme') || 'dark';
+  body.setAttribute('data-theme', currentTheme);
+
+  function updateTheme(theme) {
+      body.setAttribute('data-theme', theme);
+      localStorage.setItem('theme', theme);
+      updateButtonText(theme);
+  }
+
+  function updateButtonText(theme) {
+      darkModeToggle.textContent = theme === 'light' ? '🌓' : '☀️';
+  }
+
+  updateButtonText(currentTheme);
+
+  darkModeToggle.addEventListener('click', () => {
+      const newTheme = body.getAttribute('data-theme') === 'light' ? 'dark' : 'light';
+      updateTheme(newTheme);
+  });
+</script>

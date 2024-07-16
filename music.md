@@ -49,8 +49,10 @@
     </div>
 </div>
 
+
 <p style="font-size: 1.2rem;">
 <br/>As a classical-trained instrumentalist and a musician, I strive to write music that leaves lasting impact on listeners. I grew up playing the piano and cello, and have been part of numerous orchestras, ensembles, choirs, and concours. I studied theory and began my compositional journey in my senior year of high school through writing <a href="assets/composition_portfolio.pdf" target="_blank"><mark>short piano compositions</mark></a>, then later making a transition to producing digitally on DAWs. I have since publicly released 3 albums, 2 EPs, and 4 singles, amassing over 30k+ streams and 15k+ listeners from major streaming platforms.<br/><br/>
+
 
 <center>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1aq72VYJ3XpBXOVNZ9ZshU?utm_source=generator" width="80%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -80,6 +82,7 @@
     <br/><br/><i>2023 & 2022 Spotify Wrapped. A big thank you to all my fans!</i>
   </center>
 </p>
+
 
 <!--
   <div class="content-container-album-spot">

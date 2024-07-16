@@ -8,8 +8,11 @@
     <div class="content-text">
         <p style="font-size: 1.18rem" class="intro-line-height">
           <b style="font-size: 1.5rem">Bian Lee 🇺🇸</b>
-           <br/>I am a sophomore at University of California, Davis, pursuing B.S. in Computer Science and B.A. in Economics. My interests range from software engineering, data analytics, cybersecurity, fintech and Web3/DeFi. I also compose and produce music. Please reach me via email at bianlee2004@gmail.com.
+           <br/>I am a sophomore at University of California, Davis, pursuing B.S. in Computer Science and B.A. in Economics. My interests include software engineering, data analytics and financial markets. I also compose and produce music. Please reach me via email at bianlee2004@gmail.com.
          </p>
+         <button id="darkModeToggle" aria-label="Toggle dark mode">🌙</button>
+
+
     </div>
 </div>
 <!-- -->
@@ -158,7 +161,7 @@ Discrete Mathematics, Machine-Dependent Programming, Human-Computer Interaction,
 
 <div class="content-container mobile-only">
 <div class="image-container">
-    <img src="/assets/ivc.png" alt="Irvine Valley College" class="content-image" loading="lazy">
+    <img src="/assets/ivc.jpeg" style="border-radius: 5px;" alt="Irvine Valley College" class="content-image" loading="lazy">
     </div>
     <div class="content-text">
         <p>
@@ -191,7 +194,7 @@ Discrete Mathematics, Machine-Dependent Programming, Human-Computer Interaction,
     </div>
 </div>
 
-<div class="content-container mobile-only">
+<div class="content-container  mobile-only">
 <div class="image-container">
     <img src="/assets/saddleback.png" alt="Saddleback College" class="content-image" loading="lazy">
     </div>
@@ -209,7 +212,7 @@ Discrete Mathematics, Machine-Dependent Programming, Human-Computer Interaction,
 </div>
 <div class="content-container mobile-only">
 <div class="image-container">
-    <img src="/assets/northwood.jpg" alt="Northwood High School" class="content-image" loading="lazy">
+    <img src="/assets/northwood.jpg" style="border-radius: 5px;" alt="Northwood High School" class="content-image" loading="lazy">
     </div>
     <div class="content-text">
         <p>
@@ -274,36 +277,9 @@ Discrete Mathematics, Machine-Dependent Programming, Human-Computer Interaction,
             <p>An interactive map on the front-end that plots city coordinates upon user input, and renders a SVG map (with pan & zoom functionality) using D3.js library and svg-pan-zoom.<br/><br/> <span style="color: gray">Next.js, D3.js</span></p>
         </div>
     </a>
-    <!--
-    <a href="https://github.com/Empirewebspace/empirewebspace" target="_blank" class="card-link">
-        <div class="card">
-            <h3>EmpireWebSpace (empireweb.space)</h3>
-            <p>Founded 7-member web agency currently doing pro bono work for local non-profits.<br/><br/><span style="color: gray">Next.js</span></p>
-        </div>
-    </a>
-    <a href="https://github.com/InterSTEMDev/interstem.us" target="_blank" class="card-link">
-        <div class="card">
-            <h3>InterSTEM 501(c)(3) website (interstem.us)</h3>
-            <p>Led the development of organization website and managed a tech team of 6. Published 148 articles and received 200k+ views.<br/><br/> <span style="color: gray">Jekyll, Markdown, and SCSS</span></p>
-        </div>
-    </a>
-    <a href="https://github.com/BianLee/nhscyber.club" target="_blank" class="card-link">
-        <div class="card">
-        <h3>NHS Cybersecurity Club website (nhscyber.club)</h3>
-        <p><span style="color: gray">HTML, CSS, JavaScript, Bootstrap</span></p>
-        </div>
-    </a>
-    <a href="https://github.com/BianLee/Personal-Website" target="_blank" class="card-link">
-    <div class="card">
-        <h3>This portfolio site (bianlee.me)</h3>
-         <p><span style="color: gray">Jekyll, SCSS, Markdown</span></p>
-    </div>
-    </a>
-        -->
 </div>
-
+<!-- 
 <h4>Awards & Certifications</h4>
-
 <div style="margin-top:1rem"></div>
 - UC Davis Dean's Honors List (College of Engineering)
 - <a href="https://innovate.ucdavis.edu/blog/borrow-blog" target="_blank" style="text-decoration: underline; color: #444; text-decoration-color: red; text-underline-position: under;">UC Davis Little Bang! Pitch + Poster Competition Winner at Graduate School of Management (Awarded $1K)</a>
@@ -314,7 +290,7 @@ Discrete Mathematics, Machine-Dependent Programming, Human-Computer Interaction,
 - <a href="https://university.atlassian.com/student/award/aW68xiZ7xKtfrwFSYWbgQmnc" target="_blank" style="text-decoration: underline; color: #444; text-decoration-color: red; text-underline-position: under;">Jira Software Fundamentals Certification</a>
 - AP Scholar with Distinction
 
-
+-->
 
 
 <h4>Skills</h4>
@@ -341,3 +317,30 @@ Discrete Mathematics, Machine-Dependent Programming, Human-Computer Interaction,
             <!-- <a href="https://www.deezer.com/us/artist/162218717/" target="_blank"><i class="fab fa-deezer"></i></a> -->
         </div>
     </footer>
+
+
+<script>
+const darkModeToggle = document.getElementById('darkModeToggle');
+const body = document.body;
+
+// Check for saved theme preference or default to light mode
+const currentTheme = localStorage.getItem('theme') || 'dark';
+body.setAttribute('data-theme', currentTheme);
+
+function updateTheme(theme) {
+  body.setAttribute('data-theme', theme);
+  localStorage.setItem('theme', theme);
+  updateButtonText(theme);
+}
+
+function updateButtonText(theme) {
+  darkModeToggle.textContent = theme === 'light' ? '🌙' : '☀️';
+}
+
+updateButtonText(currentTheme);
+
+darkModeToggle.addEventListener('click', () => {
+  const newTheme = body.getAttribute('data-theme') === 'light' ? 'dark' : 'light';
+  updateTheme(newTheme);
+});
+</script>
