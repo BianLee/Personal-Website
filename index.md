@@ -276,7 +276,7 @@ function toggleMoreEducation() {
             <br/><br/><span style="color: gray">TensorFlow, Gemini API, ElevenLabs, Flask, Next.js, Supabase</span></p>
         </div>
     </a>
-     <a href="https://davisrideshare.com" target="_blank" class="card-link">
+     <a href="https://github.com/BianLee/davisrideshare" target="_blank" class="card-link">
         <div class="card">
             <h3>DavisRideShare.com</h3>
             <p>Built a full-stack application that allows UC Davis students to find ridesharing on campus and save on transportation cost.
