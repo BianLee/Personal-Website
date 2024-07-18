@@ -892,6 +892,7 @@ nav a:hover, nav a.active {
 }
 
 #darkModeToggle {
+  display: none; 
   position: fixed;
   top: 10px;
   left: 10px;

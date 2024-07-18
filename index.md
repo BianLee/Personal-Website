@@ -278,19 +278,101 @@ Discrete Mathematics, Machine-Dependent Programming, Human-Computer Interaction,
         </div>
     </a>
 </div>
-<!-- 
 <h4>Awards & Certifications</h4>
-<div style="margin-top:1rem"></div>
-- UC Davis Dean's Honors List (College of Engineering)
-- <a href="https://innovate.ucdavis.edu/blog/borrow-blog" target="_blank" style="text-decoration: underline; color: #444; text-decoration-color: red; text-underline-position: under;">UC Davis Little Bang! Pitch + Poster Competition Winner at Graduate School of Management (Awarded $1K)</a>
-- Cyber Skyline SoCal Cyber Cup 3rd Place (Awarded $2.5K)
-- CyberPatriot National Semifinalist
-- <a href="https://www.credly.com/badges/e4436913-a118-4c67-9725-9c67070cf0ac/public_url" target="_blank" style="text-decoration: underline; color: #444; text-decoration-color: red; text-underline-position: under;">AWS Certified Cloud Practitioner</a>
-- <a href="https://www.certmetrics.com/comptia/public/verification.aspx?code=JTD0JHWW0YKLF3G4" target="_blank" style="text-decoration: underline; color: #444; text-decoration-color: red; text-underline-position: under;">CompTIA IT Fundamentals+ Certification</a>
-- <a href="https://university.atlassian.com/student/award/aW68xiZ7xKtfrwFSYWbgQmnc" target="_blank" style="text-decoration: underline; color: #444; text-decoration-color: red; text-underline-position: under;">Jira Software Fundamentals Certification</a>
-- AP Scholar with Distinction
+<div class="awards-card-container">
+    <!-- Award 1 -->
+    <div class="awards-card">
+        <h3>Dean's Honors List</h3>
+        <p>UC Davis College of Engineering</p>
+    </div>
+    <!-- Award 2 -->
+    <div class="awards-card">
+        <h3><a href="https://innovate.ucdavis.edu/blog/borrow-blog" target="_blank">Little Bang! Pitch + Poster Competition Winner</a></h3>
+        <p>UC Davis Graduate School of Management (Awarded $1K)</p>
+    </div>
+    <!-- Award 3 -->
+    <div class="awards-card">
+        <h3>Cyber Skyline SoCal Cyber Cup</h3>
+        <p>3rd Place (Awarded $2.5K)</p>
+    </div>
+    <!-- Award 4 -->
+    <div class="awards-card">
+        <h3>CyberPatriot National Semifinalist</h3>
+    </div>
+    <!-- Certification 1 -->
+    <div class="awards-card">
+        <h3><a href="https://www.credly.com/badges/e4436913-a118-4c67-9725-9c67070cf0ac/public_url" target="_blank">AWS Certified Cloud Practitioner</a></h3>
+    </div>
+    <!-- Certification 2 -->
+    <div class="awards-card">
+        <h3><a href="https://www.certmetrics.com/comptia/public/verification.aspx?code=JTD0JHWW0YKLF3G4" target="_blank">CompTIA IT Fundamentals+ Certification</a></h3>
+    </div>
+    <!-- Certification 3 -->
+    <div class="awards-card">
+        <h3><a href="https://university.atlassian.com/student/award/aW68xiZ7xKtfrwFSYWbgQmnc" target="_blank">Jira Software Fundamentals Certification</a></h3>
+    </div>
+    <!-- Award 5 -->
+    <div class="awards-card">
+        <h3>AP Scholar with Distinction</h3>
+    </div>
+</div>
 
--->
+<style>
+.awards-card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.awards-card {
+    padding: 1rem;
+    border-radius: 8px;
+    flex: 1 1 30%;
+}
+
+.awards-card:hover {
+    background-color: #2a2a2a;
+}
+
+.awards-card h3 {
+    margin-top: 0;
+    font-size: 1.25rem;
+}
+
+.awards-card p {
+    margin: 0.5rem 0 0;
+    font-size: 1rem;
+}
+
+@media (max-width: 1024px) {
+    .awards-card {
+        flex: 1 1 calc(50% - 1rem); /* Adjust width for medium screens */
+    }
+}
+
+@media (max-width: 768px) {
+    .awards-card {
+        flex: 1 1 calc(50% - 0.5rem); /* Adjust width for smaller screens */
+    }
+    .awards-card h3 {
+        margin-top: 0;
+        font-size: 1rem;
+    }
+
+    .awards-card p {
+        margin: 0.5rem 0 0;
+        font-size: 0.8rem;
+    }
+
+    
+}
+
+@media (max-width: 480px) {
+    .awards-card {
+        flex: 1 1 calc(100% - 1rem); /* Adjust for very small screens */
+    }
+}
+</style>
 
 
 <h4>Skills</h4>
