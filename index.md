@@ -141,8 +141,9 @@ create prepatory CyberPatriot (security competition) materials, as a national se
 <div style="margin-top: 15px;"></div>
 <h4>Education & Relevant Coursework</h4>
 <div class="content-container mobile-only">
-<div class="image-container">
-    <img src="/assets/davis.png" alt="UC Davis" class="content-image" loading="lazy">
+    <!-- UC Davis Entry -->
+    <div class="image-container">
+        <img src="/assets/davis.png" alt="UC Davis" class="content-image" loading="lazy">
     </div>
     <div class="content-text">
         <p>
@@ -151,81 +152,118 @@ create prepatory CyberPatriot (security competition) materials, as a national se
                 <span class="hyphen">&nbsp;-&nbsp;</span>
                 <span class="school-description smaller-mobile-date">B.S. Computer Science, B.A. Economics</span>
             </span>
-              <span style="color: gray" class="gray smaller-mobile-date">'22-26 • Davis, California</span>
-      <br/><span class="smaller-mobile">Object-Oriented Programming, Programming & Problem Solving, Data Structures & Algorithms, Computer Architecture,
-Discrete Mathematics, Machine-Dependent Programming, Human-Computer Interaction, Computational Social Science, Vehicle & Transporation Technology, Probability Theory, Micro/Macroeconomics</span>
+            <span style="color: gray" class="smaller-mobile-date">'22-26 • Davis, California</span>
+            <br/><span class="smaller-mobile">Object-Oriented Programming, Programming & Problem Solving, Data Structures & Algorithms, Computer Architecture, Discrete Mathematics, Machine-Dependent Programming, Human-Computer Interaction, Computational Social Science, Vehicle & Transportation Technology, Probability Theory, Micro/Macroeconomics</span>
         </p>
     </div>
 </div>
 
-
-<div class="content-container content-school mobile-only">
-<div class="image-container">
-    <img src="/assets/ivc.png" style="border-radius: 5px;" alt="Irvine Valley College" class="content-image" loading="lazy">
-    </div>
-    <div class="content-text">
-        <p>
-         <span class="internship-title">
-                <span class="school-name" style="font-weight: 800">Irvine Valley College</span>
-                <span class="hyphen">&nbsp;-&nbsp;</span>
-                <span class="school-description smaller-mobile-date">Dual Enrollment, GPA: 4.0</span>
-            </span>
-              <span style="color: gray" class="gray smaller-mobile-date">'20-22 • Irvine, California</span>
-      <br/><span class="smaller-mobile">Computer Network Fundamentals, Systems Administrator (Linux), Information and Technology Essentials, Databases, Entrepreneurship, The Life Sciences, Humans and the Biological World, General Astronomy</span>
-        </p>
-    </div>
-
-</div>
-
-<div class="content-container content-school mobile-only">
-<div class="image-container">
-    <img src="/assets/fullerton.png" alt="Fullerton College" class="content-image" loading="lazy">
-    </div>
-    <div class="content-text">
-        <p>
-                 <span class="internship-title">
-                <span class="school-name" style="font-weight: 800">Fullerton College</span>
-                <span class="hyphen">&nbsp;-&nbsp;</span>
-                <span class="school-description smaller-mobile-date">Dual Enrollment, GPA: 3.8</span>
-            </span>
-        <span style="color: gray" class="gray smaller-mobile-date">'20-22 • Fullerton, California</span>
-        <br/><span class="smaller-mobile">Calculus I, Calculus II, Introduction to Architecture, Business Economics, Introduction to Information Systems, Funding Projects and New Ventures</span>
-        </p>
-    </div>
-</div>
-
-<div class="content-container  content-school mobile-only">
-<div class="image-container">
-    <img src="/assets/saddleback.png" alt="Saddleback College" class="content-image" loading="lazy">
-    </div>
-    <div class="content-text">
-        <p>
-            <span class="internship-title">
-                <span class="school-name" style="font-weight: 800">Saddleback College</span>
-                <span class="hyphen">&nbsp;-&nbsp;</span>
-                <span class="school-description smaller-mobile-date">Dual Enrollment, GPA: 4.0</span>
-            </span>
-          <span style="color: gray" class="gray smaller-mobile-date">'21 • Mission Viejo, California</span>
-      <br/><span class="smaller-mobile">Introduction to Psychology</span>
-        </p>
-    </div>
-</div>
-<div class="content-container content-school mobile-only">
-<div class="image-container">
-    <img src="/assets/northwood_bg.png" style="border-radius: 5px;" alt="Northwood High School" class="content-image" loading="lazy">
-    </div>
-    <div class="content-text">
-        <p>
+<!-- Hidden Education Entries -->
+<div class="hidden-education" id="moreEducation" style="display: none;">
+    <div class="content-container mobile-only">
+        <div class="image-container">
+            <img src="/assets/ivc.png" alt="Irvine Valley College" class="content-image" loading="lazy">
+        </div>
+        <div class="content-text">
+            <p>
                 <span class="internship-title">
-                <span class="school-name" style="font-weight: 800">Northwood High School</span>
-                <span class="hyphen">&nbsp;-&nbsp;</span>
-                <span class="school-description smaller-mobile-date">GPA: 3.9UW / 4.2W</span>
-            </span>
-          <span style="color: gray" class="gray smaller-mobile-date">'18-22 • Irvine, California</span>
-      <br/><span class="smaller-mobile">Philharmonic Orchestra, Choir, Engineering Club (VP), Cybersecurity Club (VP), Musicians United for Service and Entertainment (Events Coordinator), Model UN (Treasurer), Startup Club (Treasurer)</span>
-        </p>
+                    <span class="school-name" style="font-weight: 800">Irvine Valley College</span>
+                    <span class="hyphen">&nbsp;-&nbsp;</span>
+                    <span class="school-description smaller-mobile-date">Dual Enrollment, GPA: 4.0</span>
+                </span>
+                <span style="color: gray" class="smaller-mobile-date">'20-22 • Irvine, California</span>
+                <br/><span class="smaller-mobile">Computer Network Fundamentals, Systems Administrator (Linux), Information and Technology Essentials, Databases, Entrepreneurship, The Life Sciences, Humans and the Biological World, General Astronomy</span>
+            </p>
+        </div>
+    </div>
+    <div class="content-container mobile-only">
+        <div class="image-container">
+            <img src="/assets/fullerton.png" alt="Fullerton College" class="content-image" loading="lazy">
+        </div>
+        <div class="content-text">
+            <p>
+                <span class="internship-title">
+                    <span class="school-name" style="font-weight: 800">Fullerton College</span>
+                    <span class="hyphen">&nbsp;-&nbsp;</span>
+                    <span class="school-description smaller-mobile-date">Dual Enrollment, GPA: 3.8</span>
+                </span>
+                <span style="color: gray" class="smaller-mobile-date">'20-22 • Fullerton, California</span>
+                <br/><span class="smaller-mobile">Calculus I, Calculus II, Introduction to Architecture, Business Economics, Introduction to Information Systems, Funding Projects and New Ventures</span>
+            </p>
+        </div>
+    </div>
+    <div class="content-container mobile-only">
+        <div class="image-container">
+            <img src="/assets/saddleback.png" alt="Saddleback College" class="content-image" loading="lazy">
+        </div>
+        <div class="content-text">
+            <p>
+                <span class="internship-title">
+                    <span class="school-name" style="font-weight: 800">Saddleback College</span>
+                    <span class="hyphen">&nbsp;-&nbsp;</span>
+                    <span class="school-description smaller-mobile-date">Dual Enrollment, GPA: 4.0</span>
+                </span>
+                <span style="color: gray" class="smaller-mobile-date">'21 • Mission Viejo, California</span>
+                <br/><span class="smaller-mobile">Introduction to Psychology</span>
+            </p>
+        </div>
+    </div>
+    <div class="content-container mobile-only">
+        <div class="image-container">
+            <img src="/assets/northwood_bg.png" alt="Northwood High School" class="content-image" loading="lazy">
+        </div>
+        <div class="content-text">
+            <p>
+                <span class="internship-title">
+                    <span class="school-name" style="font-weight: 800">Northwood High School</span>
+                    <span class="hyphen">&nbsp;-&nbsp;</span>
+                    <span class="school-description smaller-mobile-date">GPA: 3.9UW / 4.2W</span>
+                </span>
+                <span style="color: gray" class="smaller-mobile-date">'18-22 • Irvine, California</span>
+                <br/><span class="smaller-mobile">Philharmonic Orchestra, Choir, Engineering Club (VP), Cybersecurity Club (VP), Musicians United for Service and Entertainment (Events Coordinator), Model UN (Treasurer), Startup Club (Treasurer)</span>
+            </p>
+        </div>
     </div>
 </div>
+
+<button id="toggleMoreButton" onclick="toggleMoreEducation()">Show More</button>
+
+<style>
+.hidden-education {
+    display: none;
+}
+
+#toggleMoreButton {
+    display: block;
+    margin: 0.2rem auto;
+    padding: 0.4rem 1rem;
+    border: none;
+    border-radius: 4px;
+    background-color: var(--card-bg-color);
+    color: var(--text-color);
+    cursor: pointer;
+    margin-top: -10px;
+}
+
+#toggleMoreButton:hover {
+    background-color: var(--card-hover-bg-color);
+}
+</style>
+
+<script>
+function toggleMoreEducation() {
+    const moreEducation = document.getElementById('moreEducation');
+    const toggleButton = document.getElementById('toggleMoreButton');
+    if (moreEducation.style.display === 'none') {
+        moreEducation.style.display = 'block';
+        toggleButton.textContent = 'Show Less';
+    } else {
+        moreEducation.style.display = 'none';
+        toggleButton.textContent = 'Show More';
+    }
+}
+</script>
+
 
 <h4>Technical Projects</h4>
 <div style="margin-top:1rem"></div>
@@ -353,15 +391,6 @@ Discrete Mathematics, Machine-Dependent Programming, Human-Computer Interaction,
 @media (max-width: 768px) {
     .awards-card {
         flex: 1 1 calc(50% - 0.5rem); /* Adjust width for smaller screens */
-    }
-    .awards-card h3 {
-        margin-top: 0;
-        font-size: 1rem;
-    }
-
-    .awards-card p {
-        margin: 0.5rem 0 0;
-        font-size: 0.8rem;
     }
 
     
