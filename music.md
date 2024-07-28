@@ -2,6 +2,13 @@
 ---
 
 <div class="grid-container">
+<!--
+  <div class="grid-item">
+        <a href="https://open.spotify.com/album/1Mp9fOFvgOWVYWs0NjTu6p?si=s9iC5mqNQBy4V4EERgqB6g" target="_blank">
+            <img src="/assets/music/bianlee.png" loading="lazy">
+        </a>
+    </div>
+     -->
     <div class="grid-item">
         <a href="https://open.spotify.com/album/1aq72VYJ3XpBXOVNZ9ZshU?si=M3S3-qDuQNCAprM7IOiheg" target="_blank">
             <img src="/assets/music/painting_pictures.png" loading="lazy">
