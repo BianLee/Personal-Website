@@ -31,7 +31,7 @@
                 <span class="hyphen">&nbsp;-&nbsp;</span>
                  <span class="company" style="font-weight: 800">Fidelity Investments</span>
             </span>
-              <span style="color: gray" class="smaller-mobile-date">Jun 2024 - Present • Merrimack, New Hampshire</span>
+              <span style="color: gray" class="smaller-mobile-date">Jun 2024 - Aug 2024 • Merrimack, New Hampshire</span>
          <br/><span class="smaller-mobile">- Margins & Risk</span>
         </p>
     </div>
