@@ -6,8 +6,8 @@ layout: post
 tags: "policy"
 ---
 
-<p style="font-size: 1.12rem;">
-<i style="font-size: 1.12rem;">
+<p style="font-size: 1.05rem;">
+<i style="font-size: 1.05rem;">
 This was originally submitted as a term paper for ECS 188: Ethics in an Age of Technology class with Professor Saltzen in Winter 2024 quarter.</i>
 
 <br/><br/>The United States Government’s involvement in digital surveillance on American communication platforms represent an unethical use of technology that infringes upon numerous Constitutional amendments and raises significant concerns of personal privacy and confidentiality of information.
@@ -39,4 +39,5 @@ This was originally submitted as a term paper for ECS 188: Ethics in an Age of T
 <br/>- Government Surveillance and Incentives to Abuse Power, www.ischool.
 <br/>- The USA PATRIOT Act: Civil Liberties, the Media, and Public ..., ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=2097&context=ulj. Accessed 21 Feb. 2024.
 <br/>- Effectiveness of Metadata Information and Tools Applied To ..., digitalcommons.unl.edu/cgi/viewcontent.cgi?article=2608&context=libphilprac. Accessed 21 Feb. 2024.
+
 </p>

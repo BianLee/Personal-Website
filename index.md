@@ -6,17 +6,17 @@
         <img src="/assets/pfp_bian.jpg" alt="Bian Lee" class="pfp-image">
     </div>
     <div class="content-text">
-        <p style="font-size: 1.18rem" class="intro-line-height">
+        <p style="font-size: 1.05rem" class="intro-line-height">
           <b style="font-size: 1.5rem">Bian Lee 🇺🇸</b>
-           <br/>I am a sophomore at University of California, Davis, pursuing B.S. in Computer Science and B.A. in Economics. My interests include software engineering, data analytics and financial markets. I also compose and produce music. Please reach me via email at bianlee2004@gmail.com.
+           <br/>I am a rising Junior at University of California, Davis, pursuing B.S. in Computer Science and B.A. in Economics. My interests include software engineering, data analytics and financial markets. I also compose and produce music. Please reach me via email at bianlee2004@gmail.com.
+
          </p>
          <button id="darkModeToggle" aria-label="Toggle dark mode">🌙</button>
 
-
     </div>
+
 </div>
 <!-- -->
-
 
   <div class="web-only-margin"></div>
 
@@ -32,11 +32,10 @@
                  <span class="company" style="font-weight: 800">Fidelity Investments</span>
             </span>
               <span style="color: gray" class="smaller-mobile-date">Jun 2024 - Aug 2024 • Merrimack, New Hampshire</span>
-         <br/><span class="smaller-mobile">- Margins & Risk</span>
+         <br/><span class="smaller-mobile">- Brokerage Technology</span>
         </p>
     </div>
 </div>
-
 
 <div class="content-container mobile-only">
     <div class="image-container">
@@ -45,7 +44,7 @@
     <div class="content-text">
         <p>
             <span class="internship-title">
-                <span class="role"><b>Data Analyst Intern</b></span>
+                <span class="role"><b>Data Analyst Intern (Year-Round)</b></span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
                  <span class="company" style="font-weight: 800">California Air Resources Board</span>
             </span>
@@ -65,8 +64,10 @@
                 <span class="role"><b>Software Engineer Intern</b></span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
                 <span class="company" style="font-weight: 800">Optimizing</span>
+              
             </span>
             <span style="color: gray" class="smaller-mobile-date">Nov 2023 - Feb 2024 • Austin, Texas</span>
+              <br/><span class="smaller-mobile">- CRM for SMBs</span>
             <!--
             <br/> - Led backend development of CRM dashboard for 10+ SMB business clients with Stripe integrations for financing payments
             <br/> - Reduced code redundancy by ∼20% through refactoring reusable components and employing nested routes in Remix
@@ -264,7 +265,6 @@ function toggleMoreEducation() {
 }
 </script>
 
-
 <h4>Technical Projects</h4>
 <div style="margin-top:1rem"></div>
 <div class="card-container">
@@ -403,14 +403,11 @@ function toggleMoreEducation() {
 }
 </style>
 
-
 <h4>Skills</h4>
-
 
 <img id="leetcodeStats" alt="LeetCode Stats" />
 
-
- <br/><i>Leetcode Stats!</i>
+<br/><i>Leetcode Stats!</i>
 
 <div style="margin-top:1rem"></div>
 - <b>Languages</b>: Python, Java, C, C++, JavaScript, TypeScript, Golang, Solidity, SQL, HTML, CSS

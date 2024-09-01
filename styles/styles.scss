@@ -1,7 +1,6 @@
 ---
 ---
 
-
 :root {
   --bg-color: #ffffff;
   --text-color: #444;
@@ -22,12 +21,14 @@
   --card-hover-bg-color: #3f3f3f !important;
 }
 
-
 [data-theme="dark"] {
   * {
     color: var(--text-color) !important;
   }
-  h1, h2, h3, h4 {
+  h1,
+  h2,
+  h3,
+  h4 {
     color: var(--heading-color) !important;
   }
   a {
@@ -57,23 +58,26 @@
   color: var(--link-color);
 }
 
-
-[data-theme="dark"] .company, [data-theme="dark"] b {
+[data-theme="dark"] .company,
+[data-theme="dark"] b {
   color: white !important;
   font-weight: normal !important;
 }
 
-[data-theme="dark"] .school-description, [data-theme="dark"] b {
+[data-theme="dark"] .school-description,
+[data-theme="dark"] b {
   color: white !important;
   font-weight: normal !important;
 }
 
-[data-theme="dark"] .role, [data-theme="dark"] b {
+[data-theme="dark"] .role,
+[data-theme="dark"] b {
   color: white !important;
   font-weight: normal !important;
 }
 
-[data-theme="dark"] .school-name, [data-theme="dark"] b {
+[data-theme="dark"] .school-name,
+[data-theme="dark"] b {
   color: white !important;
   font-weight: normal !important;
 }
@@ -125,14 +129,17 @@
   color: var(--card-text-color);
 }
 
-
-
-
 $accent-color: #b00; // link color
-$font-stack:  "Cormorant Garamond", Georgia, Cambria, "Times New Roman", Times, serif;
-$heading-font-stack: "Cormorant Garamond", Georgia, Cambria, "Times New Roman", Times, serif; // system-ui, Helvetica, Arial, sans-serif; // use this to set a different font for your headings if you want
-$code-font-stack: "Cormorant Garamond", Georgia, Cambria, "Times New Roman", Times, serif; // fonts for inline code and code blocks
-$container-max-width: 865px; //820 // 1100
+
+$font-stack: "Source Serif Pro", Georgia, Cambria, "Times New Roman", Times,
+  serif;
+$heading-font-stack: "Source Serif Pro", Georgia, Cambria, "Times New Roman",
+  Times, serif;
+$code-font-stack: "Source Serif Pro", Georgia, Cambria, "Times New Roman", Times,
+  serif;
+$container-max-width: 865px;
+
+$font-weight-semibold: 800;
 
 body {
   background-color: var(--bg-color);
@@ -140,7 +147,12 @@ body {
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   color: var(--heading-color);
 }
 
@@ -158,7 +170,8 @@ a {
 }
 
 @font-face {
-  font-family: "Cormorant Garamond", Georgia, Cambria, "Times New Roman", Times, serif;
+  font-family: "Source Serif Pro", Georgia, Cambria, "Times New Roman", Times,
+    serif;
 
   font-weight: normal;
   font-style: normal;
@@ -174,10 +187,11 @@ a {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family:  "Cormorant Garamond", Georgia, Cambria, "Times New Roman", Times, serif;
-  font-size: 1.1rem;
-  font-weight: 500;
+  font-family: "Source Serif Pro", Georgia, Cambria, "Times New Roman", Times,
+    serif;
 
+  font-size: 1.15rem;
+  font-weight: 500;
 }
 
 // structure
@@ -198,7 +212,6 @@ body {
   font-size: 1.5rem !important;
   margin-top: 3rem !important;
 }
-
 
 // navigation
 nav {
@@ -236,7 +249,6 @@ nav li {
   }
 }
 
-
 nav a {
   margin-right: 1rem;
 }
@@ -256,7 +268,8 @@ h1 {
 }
 
 .global-title {
-  font-family:  "Cormorant Garamond", Georgia, Cambria, "Times New Roman", Times, serif;
+  font-family: "Source Serif Pro", Georgia, Cambria, "Times New Roman", Times,
+    serif;
   font-weight: normal;
   // font-family: "Cedarville Cursive", cursive;
   //font-family: "satoshi";
@@ -290,16 +303,15 @@ h4 {
 // typography: body
 
 p,
-i, 
+i,
 li {
-  font-size: 1rem; //1.1
-  line-height: 135%; //140
+  font-size: 0.9rem; //1.1
+  line-height: 145%; //140
   color: #444;
   margin: 1.2rem 0;
-  font-family:  "Cormorant Garamond", Georgia, Cambria, "Times New Roman", Times, serif;
+  font-family: "Source Serif Pro", Georgia, Cambria, "Times New Roman", Times,
+    serif;
 }
-
-
 
 li {
   margin: 0.25rem 0 0 2.5rem;
@@ -313,7 +325,7 @@ a {
   color: $accent-color;
   font-size: inherit;
 }
-i{
+i {
   font-size: inherit;
 }
 
@@ -321,7 +333,6 @@ a:hover,
 a:active {
   color: lighten($accent-color, 10%);
 }
-
 
 // images
 img {
@@ -395,7 +406,6 @@ code {
   display: flex;
   align-items: center;
   min-height: 133px;
-
 }
 
 .content-container {
@@ -408,7 +418,6 @@ code {
   padding-top: 0.25rem;
   padding-bottom: 0.25rem;
   */
-  
 }
 
 /*
@@ -416,7 +425,6 @@ code {
   background-color: #f5f5f5;
 }
 */
-
 
 .content-container-album {
   display: flex;
@@ -470,7 +478,6 @@ code {
   font-size: 1.1rem;
 }
 
-
 .company {
   text-decoration: normal;
 }
@@ -483,11 +490,11 @@ code {
 
 .smaller-mobile {
   display: visible;
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 .smaller-mobile-date {
   display: visible;
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 
 @media (max-width: 768px) {
@@ -504,11 +511,11 @@ code {
     flex-direction: column; /* Stack items vertically */
     margin: 0 auto;
   }
-  .internship-title .company, .school-description {
+  .internship-title .company,
+  .school-description {
     order: 1; /* make it -1 to reverse order */
   }
-  
-  
+
   .internship-title .role,
   .internship-title .school-name,
   .internship-title .company,
@@ -526,7 +533,8 @@ code {
     display: none; /* Hide the hyphen on mobile */
   }
 
-  .content-container, .content-container-pfp {
+  .content-container,
+  .content-container-pfp {
     flex-direction: column;
     align-items: flex-start;
     margin-top: 1rem;
@@ -536,19 +544,16 @@ code {
     align-items: flex-start;
     margin-top: 1rem;
   }
-  
+
   .company {
     //text-decoration: underline;
     font-style: italic;
-
   }
 
   .school-name {
     //text-decoration: underline;
     font-style: italic;
   }
-
-
 
   .content-image {
     margin: 0 auto 0px;
@@ -720,7 +725,6 @@ iframe {
   margin-top: 0;
 }
 
-
 .card:hover {
   background-color: rgba(0, 0, 0, 0.05);
   cursor: pointer;
@@ -753,8 +757,6 @@ iframe {
   }
 }
 
-
-
 .blog-font a {
   font-size: 1.2rem;
 }
@@ -762,39 +764,34 @@ iframe {
 @media only screen and (max-width: 768px) {
   .mobile-only:nth-child(odd) {
     /* Style for odd children */
-    
-    padding-left:1rem;
-    padding-right:1rem;
-    padding-top:1rem;
+
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 1rem;
     border-color: var(--card-border-color);
     background-color: var(--card-bg-color);
-    
+
     border-width: 1px;
     border-style: solid;
   }
   .mobile-only:nth-child(even) {
     /* Style for even children */
 
-    padding-left:1rem;
-    padding-right:1rem;
-    padding-top:1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 1rem;
     border-color: var(--card-border-color);
     background-color: var(--card-bg-color);
     border-width: 1px;
     border-style: solid;
-
   }
 }
-
-
 
 /* Mobile views (max width 768px) */
 @media (max-width: 768px) {
   .company-mark {
-     
   }
 }
-
 
 nav {
   margin: 1rem 0 1rem;
@@ -821,8 +818,11 @@ nav a {
   transition: color 0.3s ease;
 }
 
-nav a:hover, nav a.active {
-  color: var(--link-color); // Use the link color variable for hover and active states
+nav a:hover,
+nav a.active {
+  color: var(
+    --link-color
+  ); // Use the link color variable for hover and active states
 }
 
 // For better visibility on scroll, you might want to add a subtle background
@@ -846,7 +846,6 @@ nav a:hover, nav a.active {
     background-color: var(--bg-color); // Add background color for mobile
   }
 }
-
 
 #darkModeToggle {
   position: fixed;
@@ -892,7 +891,7 @@ nav a:hover, nav a.active {
 }
 
 #darkModeToggle {
-  display: none; 
+  display: none;
   position: fixed;
   top: 10px;
   left: 10px;
@@ -923,14 +922,12 @@ nav a:hover, nav a.active {
     left: 12px;
     font-size: 1.2rem;
     position: absolute;
-   
   }
 
   .show-darkModeToggle {
     display: block !important; /* Show when conditionally added via JavaScript */
   }
 }
-
 
 @media (min-width: 768px) {
   .web-only-margin {

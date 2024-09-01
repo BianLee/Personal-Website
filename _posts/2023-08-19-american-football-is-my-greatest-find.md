@@ -6,7 +6,7 @@ layout: post
 tags: "policy"
 ---
 
-<p style="font-size: 1.12rem;">
+<p style="font-size: 1.05rem;">
 <i>This article was originally published in my weekly music Substack Newsletter, Bian's Studio. Subscribe <a href="https://bianlee.substack.com/" target="_blank">here</a>.</i>
 
 <br><br/>Few months ago I stumbled upon a Reddit thread that led to one of my favorite discoveries on the internet. A post was made in a music subreddit asking recommendations for songs “that sound like late night train ride” or something along those lines. Someone replied it by linking the track Never Meant by American Football, and I gave it a listen right away. It was the moment I discovered Midwest emo.
@@ -26,4 +26,5 @@ tags: "policy"
 <br><br/>By now I have listened through their entire discography (which isn’t long), and I’m immensely glad that I discovered their music. At one point, I was only writing indie tracks for a while — like <a href="https://open.spotify.com/track/3WWIdTES579WkoLXsOb4IQ?si=b98d47de698e4fd9" target="_blank">this one</a>.
 
 <br><br/>The way I discovered the world of Midwest emo, purely by chance, is a reminder that there is endless world of great music out there, yet to be heard.
+
 </p>
