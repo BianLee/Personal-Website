@@ -32,7 +32,7 @@
                  <span class="company" style="font-weight: 800">Fidelity Investments</span>
             </span>
               <span style="color: gray" class="smaller-mobile-date">Jun 2024 - Aug 2024 • Merrimack, New Hampshire</span>
-         <br/><span class="smaller-mobile">- Brokerage Technology</span>
+         <br/><span class="smaller-mobile">- Core Brokerage Platform Technology</span>
         </p>
     </div>
 </div>
