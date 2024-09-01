@@ -8,7 +8,7 @@
     <div class="content-text">
         <p style="font-size: 1.05rem" class="intro-line-height">
           <b style="font-size: 1.5rem">Bian Lee 🇺🇸</b>
-           <br/>I am a rising Junior at University of California, Davis, pursuing B.S. in Computer Science and B.A. in Economics. My interests include software engineering, data analytics and financial markets. I also compose and produce music. Please reach me via email at bianlee2004@gmail.com.
+           <br/>I am a rising Junior at University of California, Davis, pursuing B.S. Computer Science and B.A. Economics. I'm interested in software engineering, data analytics and finance/investments. I also compose and produce music. Please reach me via email at bianlee2004@gmail.com.
 
          </p>
          <button id="darkModeToggle" aria-label="Toggle dark mode">🌙</button>
@@ -44,7 +44,7 @@
     <div class="content-text">
         <p>
             <span class="internship-title">
-                <span class="role"><b>Data Analyst Intern (Year-Round)</b></span>
+                <span class="role"><b>Data Analyst Intern</b></span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
                  <span class="company" style="font-weight: 800">California Air Resources Board</span>
             </span>
@@ -269,11 +269,18 @@ function toggleMoreEducation() {
 <div style="margin-top:1rem"></div>
 <div class="card-container">
     <!-- Card 1 -->
+    <a href="https://github.com/BianLee/HackMIT-Solver" target="_blank" class="card-link">
+        <div class="card">
+            <h3>HackMIT Admission Puzzle Solver</h3>
+            <p>Wrote a C++ script that uses Trie data structure, DFS (depth-first search) and backtracking algorithms to maximize points on the hexhunt word puzzle, winning a guaranteed admission to HackMIT (20th place out of ∼500 solvers)
+            <br/><br/><span style="color: gray">C++</span></p>
+        </div>
+    </a>
     <a href="https://github.com/BianLee/Equilibrio" target="_blank" class="card-link">
         <div class="card">
             <h3>Yoga Form Detection/Correction Model with Real-Time Video Feed</h3>
-            <p>Used TensorFlow’s PoseNet model to build a live webcam feed that tracks body points in relative coordinates, comparing them against a ML model trained on images of correct yoga forms to give generative feedback through Gemini API + ElevenLab's text-to-speech model.
-            <br/><br/><span style="color: gray">TensorFlow, Gemini API, ElevenLabs, Flask, Next.js, Supabase</span></p>
+            <p>Used TensorFlow’s PoseNet model to build a live webcam feed that tracks body points in relative coordinates, comparing them against a ML model trained on images of correct yoga forms to give generative feedback.
+            <br/><br/><span style="color: gray">TensorFlow, Python</span></p>
         </div>
     </a>
      <a href="https://github.com/BianLee/davisrideshare" target="_blank" class="card-link">
@@ -286,21 +293,22 @@ function toggleMoreEducation() {
     <a href="https://github.com/BianLee/mentormingle" target="_blank" class="card-link">
         <div class="card">
             <h3>Mentor/Mentee Real-Time Communication App</h3>
-            <p>Developed and launched a full-stack social application designed to pair mentees with mentors (students with alumni), integrating authentication, real-time 1:1 messaging, profile creation/editing, searching, and filtering capabilities. Submission for ECS164 term project.
+            <p>Developed a full-stack social application designed to pair mentees with mentors (students with alumni), integrating
+authentication, real-time 1:1 messaging, profile creation/editing, searching, and filtering capabilities. Submission for ECS164 term project.
             <br/><br/><span style="color: gray">Next.js, Supabase</span></p>
         </div>
     </a>
       <a href="https://github.com/ritvikir/hackdavis" target="_blank" class="card-link">
         <div class="card">
             <h3>DSM-5 Diagnostic Chatbot with Semantic Search</h3>
-            <p>Leveraged LLM to parse through DSM-5 with semantic search, storing data as vector embeddings in Pinecone database. Fine-tuned OpenAI’s GPT-3.5 turbo and used React in Next.js to create an interactive diagnostic chatbot. Executed Python scripts in Beautiful Soup to scrape web data of nearby physicians & clinics, storing them as key-value documents in MongoDB. Built and Served NodeJS API and used Axios library to fetch & render data on screen.
+            <p>Processed 992 pages of the DSM-5 PDF using a LLM to store vector embeddings, enabling semantic search of psychiatric conditions through a GPT-powered conversational chatbot accessible via a web interface.
             <br/><br/><span style="color: gray">GPT-3.5 Turbo, Pinecone, Langchain, MongoDB</span></p>
         </div>
     </a>
     <a href="https://github.com/BianLee/Decentralized-Exchange-Model-ERC-20-Token" target="_blank" class="card-link">
         <div class="card">
             <h3>Decentralized Exchange and ERC-20 Token/Tokenomics</h3>
-            <p>Wrote smart contracts in Solidity to create a custom ERC-20 token & tokenomics and a decentralized exchange. Implemented Constant Product Market formula used in Automated Market Making (AMM) systems, and deployed on Ethereum blockchain (mainnet) to allow users to trade custom token for ETH using Metamask wallet.<br/><br/><span style="color: gray">Solidity, Web3.js, React, Truffle Suite</span></p>
+            <p>Deployed Solidity smart contracts on mainnet for ERC-20 token and a decentralized exchange (tradable using Metamask wallet), implementing constant product market formula in Automated Market Making (AMM) systems. <br/><br/><span style="color: gray">Solidity, Web3.js, React, Truffle Suite</span></p>
         </div>
     </a>
     <a href="https://github.com/BianLee/opensourcecollage.com" target="_blank" class="card-link">
