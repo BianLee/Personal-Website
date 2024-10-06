@@ -8,7 +8,7 @@
     <div class="content-text">
         <p style="font-size: 1.05rem" class="intro-line-height">
           <b style="font-size: 1.5rem">Bian Lee 🇺🇸</b>
-           <br/>I am a rising Junior at University of California, Davis, pursuing B.S. Computer Science and B.A. Economics. I'm interested in software engineering, data analytics and investing. I also compose and produce music. Please reach me at bianlee2004@gmail.com.
+           <br/>I am a Junior at University of California, Davis, pursuing B.S. Computer Science and B.A. Economics. I'm interested in software engineering, data analytics and investing. I also compose and produce music. Please reach me at bianlee2004@gmail.com.
 
          </p>
          <button id="darkModeToggle" aria-label="Toggle dark mode">🌙</button>
