@@ -10,7 +10,7 @@
     </div>
      -->
            <div class="grid-item">
-        <a href="" target="_blank">
+        <a href="https://open.spotify.com/album/64iclRxyghKPAWUvwHQ7hX?si=2n3nypAlQ06NVcaBOba2ww" target="_blank">
             <img src="/assets/music/been_through_it_all.png" loading="lazy">
         </a>
     </div>
@@ -65,8 +65,9 @@
 <br/>As a classical-trained instrumentalist and a musician, I strive to write music that leaves lasting impact on listeners. I grew up playing the piano and cello, and have been part of numerous orchestras, ensembles, choirs, and concours. I studied theory and began my compositional journey in my senior year of high school through writing <a href="assets/composition_portfolio.pdf" target="_blank"><mark>short piano compositions</mark></a>, then later making a transition to producing digitally on DAWs. I have since publicly released 3 albums, 2 EPs, and 4 singles, amassing over 30k+ streams and 15k+ listeners from major streaming platforms.<br/><br/>
 
 <center>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1aq72VYJ3XpBXOVNZ9ZshU?utm_source=generator" width="80%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<br/><br/><i>Go stream my latest album Painting Pictures!</i>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2wBwljA6Qw1NkSunDhFKYB?utm_source=generator" width="80%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<br/><br/><i>Go stream my single been through it all featuring aftrr!</i>
 </center>
 
 <br/><p style="font-size: 1.05rem;">In 2022, I was interviewed and featured in <a href="https://www.arkansasonline.com/news/2022/jul/10/opinion-paper-trails-california-teen-writes/" target="blank"><i><mark>The Arkansas Democrat-Gazette</mark></i></a> for my track <i>Arkansas</i> -- one of the 25 tracks that I put out in association with US States (sort of like the same project Sufjan Stevens began but never completed).
