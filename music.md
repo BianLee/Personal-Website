@@ -67,7 +67,7 @@
 <center>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2wBwljA6Qw1NkSunDhFKYB?utm_source=generator" width="80%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<br/><br/><i>Go stream my single been through it all featuring aftrr!</i>
+<br/><br/><i>been through it all ft. aftrr!</i>
 </center>
 
 <br/><p style="font-size: 1.05rem;">In 2022, I was interviewed and featured in <a href="https://www.arkansasonline.com/news/2022/jul/10/opinion-paper-trails-california-teen-writes/" target="blank"><i><mark>The Arkansas Democrat-Gazette</mark></i></a> for my track <i>Arkansas</i> -- one of the 25 tracks that I put out in association with US States (sort of like the same project Sufjan Stevens began but never completed).
