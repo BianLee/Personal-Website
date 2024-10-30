@@ -54,6 +54,7 @@
     </div>
 </div>
 
+<!--
 <div class="content-container mobile-only">
     <div class="image-container">
     <img src="/assets/vestr.jpg" alt="Vestr.io" class="content-image firm-logo" loading="lazy">
@@ -67,15 +68,13 @@
             </span>
             <span style="color: gray" class="smaller-mobile-date">Nov 2022 - Jun 2023 • Clemson, South Carolina</span>
             <br/><span class="smaller-mobile">- Vestr.io</span>
-            <!--
-            <br/> -  Conducted sell-side stock equity research through Discounted Cash Flow model and market sentiment/industry analysis
-            <br/> -  Edited and published weekly company newsletter and delivered +73% subscriber count growth
-            <br/> - Worked directly alongside Founder/CEO & Engineer in the Series A startup
-            -->
+
         </p>
     </div>
 </div>
+
 <div style="margin-top: 15px;"></div>
+ -->
 <!-- 
 <h4>Club & Extracurricular Experience</h4>
 <div class="content-container" style="margin-top: 14px;">
