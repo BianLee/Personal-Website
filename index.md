@@ -54,29 +54,6 @@
     </div>
 </div>
 
-<div class="content-container mobile-only" style="">
-    <div class="image-container">
-        <img src="/assets/optimizing_com_logo.jpg" alt="Optimizing.com" class="content-image optimizing firm-logo" loading="lazy">
-    </div>
-    <div class="content-text">
-        <p>
-            <span class="internship-title">
-                <span class="role"><b>Software Engineer Intern</b></span>
-                <span class="hyphen">&nbsp;-&nbsp;</span>
-                <span class="company" style="font-weight: 800">Optimizing</span>
-              
-            </span>
-            <span style="color: gray" class="smaller-mobile-date">Nov 2023 - Feb 2024 • Austin, Texas</span>
-              <br/><span class="smaller-mobile">- CRM for SMBs</span>
-            <!--
-            <br/> - Led backend development of CRM dashboard for 10+ SMB business clients with Stripe integrations for financing payments
-            <br/> - Reduced code redundancy by ∼20% through refactoring reusable components and employing nested routes in Remix
-            <br/> - Designed 6 relational (one-to-many) schemas in Prisma for customers/checkouts and implemented API endpoints with Action/LoaderFunctions to listen to HTTP requests and allow CRUD operations
-            -->
-        </p>
-    </div>
-</div>
-
 <div class="content-container mobile-only">
     <div class="image-container">
     <img src="/assets/vestr.jpg" alt="Vestr.io" class="content-image firm-logo" loading="lazy">
