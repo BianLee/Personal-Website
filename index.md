@@ -20,6 +20,41 @@
 
   <div class="web-only-margin"></div>
 
+<!-- 
+<div class="content-container mobile-only">
+<div class="image-container">
+    <img src="/assets/walmart_global_tech.jpeg" alt="Amazon" class="content-image firm-logo" loading="lazy">
+    </div>
+    <div class="content-text">
+        <p>
+            <span class="internship-title">
+                <span class="role"><b>Incoming Software Engineer Intern</b></span>
+                <span class="hyphen">&nbsp;-&nbsp;</span>
+                 <span class="company" style="font-weight: 800">Walmart Global Tech</span>
+            </span>
+              <span style="color: gray" class="smaller-mobile-date">Jun 2024 - Aug 2024 • Sunnyvale, California</span>
+         <br/><span class="smaller-mobile">- Summer 2025</span>
+        </p>
+    </div>
+</div>
+
+<div class="content-container mobile-only">
+<div class="image-container">
+    <img src="/assets/amazon_logo.jpeg" alt="Amazon" class="content-image firm-logo" loading="lazy">
+    </div>
+    <div class="content-text">
+        <p>
+            <span class="internship-title">
+                <span class="role"><b>Incoming Software Development Engineer Intern</b></span>
+                <span class="hyphen">&nbsp;-&nbsp;</span>
+                 <span class="company" style="font-weight: 800">Amazon</span>
+            </span>
+              <span style="color: gray" class="smaller-mobile-date">Jan 2025 - Apr 2025 • Bellevue, Washington</span>
+         <br/><span class="smaller-mobile">- Winter 2025</span>
+        </p>
+    </div>
+</div>
+-->
 <div class="content-container mobile-only">
 <div class="image-container">
     <img src="/assets/fidelity.jpg" alt="Fidelity Investments" class="content-image firm-logo" loading="lazy">
@@ -49,11 +84,48 @@
                  <span class="company" style="font-weight: 800">California Air Resources Board</span>
             </span>
             <span style="color: gray" class="smaller-mobile-date">Jun 2023 - May 2024 • Sacramento, California</span>
-            <br/><span class="smaller-mobile">- Carl Moyer Memorial Air Quality Standards Attainment Program under Incentives & Technology Advancement Branch</span>
+            <br/><span class="smaller-mobile">- Carl Moyer Memorial Air Quality Standards Attainment Program under Incentives & Technology Advancement Branch.</span>
         </p>
     </div>
 </div>
 
+<!-- 
+<div class="content-container mobile-only">
+    <div class="image-container">
+    <img src="/assets/optimizing_com_logo.jpg" alt="Optimizing.com" class="content-image firm-logo" loading="lazy">
+    </div>
+    <div class="content-text">
+        <p>
+         <span class="internship-title">
+                <span class="role"><b>Software Engineer Intern</b></span>
+                <span class="hyphen">&nbsp;-&nbsp;</span>
+                 <span class="company" style="font-weight: 800">Optimizing</span>
+            </span>
+            <span style="color: gray" class="smaller-mobile-date">Nov 2022 - Jun 2023 • Clemson, South Carolina</span>
+            <br/><span class="smaller-mobile">- CRM for SMBs</span>
+
+        </p>
+    </div>
+</div>
+<div class="content-container mobile-only">
+    <div class="image-container">
+    <img src="/assets/vestr.jpg" alt="Vestr.io" class="content-image firm-logo" loading="lazy">
+    </div>
+    <div class="content-text">
+        <p>
+         <span class="internship-title">
+                <span class="role"><b>Analyst Intern</b></span>
+                <span class="hyphen">&nbsp;-&nbsp;</span>
+                 <span class="company" style="font-weight: 800">Vestr</span>
+            </span>
+            <span style="color: gray" class="smaller-mobile-date">Nov 2022 - Jun 2023 • Clemson, South Carolina</span>
+            <br/><span class="smaller-mobile">- Vestr.io</span>
+
+        </p>
+    </div>
+</div>
+
+-->
 <!--
 <div class="content-container mobile-only">
     <div class="image-container">
@@ -75,6 +147,7 @@
 
 <div style="margin-top: 15px;"></div>
  -->
+ 
 <!-- 
 <h4>Club & Extracurricular Experience</h4>
 <div class="content-container" style="margin-top: 14px;">
