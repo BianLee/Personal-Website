@@ -37,7 +37,7 @@
         </p>
     </div>
 </div>
-
+-->
 <div class="content-container mobile-only">
 <div class="image-container">
     <img src="/assets/amazon_logo.jpeg" alt="Amazon" class="content-image firm-logo" loading="lazy">
@@ -54,7 +54,6 @@
         </p>
     </div>
 </div>
--->
 <div class="content-container mobile-only">
 <div class="image-container">
     <img src="/assets/fidelity.jpg" alt="Fidelity Investments" class="content-image firm-logo" loading="lazy">
@@ -84,7 +83,7 @@
                  <span class="company" style="font-weight: 800">California Air Resources Board</span>
             </span>
             <span style="color: gray" class="smaller-mobile-date">Jun 2023 - May 2024 • Sacramento, California</span>
-            <br/><span class="smaller-mobile">- Carl Moyer Memorial Air Quality Standards Attainment Program under Incentives & Technology Advancement Branch.</span>
+            <br/><span class="smaller-mobile">- Carl Moyer Memorial Air Quality Standards Attainment Program under Incentives & Technology Advancement Branch (Year-round intern)</span>
         </p>
     </div>
 </div>
