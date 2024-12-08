@@ -453,10 +453,6 @@ code {
   border-width: 1px;
 }
 
-.content-image-spot {
-  max-width: 400px;
-  margin-right: 10px;
-}
 
 .pfp-image {
   margin-top: 20px;
@@ -558,10 +554,7 @@ code {
   .content-image {
     margin: 0 auto 0px;
   }
-  .content-image-spot {
-    margin: 0 auto 10px;
-    max-width: 100%;
-  }
+
   .content-text {
     flex: 1;
     margin-left: 10px;
@@ -945,4 +938,34 @@ nav a.active {
   --bg-color: #ffffff;
   --text-color: #444;
   /* other light mode variables */
+}
+
+
+
+
+/* Flexbox container for the images */
+.content-image-spot-wrapper {
+  display: flex;
+  flex-wrap: wrap; /* Allows wrapping on smaller screens */
+  justify-content: center; /* Centers images horizontally */
+  gap: 10px; /* Adds spacing between images */
+}
+
+/* Styling for the images */
+.content-image-spot {
+  max-width: 400px;
+  width: 100%; /* Ensures responsive behavior */
+  height: auto;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+  .content-image-spot {
+    max-width: 100%; /* Allows images to adjust to smaller screens */
+  }
+
+  .content-image-spot-wrapper {
+    flex-direction: column; /* Stack images vertically */
+    align-items: center; /* Center the images */
+  }
 }

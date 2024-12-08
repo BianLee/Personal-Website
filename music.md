@@ -85,11 +85,15 @@
 <br/><br/>There are many directions and goals I wish to pursue with my music. Right now, I am solely focused on consistently putting out new sounds and seeing what works and what doesn't. I also aim to put out collaborative projects with other vocalists. Later in my music career, I wish to contribute to compositional work, such as writing film scores or composing for musicals.
 <br/><br/></p>
 
-  <center>
+<center>
+  <div class="content-image-spot-wrapper">
+    <img src="/assets/spot24.PNG" alt="Spotify Wrapped 2022" class="content-image-spot">
     <img src="/assets/spot.png" alt="Spotify Wrapped 2023" class="content-image-spot">
     <img src="/assets/spot22.JPG" alt="Spotify Wrapped 2022" class="content-image-spot">
-    <br/><br/><i>2023 & 2022 Spotify Wrapped. A big thank you to all my fans!</i>
-  </center>
+  </div>
+  <br/><br/><i>2023 & 2022 Spotify Wrapped. A big thank you to all my fans!</i>
+</center>
+
 </p>
 
 <!--

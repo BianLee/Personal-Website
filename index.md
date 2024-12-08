@@ -87,6 +87,26 @@
         </p>
     </div>
 </div>
+<div class="content-container mobile-only">
+    <div class="image-container">
+    <img src="/assets/vestr.jpg" alt="Vestr.io" class="content-image firm-logo" loading="lazy">
+    </div>
+    <div class="content-text">
+        <p>
+         <span class="internship-title">
+                <span class="role"><b>Analyst Intern</b></span>
+                <span class="hyphen">&nbsp;-&nbsp;</span>
+                 <span class="company" style="font-weight: 800">Vestr</span>
+            </span>
+            <span style="color: gray" class="smaller-mobile-date">Nov 2022 - Jun 2023 • Clemson, South Carolina</span>
+            <br/><span class="smaller-mobile">- Vestr.io & Vestrdata.com</span>
+
+        </p>
+    </div>
+</div>
+
+
+
 
 <!-- 
 <div class="content-container mobile-only">
