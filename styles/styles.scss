@@ -969,3 +969,23 @@ nav a.active {
     align-items: center; /* Center the images */
   }
 }
+
+.state-full {
+  font-size: 0.9rem;
+}
+
+.state-abbr {
+  display: none;
+  font-size: 0.9rem;
+}
+
+@media (max-width: 768px) { /* Adjust breakpoint for mobile view */
+  .state-full {
+    display: none;
+    font-size: 0.9rem;
+  }
+  .state-abbr {
+    display: inline;
+    font-size: 0.9rem;
+  }
+}

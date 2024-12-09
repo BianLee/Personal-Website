@@ -8,7 +8,7 @@
     <div class="content-text">
         <p style="font-size: 1.05rem" class="intro-line-height">
           <b style="font-size: 1.5rem">Bian Lee 🇺🇸</b>
-           <br/>I am a Junior at University of California, Davis, pursuing B.S. Computer Science and B.A. Economics. I'm interested in software engineering, data analytics and investing. I also compose and produce music. Please reach me at bianlee2004@gmail.com.
+           <br/>I am a Junior at the University of California, Davis, pursuing B.S. Computer Science and B.A. Economics. I'm interested in software engineering and data analytics. Please reach me at bianlee2004@gmail.com.
 
          </p>
          <button id="darkModeToggle" aria-label="Toggle dark mode">🌙</button>
@@ -53,7 +53,9 @@
                 
                 
             </span>
-              <span style="color: gray" class="smaller-mobile-date">Jan 2025 - Apr 2025 • Bellevue, Washington</span>
+              <span style="color: gray" class="smaller-mobile-date">Jan 2025 - Apr 2025 • Bellevue, 
+              <span class="state-full">Washington</span>
+            <span class="state-abbr">WA</span></span>
          <br/><span class="smaller-mobile">- Winter 2025</span>
         </p>
     </div>
@@ -71,7 +73,10 @@
                 
 
             </span>
-              <span style="color: gray" class="smaller-mobile-date">Jun 2024 - Aug 2024 • Merrimack, New Hampshire</span>
+              <span style="color: gray" class="smaller-mobile-date">Jun 2024 - Aug 2024 • Merrimack, 
+              <span class="state-full">New Hampshire</span>
+            <span class="state-abbr">NH</span>
+            </span>
          <br/><span class="smaller-mobile">- Core Brokerage Platform Technology</span>
         </p>
     </div>
@@ -88,7 +93,12 @@
                 <span class="hyphen">&nbsp;-&nbsp;</span>
                 <span class="role"><b>Data Analyst Intern</b></span>
             </span>
-            <span style="color: gray" class="smaller-mobile-date">Jun 2023 - May 2024 • Sacramento, California</span>
+                    <span class="smaller-mobile-date" style="color: gray;">
+            Jun 2023 - May 2024 • Sacramento, 
+            <span class="state-full">California</span>
+            <span class="state-abbr">CA</span>
+            </span>
+
             <br/><span class="smaller-mobile">- Carl Moyer Memorial Air Quality Standards Attainment Program under Incentives & Technology Advancement Branch (Year-round intern)</span>
         </p>
     </div>
@@ -106,7 +116,9 @@
                 
                 
             </span>
-            <span style="color: gray" class="smaller-mobile-date">Nov 2022 - Jun 2023 • Clemson, South Carolina</span>
+            <span style="color: gray" class="smaller-mobile-date">Nov 2022 - Jun 2023 • Clemson, 
+            <span class="state-full">South Carolina</span>
+            <span class="state-abbr">SC</span></span>
             <br/><span class="smaller-mobile">- Vestr.io & Vestrdata.com</span>
 
         </p>
@@ -230,7 +242,8 @@ create prepatory CyberPatriot (security competition) materials, as a national se
                 <span class="school-description smaller-mobile-date">B.S. Computer Science, B.A. Economics</span>
             </span>
             <span style="color: gray" class="smaller-mobile-date">'22-26 • Davis, California</span>
-            <br/><span class="smaller-mobile">Object-Oriented Programming, Programming & Problem Solving, Data Structures & Algorithms, Computer Architecture, Discrete & Abstract Mathematics, Machine-Dependent Programming, Human-Computer Interaction, Computational Social Science, Vehicle & Transportation Technology, Probability Theory, Machine Learning</span>
+            <br/><span class="smaller-mobile">Object-Oriented Programming (C++), Data Structures & Algorithms, Computer Architecture, Programming Languages,
+Algorithm Design & Analysis, Machine-Dependent Programming (x86), Computer Networks, Human-Computer Interaction, Computational Social Science, Transportation Systems, Discrete/Abstract Math, Probability Theory, Macro/Microeconomics</span>
         </p>
     </div>
 </div>
@@ -400,6 +413,7 @@ authentication, real-time 1:1 messaging, profile creation/editing, searching, an
         </div>
     </a>
 </div>
+
 <h4>Awards & Certifications</h4>
 <div class="awards-card-container">
     <!-- Award 1 -->
