@@ -28,9 +28,11 @@
     <div class="content-text">
         <p>
             <span class="internship-title">
-                <span class="role"><b>Incoming Software Engineer Intern</b></span>
+                <span class="company" style="font-weight: 800">Walmart Global Tech</span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
-                 <span class="company" style="font-weight: 800">Walmart Global Tech</span>
+                <span class="role"><b>Incoming Software Engineer Intern</b></span>
+                
+                
             </span>
               <span style="color: gray" class="smaller-mobile-date">Jun 2024 - Aug 2024 • Sunnyvale, California</span>
          <br/><span class="smaller-mobile">- Summer 2025</span>
@@ -45,9 +47,11 @@
     <div class="content-text">
         <p>
             <span class="internship-title">
-                <span class="role"><b>Incoming Software Development Engineer Intern</b></span>
+                <span class="company" style="font-weight: 800">Amazon</span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
-                 <span class="company" style="font-weight: 800">Amazon</span>
+                <span class="role"><b>Incoming Software Development Engineer Intern</b></span>
+                
+                
             </span>
               <span style="color: gray" class="smaller-mobile-date">Jan 2025 - Apr 2025 • Bellevue, Washington</span>
          <br/><span class="smaller-mobile">- Winter 2025</span>
@@ -61,9 +65,11 @@
     <div class="content-text">
         <p>
             <span class="internship-title">
-                <span class="role"><b>Software Engineer Intern</b></span>
+                <span class="company" style="font-weight: 800">Fidelity Investments</span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
-                 <span class="company" style="font-weight: 800">Fidelity Investments</span>
+                <span class="role"><b>Software Engineer Intern</b></span>
+                
+
             </span>
               <span style="color: gray" class="smaller-mobile-date">Jun 2024 - Aug 2024 • Merrimack, New Hampshire</span>
          <br/><span class="smaller-mobile">- Core Brokerage Platform Technology</span>
@@ -78,9 +84,9 @@
     <div class="content-text">
         <p>
             <span class="internship-title">
-                <span class="role"><b>Data Analyst Intern</b></span>
+                <span class="company" style="font-weight: 800">California Air Resources Board</span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
-                 <span class="company" style="font-weight: 800">California Air Resources Board</span>
+                <span class="role"><b>Data Analyst Intern</b></span>
             </span>
             <span style="color: gray" class="smaller-mobile-date">Jun 2023 - May 2024 • Sacramento, California</span>
             <br/><span class="smaller-mobile">- Carl Moyer Memorial Air Quality Standards Attainment Program under Incentives & Technology Advancement Branch (Year-round intern)</span>
@@ -94,9 +100,11 @@
     <div class="content-text">
         <p>
          <span class="internship-title">
-                <span class="role"><b>Analyst Intern</b></span>
+                <span class="company" style="font-weight: 800">Vestr</span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
-                 <span class="company" style="font-weight: 800">Vestr</span>
+                <span class="role"><b>Analyst Intern</b></span>
+                
+                
             </span>
             <span style="color: gray" class="smaller-mobile-date">Nov 2022 - Jun 2023 • Clemson, South Carolina</span>
             <br/><span class="smaller-mobile">- Vestr.io & Vestrdata.com</span>
