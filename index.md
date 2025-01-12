@@ -49,7 +49,7 @@
             <span class="internship-title">
                 <span class="company" style="font-weight: 800">Amazon</span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
-                <span class="role"><b>Incoming Software Development Engineer Intern</b></span>
+                <span class="role"><b>Software Development Engineer Intern</b></span>
                 
                 
             </span>

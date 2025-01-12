@@ -9,6 +9,11 @@
         </a>
     </div>
      -->
+        <div class="grid-item">
+        <a href="https://open.spotify.com/album/64iclRxyghKPAWUvwHQ7hX?si=2n3nypAlQ06NVcaBOba2ww" target="_blank">
+            <img src="/assets/music/all_my_life.png" loading="lazy">
+        </a>
+        </div>
            <div class="grid-item">
         <a href="https://open.spotify.com/album/64iclRxyghKPAWUvwHQ7hX?si=2n3nypAlQ06NVcaBOba2ww" target="_blank">
             <img src="/assets/music/been_through_it_all.png" loading="lazy">
@@ -66,8 +71,8 @@
 
 <center>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2wBwljA6Qw1NkSunDhFKYB?utm_source=generator" width="80%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<br/><br/><i>been through it all ft. aftrr!</i>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/49xnXKdE98XHqOh2Hic1Bn?utm_source=generator" width="80%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<br/><br/><i>all my life ft. hartfxlt</i>
 </center>
 
 <br/><p style="font-size: 1.05rem;">In 2022, I was interviewed and featured in <a href="https://www.arkansasonline.com/news/2022/jul/10/opinion-paper-trails-california-teen-writes/" target="blank"><i><mark>The Arkansas Democrat-Gazette</mark></i></a> for my track <i>Arkansas</i> -- one of the 25 tracks that I put out in association with US States (sort of like the same project Sufjan Stevens began but never completed).
@@ -77,7 +82,7 @@
 <center>
   <iframe class="youtube-video" src="https://www.youtube.com/embed/klX6rMRBZgA?si=uITJszuVD53qb8x_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   <br/><br/>
-  <iframe class="youtube-video" src="https://www.youtube.com/embed/rVmD91GerfQ?si=E5fuRVqiqA3BjC44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe class="youtube-video" src="https://www.youtube.com/embed/wWadmW298cs?si=_xCYc7fDWWV6xP2X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
 
 <p style="font-size: 1.05rem;"><br/>I've always been pretty prolific with my releases, and since starting this journey 2 years ago, there hasn't been a moment in time where I wasn't working on music. Currently, I'm busy sending out beats and backtracks to other artists (vocalists) for a potential collaboration. If you are interested in working with me, please reach me at <a href="mailto:bostonlobsterrecords@gmail.com"><mark>bostonlobsterrecords@gmail.com</mark></a>. You can also join my <a href="https://discord.com/invite/hMUU5tzVWH" target="_blank"><mark>Discord server</mark></a> (if you're reading this, please join!)
