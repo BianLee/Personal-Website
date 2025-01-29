@@ -20,26 +20,25 @@
 
   <div class="web-only-margin"></div>
 
-<!-- 
+
 <div class="content-container mobile-only">
 <div class="image-container">
-    <img src="/assets/walmart_global_tech.jpeg" alt="Amazon" class="content-image firm-logo" loading="lazy">
+    <img src="/assets/coinbase_logo.jpeg" alt="Amazon" class="content-image firm-logo" loading="lazy">
     </div>
     <div class="content-text">
         <p>
             <span class="internship-title">
-                <span class="company" style="font-weight: 800">Walmart Global Tech</span>
+                <span class="company" style="font-weight: 800">Coinbase</span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
                 <span class="role"><b>Incoming Software Engineer Intern</b></span>
                 
                 
             </span>
-              <span style="color: gray" class="smaller-mobile-date">Jun 2024 - Aug 2024 • Sunnyvale, California</span>
+              <span style="color: gray" class="smaller-mobile-date">Jun 2025 - Sep 2025 • San Francisco, California</span>
          <br/><span class="smaller-mobile">- Summer 2025</span>
         </p>
     </div>
 </div>
--->
 <div class="content-container mobile-only">
 <div class="image-container">
     <img src="/assets/amazon_logo.jpeg" alt="Amazon" class="content-image firm-logo" loading="lazy">
