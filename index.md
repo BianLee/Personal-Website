@@ -39,6 +39,23 @@
         </p>
     </div>
 </div>
+<style>
+/* Hide mobile version by default */
+.role-mobile {
+    display: none;
+}
+
+/* Show mobile version and hide desktop version on smaller screens */
+@media (max-width: 768px) {
+    .role-desktop {
+        display: none;
+    }
+    .role-mobile {
+        display: inline;
+    }
+}
+</style>
+
 <div class="content-container mobile-only">
 <div class="image-container">
     <img src="/assets/amazon_logo.jpeg" alt="Amazon" class="content-image firm-logo" loading="lazy">
@@ -49,7 +66,7 @@
                 <span class="company" style="font-weight: 800">Amazon</span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
                 <span class="role"><b>Software Development Engineer Intern</b></span>
-                
+
                 
             </span>
               <span style="color: gray" class="smaller-mobile-date">Jan 2025 - Apr 2025 • Bellevue, 
