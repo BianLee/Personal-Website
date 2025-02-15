@@ -9,8 +9,13 @@
         </a>
     </div>
      -->
+      <div class="grid-item">
+        <a href="https://open.spotify.com/track/2nuNtSO32vIbPgOO4FUJHi?si=0276fd49f4264f86" target="_blank">
+            <img src="/assets/music/wish.png" loading="lazy">
+        </a>
+        </div>
         <div class="grid-item">
-        <a href="https://open.spotify.com/album/64iclRxyghKPAWUvwHQ7hX?si=2n3nypAlQ06NVcaBOba2ww" target="_blank">
+        <a href="https://open.spotify.com/track/49xnXKdE98XHqOh2Hic1Bn?si=2da957795c864f2f" target="_blank">
             <img src="/assets/music/all_my_life.png" loading="lazy">
         </a>
         </div>

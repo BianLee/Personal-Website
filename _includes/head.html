@@ -19,8 +19,88 @@
 
     
     <body>
+        
         <div id="container">
             <div class="content">
+                <div id="notification-bar" class="notification-bar">
+    <div class="notification-content">
+        <span>🎵 New Release: Stream my latest song "wish" now!</span>
+        <button onclick="dismissNotification()" class="close-button" aria-label="Dismiss notification">✕</button>
+    </div>
+</div>
+
+<style>
+.notification-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #2563eb;
+    color: white;
+    z-index: 1000;
+    padding: 12px;
+    text-align: center;
+    font-size: 0.95rem;
+}
+
+.notification-content {
+    max-width: 960px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+}
+
+.close-button {
+    background: none;
+    border: none;
+    color: white;
+    cursor: pointer;
+    padding: 4px 8px;
+    font-size: 1rem;
+    border-radius: 50%;
+    transition: background-color 0.2s;
+}
+
+.close-button:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Adjust main content padding when notification is present */
+body {
+    padding-top: 46px;
+}
+
+/* Hide notification when dismissed */
+.notification-bar.hidden {
+    display: none;
+}
+
+@media (max-width: 768px) {
+    .notification-content {
+        font-size: 0.9rem;
+    }
+}
+</style>
+
+<script>
+function dismissNotification() {
+    const notification = document.getElementById('notification-bar');
+    notification.classList.add('hidden');
+    document.body.style.paddingTop = '0';
+    
+    // Store the dismissal in localStorage
+    localStorage.setItem('notificationDismissed', 'true');
+}
+
+// Check if notification was previously dismissed
+if (localStorage.getItem('notificationDismissed') === 'true') {
+    document.getElementById('notification-bar').classList.add('hidden');
+    document.body.style.paddingTop = '0';
+}
+</script>
+
                 <center>
                 <div class="main-content">
                     <!-- <h1 class="global-title" style="user-select: none;">{{ site.title }}</h1>
