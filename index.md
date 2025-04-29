@@ -8,7 +8,7 @@
     <div class="content-text">
         <p style="font-size: 1.05rem" class="intro-line-height">
           <b style="font-size: 1.5rem">Bian Lee 🇺🇸</b>
-           <br/>I am a Junior at the University of California, Davis, pursuing B.S. Computer Science and B.A. Economics. I'm interested in software engineering and data analytics. Please reach me at bianlee2004@gmail.com.
+           <br/>I am a Junior at the University of California, Davis, pursuing B.S. Computer Science and B.A. Economics. I'm interested in software engineering. Please reach me at bianlee2004@gmail.com.
 
          </p>
          <button id="darkModeToggle" aria-label="Toggle dark mode">🌙</button>
@@ -72,7 +72,7 @@
               <span style="color: gray" class="smaller-mobile-date">Jan 2025 - Apr 2025 • Bellevue, 
               <span class="state-full">Washington</span>
             <span class="state-abbr">WA</span></span>
-         <br/><span class="smaller-mobile">- Winter 2025</span>
+         <br/><span class="smaller-mobile">- Middle Mile Fleet Management</span>
         </p>
     </div>
 </div>
@@ -258,8 +258,7 @@ create prepatory CyberPatriot (security competition) materials, as a national se
                 <span class="school-description smaller-mobile-date">B.S. Computer Science, B.A. Economics</span>
             </span>
             <span style="color: gray" class="smaller-mobile-date">'22-26 • Davis, California</span>
-            <br/><span class="smaller-mobile">Object-Oriented Programming (C++), Data Structures & Algorithms, Computer Architecture, Programming Languages,
-Algorithm Design & Analysis, Machine-Dependent Programming (x86), Computer Networks, Human-Computer Interaction, Computational Social Science, Transportation Systems, Discrete/Abstract Math, Probability Theory, Macro/Microeconomics</span>
+            <br/><span class="smaller-mobile">Object-Oriented Programming, Data Structures & Algorithms, Computer Architecture, Programming Languages, Algorithm Design & Analysis, Machine-Dependent Programming (x86), Computer Networks, Linux, Databases, Theory of Computation, Human-Computer Interaction, Computational Social Science, Transportation Systems, Discrete/Abstract Mathematics</span>
         </p>
     </div>
 </div>
@@ -374,6 +373,20 @@ function toggleMoreEducation() {
 <div style="margin-top:1rem"></div>
 <div class="card-container">
     <!-- Card 1 -->
+    <a href="https://devpost.com/software/fundflow-2x7udb" target="_blank" class="card-link">
+        <div class="card">
+            <h3>Time Series Analysis on UC Davis Endowment Data</h3>
+            <p>Applied time series analysis, simple exponential smoothing, and regression modeling to forecast school endowment and expenditure trends, winning the Best Statistical Model track at HackDavis
+            <br/><br/><span style="color: gray">JavaScript</span></p>
+        </div>
+    </a>
+    <a href="https://github.com/BianLee/ECS152a/blob/master/Project3/proj3_NghiDao_921147615_BianLee_920763430.pdf" target="_blank" class="card-link">
+        <div class="card">
+            <h3>Custom TCP Protocol Design & Implementation</h3>
+            <p> Designed and implemented a custom TCP protocol with improved congestion control over TCP Reno, winning 1st place in ECS 152 in-class competition and earning automatic A+ in class
+            <br/><br/><span style="color: gray">JavaScript</span></p>
+        </div>
+    </a>
     <a href="https://github.com/BianLee/HackMIT-Solver" target="_blank" class="card-link">
         <div class="card">
             <h3>HackMIT Admission Puzzle Solver</h3>
@@ -388,6 +401,7 @@ function toggleMoreEducation() {
             <br/><br/><span style="color: gray">TensorFlow, Python</span></p>
         </div>
     </a>
+    <!--
      <a href="https://github.com/BianLee/davisrideshare" target="_blank" class="card-link">
         <div class="card">
             <h3>DavisRideShare.com</h3>
@@ -403,6 +417,7 @@ authentication, real-time 1:1 messaging, profile creation/editing, searching, an
             <br/><br/><span style="color: gray">Next.js, Supabase</span></p>
         </div>
     </a>
+    -->
       <a href="https://github.com/ritvikir/hackdavis" target="_blank" class="card-link">
         <div class="card">
             <h3>DSM-5 Diagnostic Chatbot with Semantic Search</h3>
@@ -416,6 +431,7 @@ authentication, real-time 1:1 messaging, profile creation/editing, searching, an
             <p>Deployed Solidity smart contracts on mainnet for ERC-20 token and a decentralized exchange (tradable using Metamask wallet), implementing constant product market formula in Automated Market Making (AMM) systems. <br/><br/><span style="color: gray">Solidity, Web3.js, React, Truffle Suite</span></p>
         </div>
     </a>
+    <!--
     <a href="https://github.com/BianLee/opensourcecollage.com" target="_blank" class="card-link">
         <div class="card">
             <h3>EdTech App (opensourcecollage.com)</h3>
@@ -428,6 +444,7 @@ authentication, real-time 1:1 messaging, profile creation/editing, searching, an
             <p>An interactive map on the front-end that plots city coordinates upon user input, and renders a SVG map (with pan & zoom functionality) using D3.js library and svg-pan-zoom.<br/><br/> <span style="color: gray">Next.js, D3.js</span></p>
         </div>
     </a>
+     -->
 </div>
 
 <h4>Awards & Certifications</h4>
@@ -524,8 +541,8 @@ authentication, real-time 1:1 messaging, profile creation/editing, searching, an
 <br/><i>Leetcode Stats!</i>
 
 <div style="margin-top:1rem"></div>
-- <b>Languages</b>: Python, Java, C, C++, JavaScript, TypeScript, Golang, Solidity, SQL, HTML, CSS
-- <b>Framework</b>: React.js, Next.js, Remix, Node.js, Express.js, Web3.js, D3.js, Git, GitHub, MongoDB, Tailwind, Drupal, Jupyter Notebook, PostgreSQL, Svelte, BeautifulSoup, Postman, Clerk, Supabase, Docker, Zustand, Linux, Microsoft Excel
+- <b>Languages</b>: Python, Java, HTML/CSS/JavaScript, C, C++
+- <b>Frameworks/Tools</b>: Git, Spring Boot, JUnit, Jenkins, React.js, Selenium, PostgreSQL, Insomnia, Docker, Linux, Excel
 - Native Fluency in English and Korean
 
 <br/>
@@ -535,7 +552,7 @@ authentication, real-time 1:1 messaging, profile creation/editing, searching, an
             <a href="https://www.instagram.com/bian.lee/" target="_blank"><i class="fab fa-instagram"></i></a>
             <a href="https://github.com/BianLee" target="_blank"><i class="fab fa-github"></i></a>
             <a href="https://discord.com/invite/hMUU5tzVWH" target="_blank"><i class="fab fa-discord"></i></a>
-            <a href="https://www.youtube.com/channel/UCKEiBX4OdZhM8JeUpIWt4mw" target="_blank"><i class="fab fa-youtube"></i></a>
+            <a href="https://www.youtube.com/@bianleemusic" target="_blank"><i class="fab fa-youtube"></i></a>
             <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=zhdRRE5RQk2m6AqD11qmyQ" target="_blank"><i class="fab fa-spotify"></i></a>
             <a href="https://bianlee.bandcamp.com/" target="_blank"><i class="fab fa-bandcamp"></i></a>
             <!-- <a href="https://www.deezer.com/us/artist/162218717/" target="_blank"><i class="fab fa-deezer"></i></a> -->

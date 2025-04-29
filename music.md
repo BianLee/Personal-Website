@@ -72,7 +72,7 @@
 </div>
 
 <p style="font-size: 1.05rem;">
-<br/>As a classical-trained instrumentalist and a musician, I strive to write music that leaves lasting impact on listeners. I grew up playing the piano and cello, and have been part of numerous orchestras, ensembles, choirs, and concours. I studied theory and began my compositional journey in my senior year of high school through writing <a href="assets/composition_portfolio.pdf" target="_blank"><mark>short piano compositions</mark></a>, then later making a transition to producing digitally on DAWs. I have since publicly released 3 albums, 2 EPs, and 4 singles, amassing over 30k+ streams and 15k+ listeners from major streaming platforms.<br/><br/>
+<br/>I am a classically-trained instrumentalist and a composer/producer. I grew up playing the piano and cello, and have been part of numerous orchestras, ensembles, choirs, and concours. I studied theory and began my compositional journey in my senior year of high school through writing <a href="assets/composition_portfolio.pdf" target="_blank"><mark>short piano compositions</mark></a>, then later making a transition to producing digitally on DAWs. <br/><br/>
 
 <center>
 
@@ -82,7 +82,9 @@
 
 <br/><p style="font-size: 1.05rem;">In 2022, I was interviewed and featured in <a href="https://www.arkansasonline.com/news/2022/jul/10/opinion-paper-trails-california-teen-writes/" target="blank"><i><mark>The Arkansas Democrat-Gazette</mark></i></a> for my track <i>Arkansas</i> -- one of the 25 tracks that I put out in association with US States (sort of like the same project Sufjan Stevens began but never completed).
 
-<br/><br/>In 2023, I began a separate <a href="https://www.youtube.com/@realbostonlobster" target="_blank"><mark>YouTube channel</mark></a> and an alt <a href="https://open.spotify.com/artist/2BT3MJmD79VsdDMkiai5Qq?si=Qx_XtQzKT_KuS2GUlgNuJQ" target="_blank"><mark>Spotify</mark></a> artist page under the name BostonLobster to release an alternate line of instrumental tracks. This past summer, I went back to practicing the classical pieces I'd learned previously (mostly in my younger years) to record and build a <a href="https://www.youtube.com/playlist?list=PLO_OB-_k9EKdsaGAFtUeUUvUh5R1NBXY-" target="_blank"><mark>piano performance repertoire</mark></a>. I also began a <a href="https://bianlee.substack.com/" target="_blank"><mark>Substack</mark></a> to document my musical journey and write about the many ideas I had regarding the current state of the music industry, mainstream sounds, production techniques, etc. I haven't been able to post as regularly as I would have liked, but it's still work in progress.<br/><br/></p>
+<br/><br/>In 2023, I started this <a href="https://www.youtube.com/@bianleemusic" target="_blank"><mark>YouTube channel</mark></a> and began recroding and building a <a href="https://www.youtube.com/playlist?list=PLO_OB-_k9EKdsaGAFtUeUUvUh5R1NBXY-" target="_blank"><mark>piano performance repertoire</mark></a>.
+
+<br/><br/>
 
 <center>
   <iframe class="youtube-video" src="https://www.youtube.com/embed/klX6rMRBZgA?si=uITJszuVD53qb8x_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -90,19 +92,25 @@
   <iframe class="youtube-video" src="https://www.youtube.com/embed/wWadmW298cs?si=_xCYc7fDWWV6xP2X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
 
-<p style="font-size: 1.05rem;"><br/>I've always been pretty prolific with my releases, and since starting this journey 2 years ago, there hasn't been a moment in time where I wasn't working on music. Currently, I'm busy sending out beats and backtracks to other artists (vocalists) for a potential collaboration. If you are interested in working with me, please reach me at <a href="mailto:bostonlobsterrecords@gmail.com"><mark>bostonlobsterrecords@gmail.com</mark></a>. You can also join my <a href="https://discord.com/invite/hMUU5tzVWH" target="_blank"><mark>Discord server</mark></a> (if you're reading this, please join!)
-<br/><br/>At the moment, my favorite songs are <a href="https://www.youtube.com/watch?v=AewLWpaXqLA&ab_channel=ROTKEN" target="_blank"><mark><i>Be Just Fine</i></mark></a> and <a href="https://www.youtube.com/watch?v=mrkM5B2M8pY&ab_channel=ROTKEN" target="_blank"><mark><i>Baby Choppa</i></mark></a> by Rot Ken, and <a href="https://www.youtube.com/watch?v=jYAlqHP6-xo&ab_channel=kmoe" target="_blank"><i><mark>homesick</mark></i></a> by kmoe. The producers that I look up to include Wheezy, Pharell, JetsonMade and the collectives Internet Money and Working On Dying. I listen to (and take inspiration from) almost all music genres, but I am a particular fan of melodic rap.
-<br/><br/>There are many directions and goals I wish to pursue with my music. Right now, I am solely focused on consistently putting out new sounds and seeing what works and what doesn't. I also aim to put out collaborative projects with other vocalists. Later in my music career, I wish to contribute to compositional work, such as writing film scores or composing for musicals.
-<br/><br/></p>
+<p style="font-size: 1.05rem;"><br/>Last year I discovered hyperpop and I've since been a big fan of super melodic/dreamy sounds in emoplugg/diary/digicore genre -- it is also the sound that I most align with in my work. I am also currently focused on releasing vocal tracks.
 
+<br/><br/>At the moment my favorite artists are owtiss, dom!, angelicxmei, utumiyqcom, eunhae and my favorite producers are yashio, decago, 1rokit, and ddertbAg. I'm always looking to work with vocal/prod talent -- please reach me via discord by joining my <a href="https://discord.com/invite/hMUU5tzVWH" target="_blank"><mark>server</mark></a> or adding me: bostonlobstergang
+<br/><br/>
+
+<center>
+  <iframe class="youtube-video" src="https://www.youtube.com/embed/vvb1XAm_T8E?si=3TybqkQTvltWguAL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
+<br/><br/>
+<!--- 
 <center>
   <div class="content-image-spot-wrapper">
     <img src="/assets/spot24.PNG" alt="Spotify Wrapped 2022" class="content-image-spot">
     <img src="/assets/spot.png" alt="Spotify Wrapped 2023" class="content-image-spot">
     <img src="/assets/spot22.JPG" alt="Spotify Wrapped 2022" class="content-image-spot">
   </div>
-  <br/><br/><i>2023 & 2022 Spotify Wrapped. A big thank you to all my fans!</i>
+  <br/><br/><i>2022, 2023, 2024 Spotify Wrapped. A big thank you to all my listeners!</i>
 </center>
+-->
 
 </p>
 
