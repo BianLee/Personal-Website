@@ -1,14 +1,9 @@
 ---
 ---
 
+
+<!-- 
 <div class="grid-container">
-<!--
-  <div class="grid-item">
-        <a href="https://open.spotify.com/album/1Mp9fOFvgOWVYWs0NjTu6p?si=s9iC5mqNQBy4V4EERgqB6g" target="_blank">
-            <img src="/assets/music/bianlee.png" loading="lazy">
-        </a>
-    </div>
-     -->
       <div class="grid-item">
         <a href="https://open.spotify.com/track/2nuNtSO32vIbPgOO4FUJHi?si=0276fd49f4264f86" target="_blank">
             <img src="/assets/music/wish.png" loading="lazy">
@@ -70,17 +65,25 @@
         </a>
     </div>
 </div>
+-->
+
+<center>
+<iframe width="80%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2088605895&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"></div>
+
+<iframe width="80%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2076023684&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"></div>
+
+<iframe width="80%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2090099874&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"></div>
+
+<br/><br/><iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/49xnXKdE98XHqOh2Hic1Bn?utm_source=generator" width="80%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<br/><br/><i>Listen on Spotify & SoundCloud</i>
+
+</center>
+
 
 <p style="font-size: 1.05rem;">
 <br/>I am a classically-trained instrumentalist and a composer/producer. I grew up playing the piano and cello, and have been part of numerous orchestras, ensembles, choirs, and concours. I studied theory and began my compositional journey in my senior year of high school through writing <a href="assets/composition_portfolio.pdf" target="_blank"><mark>short piano compositions</mark></a>, then later making a transition to producing digitally on DAWs. <br/><br/>
 
-<center>
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/49xnXKdE98XHqOh2Hic1Bn?utm_source=generator" width="80%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<br/><br/><i>all my life ft. hartfxlt</i>
-</center>
-
-<br/><p style="font-size: 1.05rem;">In 2022, I was interviewed and featured in <a href="https://www.arkansasonline.com/news/2022/jul/10/opinion-paper-trails-california-teen-writes/" target="blank"><i><mark>The Arkansas Democrat-Gazette</mark></i></a> for my track <i>Arkansas</i> -- one of the 25 tracks that I put out in association with US States (sort of like the same project Sufjan Stevens began but never completed).
+<p style="font-size: 1.05rem;">In 2022, I was interviewed and featured in <a href="https://www.arkansasonline.com/news/2022/jul/10/opinion-paper-trails-california-teen-writes/" target="blank"><i><mark>The Arkansas Democrat-Gazette</mark></i></a> for my track <i>Arkansas</i> -- one of the 25 tracks that I put out in association with US States (sort of like the same project Sufjan Stevens began but never completed).
 
 <br/><br/>In 2023, I started this <a href="https://www.youtube.com/@bianleemusic" target="_blank"><mark>YouTube channel</mark></a> and began recroding and building a <a href="https://www.youtube.com/playlist?list=PLO_OB-_k9EKdsaGAFtUeUUvUh5R1NBXY-" target="_blank"><mark>piano performance repertoire</mark></a>.
 

@@ -551,6 +551,7 @@ authentication, real-time 1:1 messaging, profile creation/editing, searching, an
         <a href="https://linkedin.com/in/bianlee" target="_blank"><i class="fab fa-linkedin"></i></a>
             <a href="https://www.instagram.com/bian.lee/" target="_blank"><i class="fab fa-instagram"></i></a>
             <a href="https://github.com/BianLee" target="_blank"><i class="fab fa-github"></i></a>
+            <a href="https://soundcloud.com/bianlee" target="_blank"><i class="fab fa-soundcloud"></i></a>
             <a href="https://discord.com/invite/hMUU5tzVWH" target="_blank"><i class="fab fa-discord"></i></a>
             <a href="https://www.youtube.com/@bianleemusic" target="_blank"><i class="fab fa-youtube"></i></a>
             <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=zhdRRE5RQk2m6AqD11qmyQ" target="_blank"><i class="fab fa-spotify"></i></a>
