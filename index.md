@@ -30,7 +30,7 @@
             <span class="internship-title">
                 <span class="company" style="font-weight: 800">Coinbase</span>
                 <span class="hyphen">&nbsp;-&nbsp;</span>
-                <span class="role"><b>Incoming Software Engineer Intern</b></span>
+                <span class="role"><b>Software Engineer Intern</b></span>
                 
                 
             </span>
