@@ -35,7 +35,7 @@
                 
             </span>
               <span style="color: gray" class="smaller-mobile-date">Jun 2025 - Sep 2025 • San Francisco, California</span>
-         <br/><span class="smaller-mobile">- Summer 2025</span>
+         <br/><span class="smaller-mobile">- Simple Assets</span>
         </p>
     </div>
 </div>
