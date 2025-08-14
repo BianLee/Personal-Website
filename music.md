@@ -85,7 +85,7 @@
 
 <p style="font-size: 1.05rem;">In 2022, I was interviewed and featured in <a href="https://www.arkansasonline.com/news/2022/jul/10/opinion-paper-trails-california-teen-writes/" target="blank"><i><mark>The Arkansas Democrat-Gazette</mark></i></a> for my track <i>Arkansas</i> -- one of the 25 tracks that I put out in association with US States (sort of like the same project Sufjan Stevens began but never completed).
 
-<br/><br/>In 2023, I started this <a href="https://www.youtube.com/@bianleemusic" target="_blank"><mark>YouTube channel</mark></a> and began recroding and building a <a href="https://www.youtube.com/playlist?list=PLO_OB-_k9EKdsaGAFtUeUUvUh5R1NBXY-" target="_blank"><mark>piano performance repertoire</mark></a>.
+<br/><br/>In 2023, I started this <a href="https://www.youtube.com/@bianleemusic" target="_blank"><mark>YouTube channel</mark></a> and began recording and building a <a href="https://www.youtube.com/playlist?list=PLO_OB-_k9EKdsaGAFtUeUUvUh5R1NBXY-" target="_blank"><mark>piano performance repertoire</mark></a>.
 
 <br/><br/>
 

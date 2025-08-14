@@ -555,7 +555,7 @@ authentication, real-time 1:1 messaging, profile creation/editing, searching, an
             <a href="https://discord.com/invite/hMUU5tzVWH" target="_blank"><i class="fab fa-discord"></i></a>
             <a href="https://www.youtube.com/@bianleemusic" target="_blank"><i class="fab fa-youtube"></i></a>
             <a href="https://open.spotify.com/artist/5QHoUe5kwjvOfjfHrbVTBY?si=zhdRRE5RQk2m6AqD11qmyQ" target="_blank"><i class="fab fa-spotify"></i></a>
-            <a href="https://bianlee.bandcamp.com/" target="_blank"><i class="fab fa-bandcamp"></i></a>
+            <!-- <a href="https://bianlee.bandcamp.com/" target="_blank"><i class="fab fa-bandcamp"></i></a> -->
             <!-- <a href="https://www.deezer.com/us/artist/162218717/" target="_blank"><i class="fab fa-deezer"></i></a> -->
         </div>
     </footer>
